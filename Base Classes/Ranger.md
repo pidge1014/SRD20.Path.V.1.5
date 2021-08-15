@@ -116,7 +116,7 @@ This distance increases by 5 feet every 3 levels thereafter.<br/>
 **Self Reliant:**  At 6th level, when you and your animal companion are not within 30 feet of each other, you gain a +2 dodge bonus to AC.  This bonus increases by +2 every 4 levels thereafter.  This distance decreases by 5 feet every 4 levels thereafter, to a minimum of 5 feet.<br/>
 **Unspoken Communication:**  Your animal companion can act independently of you, even if you fall unconcious.  If you are unconcous for any reason, your companion will not defend your body but will instead act with any surviving allies as effectively as possible.  Your companion will listen to whoever in the party they have known the longest or bonded with the most.<br/>
 
-* **Magical Specialty (Ex):** Each ranger has a slightly different relationship with the fey wilds they draw their spell's power from.  Beginning at 7th level, a ranger has developed their own magical tradition.<br/>
+***Magical Specialty (Ex):*** Each ranger has a slightly different relationship with the fey wilds they draw their spell's power from.  Beginning at 7th level, a ranger has developed their own magical tradition.<br/>
 **Focused Academic:**  You have focused on studying the nature of your magical bond with nature.
 **Expanded Spellwork:** At 7th level, you gain an additional spell per day for each spell level you have.
 
