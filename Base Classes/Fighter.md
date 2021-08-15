@@ -23,8 +23,8 @@ The fighter’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) 
 |2nd|2|3|+0|+0|Armor Training, Fighting Style|
 |3rd|3|3|+1|+1|Bravery|
 |4th|4|4|+1|+1|Weapon Training|
-|5th|5|4|+1|+1|Combat Prowess|
-|6th|6|5|+2|+2|Advanced Armor Training|
+|5th|5|4|+1|+1|Advanced Armor Training|
+|6th|6|5|+2|+2|Combat Prowess|
 |7th|7|5|+2|+2||
 |8th|8|6|+2|+2|Advanced Weapons Training|
 |9th|9|6|+3|+3||
@@ -62,9 +62,9 @@ At 4th level, and every two levels thereafter, The Reckless Warrior learns a rag
 
 **Weapon Training** (Ex): At 4th level, a fighter can select one group of weapons.  Whenever they attack with a weapon from this group they gain +1 bonus to attack and damage rolls.  This bonus increases by 1 every four levels thereafter.
 
-**Combat Prowess** (Ex): At 5th level, and every 5 thereafter, a fighter may make an additional attacks against an enemy that provoked an attack of opportunity.  Each attack after the first takes a cumulative -5 penalty to hit.
+**Advanced Armor Training (Ex):** At 5th level, and every 6 levels thereafter, a fighter learns an advanced armor training option, [Advanced Armor Training](https://www.d20pfsrd.com/classes/Core-classes/Fighter/#Advanced-Armor-Training) .
 
-**Advanced Armor Training (Ex):** At 6th level, and every 6 levels thereafter, a fighter learns an advanced armor training option, [Advanced Armor Training](https://www.d20pfsrd.com/classes/Core-classes/Fighter/#Advanced-Armor-Training) .
+**Combat Prowess** (Ex): At 6th level, and every 5 thereafter, a fighter may make an additional attacks against an enemy that provoked an attack of opportunity.  Each attack after the first takes a cumulative -5 penalty to hit.
 
 **Advanced Weapon Training (Ex):** At 8th level, and every 8 levels thereafter, a fighter learns an advanced weapons training option, [Advanced Weapon Training](https://www.d20pfsrd.com/classes/Core-classes/Fighter/#Advanced-Weapon-Training)
 
