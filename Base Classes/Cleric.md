@@ -34,7 +34,7 @@ Before the gods ascended, religion and non magical priests existed, but true cle
 **Ex Clerics:** A cleric who ignores the tenets of their deity runs the risk of loosing their favor.  Following violating enough minor tenets or their unbreakable tenet, a cleric may lose access to some or all cleric class features, per GM discretion.  This is not quickly reversible and most ex-clerics' crisis of faith causes them to retire from adventuring.
 The cleric will have to slowly prove themselves worthy of their god's favor once again.  While the exact requirements are up to the GM, it should not happen faster than the time it takes the player to gain levels equal to half the number of levels they had when their god abandoned them. (max of 5)
 
-**Aura (Ex):**A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment.   
+**Aura (Ex):** A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment.   
 
 
 **Channel Energy (Ex)**:Regardless of alignment, any cleric can release a wave of energy by channeling the power of her faith through her holy (or unholy) symbol. This energy can be used to cause or heal damage, depending on the type of energy channeled and the creatures targeted.
