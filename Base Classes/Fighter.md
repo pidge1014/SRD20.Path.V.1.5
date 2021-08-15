@@ -36,7 +36,7 @@ The fighter’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) 
 
 **Armor Training (Ex)**: Starting at 2nd level, whenever a fighter is wearing armor, he reduces the armor check penalty by 1 (to a minimum of 0) and increases the maximum dexterity bonus allowed by 1.  These bonuses increase by 1 every 4 levels thereafter.
 
-* **Fighting Style (Ex):**  At level 2, a fighter selects one fighting style.
+**Fighting Style (Ex):**  At level 2, a fighter selects one fighting style.
 
 * **Defensive Expert:**  At level 2, when you are using a shield, your shield bonus is increased by 1.  This bonus 	increases by an additional one every two levels thereafter.  
 
@@ -69,17 +69,17 @@ At 4th level, and every two levels thereafter, The Reckless Warrior learns a rag
 
 
 
-* **Bravery (Ex)**: Starting at 3rd level, a fighter gains a bonus equal to half their fighter level on saves against fear.
+**Bravery (Ex)**: Starting at 3rd level, a fighter gains a bonus equal to half their fighter level on saves against fear.
 
-* **Weapon Training** (Ex): At 4th level, a fighter can select one group of weapons.  Whenever they attack with a weapon from this group they gain +1 bonus to attack and damage rolls.  This bonus increases by 1 every four levels thereafter.
+**Weapon Training** (Ex): At 4th level, a fighter can select one group of weapons.  Whenever they attack with a weapon from this group they gain +1 bonus to attack and damage rolls.  This bonus increases by 1 every four levels thereafter.
 
-* **Combat Prowess** (Ex): At 5th level, and every 5 thereafter, a fighter may make an additional attacks against an enemy that provoked an attack of opportunity.  Each attack after the first takes a cumulative -5 penalty to hit.
+**Combat Prowess** (Ex): At 5th level, and every 5 thereafter, a fighter may make an additional attacks against an enemy that provoked an attack of opportunity.  Each attack after the first takes a cumulative -5 penalty to hit.
 
-* **Advanced Armor Training (Ex):** At 6th level, and every 6 levels thereafter, a fighter learns an advanced armor training option, [Advanced Armor Training](https://www.d20pfsrd.com/classes/Core-classes/Fighter/#Advanced-Armor-Training) .
+**Advanced Armor Training (Ex):** At 6th level, and every 6 levels thereafter, a fighter learns an advanced armor training option, [Advanced Armor Training](https://www.d20pfsrd.com/classes/Core-classes/Fighter/#Advanced-Armor-Training) .
 
-* **Advanced Weapon Training (Ex):** At 8th level, and every 8 levels thereafter, a fighter learns an advanced weapons training option, [Advanced Weapon Training](https://www.d20pfsrd.com/classes/Core-classes/Fighter/#Advanced-Weapon-Training)
+**Advanced Weapon Training (Ex):** At 8th level, and every 8 levels thereafter, a fighter learns an advanced weapons training option, [Advanced Weapon Training](https://www.d20pfsrd.com/classes/Core-classes/Fighter/#Advanced-Weapon-Training)
 
-* **Equipment Mastery (Ex)**: At 10th level, and every 10 levels thereafter, a fighter may choose one of the following benefits.  
+**Equipment Mastery (Ex)**: At 10th level, and every 10 levels thereafter, a fighter may choose one of the following benefits.  
 -When wearing armor or using a shield, the fighter gains DR 5/- .  If the fighter gains DR /- from another source, 	this increases that DR by 5.   If this is taken more than once, the fighter's DR is increased by 5 each time.
 -A fighter may choose a weapon in from a weapon group which they are trained in.  All attacks made with 	that weapon type have their critical range increased by 1.   This modifies the base value of the weapon and 	is multiplied by effects like Keen or Improved Critical.
 If this is taken more than once, you may choose to increase the weapon's critical multiplier by 1 or gain a +10 	bonus to confirm critical hits with a weapon you have already selected.  The second bonus to confirm critical hits 	may be taken more than once with the same weapon and stacks.
