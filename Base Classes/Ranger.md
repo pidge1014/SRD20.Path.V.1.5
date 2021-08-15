@@ -117,10 +117,9 @@ This distance increases by 5 feet every 3 levels thereafter.<br/>
 **Unspoken Communication:**  Your animal companion can act independently of you, even if you fall unconcious.  If you are unconcous for any reason, your companion will not defend your body but will instead act with any surviving allies as effectively as possible.  Your companion will listen to whoever in the party they have known the longest or bonded with the most.<br/>
 
 ***Magical Specialty (Ex):*** Each ranger has a slightly different relationship with the fey wilds they draw their spell's power from.  Beginning at 7th level, a ranger has developed their own magical tradition.<br/>
-**Focused Academic:**  You have focused on studying the nature of your magical bond with nature.
-**Expanded Spellwork:** At 7th level, you gain an additional spell per day for each spell level you have.
-
-* **Expanded Knowledge:**  You have worked with enough druids to understand some of their magic.  You may cast druid scrolls, using your ranger spell casting level for any check for not having the spell on your list.  In addition, you may add your wisdom modifier to the UMD roll, in addition to their charisma modifier normally associated with the skill.<br/>
+* **Focused Academic:**  You have focused on studying the nature of your magical bond with nature.<br/>
+**Expanded Spellwork:** At 7th level, you gain an additional spell per day for each spell level you have.<br/>
+**Expanded Knowledge:**  You have worked with enough druids to understand some of their magic.  You may cast druid scrolls, using your ranger spell casting level for any check for not having the spell on your list.  In addition, you may add your wisdom modifier to the UMD roll, in addition to their charisma modifier normally associated with the skill.<br/>
 **Natural Mastery:** At 10th level, you have learned to pull magic from terrain you know best.  When casting spells in a favored terrain, you gain a bonus to your caster level equal to your favored terrain initiative bonus.<br/>
 
 * **Hurried Caster:** You have focused more on casting faster than casting better.<br/>
