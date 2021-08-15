@@ -1,4 +1,4 @@
-﻿**Cleric**
+# Cleric
 
 You are an emissary of a deities divine works. Your life has been spent in devotion to the tenets of your religion and the philosophies that inspire them.  In return, your god has blessed you with great power, but absolutely expect results.  A cleric must devoutly worship a god.  
 
@@ -29,6 +29,8 @@ Before the gods ascended, religion and non magical priests existed, but true cle
 |9th|6|+6|+3|+6|Divine Protection|
 |10th|7|+7|+3|+7|Proxy|
 
+## Class Features
+
 **Ex Clerics:** A cleric who ignores the tenets of their deity runs the risk of loosing their favor.  Following violating enough minor tenets or their unbreakable tenet, a cleric may lose access to some or all cleric class features, per GM discretion.  This is not quickly reversible and most ex-clerics' crisis of faith causes them to retire from adventuring.
 The cleric will have to slowly prove themselves worthy of their god's favor once again.  While the exact requirements are up to the GM, it should not happen faster than the time it takes the player to gain levels equal to half the number of levels they had when their god abandoned them. (max of 5)
 
@@ -58,32 +60,23 @@ An evil cleric (or a neutral cleric of an evil deity) can’t convert prepared s
 
 A cleric who is neither good nor evil and whose deity is neither good nor evil can convert spells to either cure spells or inflict spells (player’s choice). Once the player makes this choice, it cannot be reversed. This choice also determines whether the cleric channels positive or negative energy (see channel energy).
 
-**Personal Focus (Su) :** A cleric can follow their god in many ways, and its ultimately up to them to choose how.  At 3rd level a cleric chooses their personal theological pursuits.
-
-**Warrior Priest:**  You have spent your days of worship preparing yourself for the dangers of the world, not just spiritually,  but physically.  Your BAB from cleric levels can not be lower than the number of cleric levels you have.  In addition, if you ingrain this class feature, your BAB bonus is equal to your character level, excluding any non cleric levels gained before ingraining this class feature.
-
+***Personal Focus (Su):*** A cleric can follow their god in many ways, and its ultimately up to them to choose how.  At 3rd level a cleric chooses their personal theological pursuits.<br/>
+* **Warrior Priest:**  You have spent your days of worship preparing yourself for the dangers of the world, not just spiritually,  but physically.  Your BAB from cleric levels can not be lower than the number of cleric levels you have.  In addition, if you ingrain this class feature, your BAB bonus is equal to your character level, excluding any non cleric levels gained before ingraining this class feature.<br/>
 In addition, your cleric levels count as fighter levels for the purposes of feat requirements.
 
-**Intellectual:**  Research and the search for a greater understanding of your god drives you.  Your studies have lead you to learn how to create a direct conduit to the divine realms of your deity.  You gain a familiar, in addition to any existing types, the familiar is considered an outsider.
-
-At 8th level, you may commune with your deity as per the spell, via your familiar, once per day.
-
+* **Intellectual:**  Research and the search for a greater understanding of your god drives you.  Your studies have lead you to learn how to create a direct conduit to the divine realms of your deity.  You gain a familiar, in addition to any existing types, the familiar is considered an outsider.<br/>
+At 8th level, you may commune with your deity as per the spell, via your familiar, once per day.<br/>
 At 12th level, when preparing spells, you may prepare one spell as though you had applied the familiar spell meta-magic.  You may prepare an additional spell like this one more time each day at level 16 and every 4 levels thereafter.   
 
-**Chaplain:** Preaching and sharing your faith are among the things you focus on the most. When you use your channel energy or fervor class features and would heal an ally, you may roll 50% more dice, round up.  These additional dice apply to the entire effect.
-
+* **Chaplain:** Preaching and sharing your faith are among the things you focus on the most. When you use your channel energy or fervor class features and would heal an ally, you may roll 50% more dice, round up.  These additional dice apply to the entire effect.
 In addition, at 8th level, when you prepare your spells you spend time sharing your love for your deity with your allies.  You may select a number of allies equal to your charisma modifier.  They gain the benefits of one of your domain powers or blessings.  If the ability has uses per day, they may use it a number of times equal to ½ of your charisma modifier.
 
-**Blessings (Su):** At 4th level, a cleric gains the minor blessing of one of her domains(as the warpriest class feature).  She uses her cleric level as her warpriest level for determining the effects of the blessing.
-
-Every 6 levels thereafter, a cleric may gain a new minor blessing in one of their domains or the major blessing in a domain they already posses the minor blessing for.
-
+**Blessings (Su):** At 4th level, a cleric gains the minor blessing of one of her domains(as the warpriest class feature).  She uses her cleric level as her warpriest level for determining the effects of the blessing.<br/>
+Every 6 levels thereafter, a cleric may gain a new minor blessing in one of their domains or the major blessing in a domain they already posses the minor blessing for.<br/>
 These blessings work as written, ignoring any mention of a maximum at 20th level.
 
-**Fervor (Su):** At 5th level, a cleric can draw upon the power of his faith to heal wounds or harm foes with his touch. He can also use this ability to quickly cast spells that aid in his struggles. This ability can be used a number of times per day equal to 1/2 his cleric level + his [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) modifier. By expending one use of this ability, a cleric (or one who worships a good deity) can touch a creature to heal it of 2d6 points of damage, plus an additional 1d6 points of damage for every 3 cleric levels he possesses above 5th.
-
-Using this ability is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) (unless the cleric targets himself, in which case it’s a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions)). Alternatively, the cleric can use this ability to harm an [undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Undead) creature, dealing the same amount of damage he would otherwise heal with a melee [touch attack](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks). Using fervor in this way is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) that provokes an [attack of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity).
-
+**Fervor (Su):** At 5th level, a cleric can draw upon the power of his faith to heal wounds or harm foes with his touch. He can also use this ability to quickly cast spells that aid in his struggles. This ability can be used a number of times per day equal to 1/2 his cleric level + his [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) modifier. By expending one use of this ability, a cleric (or one who worships a good deity) can touch a creature to heal it of 2d6 points of damage, plus an additional 1d6 points of damage for every 3 cleric levels he possesses above 5th.<br/>
+Using this ability is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) (unless the cleric targets himself, in which case it’s a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions)). Alternatively, the cleric can use this ability to harm an [undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Undead) creature, dealing the same amount of damage he would otherwise heal with a melee [touch attack](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks). Using fervor in this way is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) that provokes an [attack of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity).<br/>
 As a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions), a cleric can expend one use of this ability to cast any one cleric spell he has prepared with a casting time of 1 round or shorter. When cast in this way, the spell can target only the cleric, even if it could normally affect other or multiple targets. Spells cast in this way ignore somatic components and do not provoke [attacks of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity). The cleric does not need to have a free hand to cast a spell in this way.
 
 **Inspired Healing (Ex):** At 6th level, as a swift action whenever a cleric casts a cure/inflict spell that includes an ally, the cleric can infuse a single included ally with inspired vigor.  For a number of rounds equal to half your cleric level, the ally's attack rolls gain a sacred bonus equal to half the clerics level.
