@@ -1,0 +1,106 @@
+﻿**Wizard**
+
+You have devoted yourself to the study of the unknown mysteries of the arcane arts.  You power does not come from any natural talent, cruel bargain, or a lifetime of service.  Your magic comes from years of study and a fundamental understanding of the origins of arcane power itself.  Let the ignorant clerics sell their free will while you redefine existence.
+A wizard may specialize in both a school of magic and a source of magic, each will shape their journey, and as is often the case, the world itself.  
+
+**Alignment**: Any
+
+**Hit Die**: d4
+
+**Starting Wealth**: 6d4 × 10 gp.
+
+**Class Skills:** The wizard’s class skills are [Appraise](https://www.d20pfsrd.com/skills/appraise) ([Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)), [Craft](https://www.d20pfsrd.com/skills/craft) ([Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)), [Fly](https://www.d20pfsrd.com/skills/fly) ([Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-)), [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (all) ([Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)), [Linguistics](https://www.d20pfsrd.com/skills/linguistics) ([Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)), [Profession](https://www.d20pfsrd.com/skills/profession) ([Wis](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-)), and [Spellcraft](https://www.d20pfsrd.com/skills/spellcraft) ([Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)).
+
+**Skill Ranks per Level**: 4 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+
+**Weapon and Armor Proficiency:** A wizard only gains proficiency with the quarterstaff and gains no armor proficiency
+
+
+|**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
+| :- | :- | :- | :- | :- | :- |
+|1st|0|2|+2|+0|Cantrips, Arcane Bond, Arcane School, Spellcasting|
+|2nd|1|3|+3|+0||
+|3rd|1|3|+3|+1|<h4>Magic Specialization</h4>|
+|4th|2|4|+4|+1||
+|5th|2|4|+4|+1|Bonus Feats|
+|6th|3|5|+5|+2||
+|7th|3|5|+5|+2||
+|8th|4|6|+6|+2||
+|9th|4|6|+6|+3||
+|10th|5|7|+7|+3|<h4>Improved magical implements</h4>|
+
+**Spell casting:** A wizard casts arcane spells drawn from the [sorcerer/wizard spell list](https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard). A wizard must choose and prepare his spells ahead of time.
+
+To learn, prepare, or cast a spell, the wizard must have an [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score equal to at least 10 + the spell level. The Difficulty Class for a [saving throw](https://www.d20pfsrd.com/gamemastering/combat#TOC-Saving-Throws) against a wizard’s spell is 10 + the spell level + the wizard’s [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
+
+A wizard can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: Wizard. In addition, he receives bonus spells per day if he has a high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score (see [Table: Ability Modifiers and Bonus Spells](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Abilities-and-Spellcasters)).
+
+A wizard may know any number of spells. He must choose and prepare his spells ahead of time by getting 8 hours of sleep and spending 1 hour studying his spellbook. While studying, the wizard decides which spells to prepare.
+
+Starting Spells (See Spellbooks below): A wizard begins play with a spellbook containing all 0-level wizard spells (except those from his opposed schools, if any; see Arcane Schools) plus three 1st-level spells of his choice. The wizard also selects a number of additional 1st-level spells equal to his [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier to add to the spellbook. At each new wizard level, he gains two new spells of any spell level or levels that he can cast (based on his new wizard level) for his spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to his own (see [Magic](https://www.d20pfsrd.com/magic)).
+
+Spells Gained at a New Level: Wizards perform a certain amount of spell research between adventures. Each time a character attains a new wizard level, he gains two spells of his choice to add to his spellbook. The two free spells must be of spell levels he can cast.
+
+**Arcane Bond:**  At 1st level, wizards form a powerful bond with an object or a creature. This bond can take one of two forms: a [*familiar*](https://www.d20pfsrd.com/classes/core-classes/wizard/familiar) or a *bonded object*. A [*familiar*](https://www.d20pfsrd.com/classes/core-classes/wizard/familiar) is a magical pet that enhances the wizard’s skills and senses and can aid him in magic, while a *bonded object* is an item a wizard can use to cast additional spells or to serve as a magical item. Once a wizard makes this choice, it is permanent and cannot be changed.
+
+Rules for bonded items are given below, while rules for [familiars](https://www.d20pfsrd.com/classes/core-classes/wizard/familiar) are located here: [*Familiars*](https://www.d20pfsrd.com/classes/core-classes/wizard/familiar).
+
+Wizards who select a bonded object begin play with one at no cost. Objects that are the subject of an arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon. These objects are always masterwork quality. Weapons acquired at 1st level are not made of any special material. If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons must be held in one hand. If a wizard attempts to cast a spell without his bonded object worn or in hand, he must make a [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) check or lose the spell. The DC for this check is equal to 20 + the spell’s level. If the object is a ring or amulet, it occupies the ring or neck slot accordingly.
+
+A bonded object can be used once per day to cast any one spell that the wizard has in his spellbook and is capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by the wizard, including casting time, duration, and other effects dependent on the wizard’s level. This spell cannot be modified by [metamagic feats](https://www.d20pfsrd.com/feats/metamagic-feats) or other abilities. The bonded object cannot be used to cast spells from the wizard’s opposition schools (see [**arcane school**](https://www.d20pfsrd.com/classes/core-classes/wizard#TOC-Arcane-School) below).
+
+A wizard can add additional magic abilities to his bonded object as if he has the required [Item Creation Feats](https://www.d20pfsrd.com/feats/item-creation-feats) and if he meets the level prerequisites of the feat. For example, a wizard with a bonded dagger must be at least 5th level to add magic abilities to the dagger (see [Craft Magic Arms and Armor](https://www.d20pfsrd.com/feats/item-creation-feats/craft-magic-arms-and-armor-item-creation) feat). If the bonded object is a wand, it loses its wand abilities when its last charge is consumed, but it is not destroyed and it retains all of its bonded object properties and can be used to craft a new wand. The magic properties of a bonded object, including any magic abilities added to the object, only function for the wizard who owns it. If a bonded object’s owner dies, or the item is replaced, the object reverts to being an ordinary masterwork item of the appropriate type.
+
+If a bonded object is damaged, it is restored to full hit points the next time the wizard prepares his spells. If the object of an arcane bond is lost or destroyed, it can be replaced after 1 week in a special ritual that costs 200 gp per wizard level plus the cost of the masterwork item. This ritual takes 8 hours to complete. Items replaced in this way do not possess any of the additional enchantments of the previous bonded item. A wizard can designate an existing magic item as his bonded item. This functions in the same way as replacing a lost or destroyed item except that the new magic item retains its abilities while gaining the benefits and drawbacks of becoming a bonded item.
+
+
+**Arcane School:** A wizard can choose to specialize in one school of magic, gaining additional spells and powers based on that school. This choice must be made at 1st level, and once made, it cannot be changed. A wizard that does not select a school receives the [universalist](https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/universalist) school instead.
+
+A wizard that chooses to specialize in one school of magic must select two other schools as his opposition schools, representing knowledge sacrificed in one area of arcane lore to gain mastery in another.
+
+At first level, a wizard receives a +1 bonus to the saving throw of their specialized school, and a -1 to their opposition schools.  This bonus/penalty increases by 1 at level 6 and every 5 levels thereafter.
+
+In addition, specialist wizards receive an additional spell slot of each spell level he can cast, from 1st on up. Each day, a wizard can prepare a spell from his specialty school in that slot. This spell must be in the wizard’s spellbook. A wizard can select a spell modified by a metamagic feat to prepare in his school slot, but it uses up a higher-level spell slot.
+
+Universalists receive the extra spell slot, which they can use to prepare any spell they know, but do not gain a bonus or penalty to any saving throw.
+
+
+**Magic Specialization**: At 3rd level a wizard specializes in drawing power from one of the three most powerful sources of arcane magic.  The natural magic of the Fey, the dark forces within the Shadows, and the unstoppable power of Time.
+
+***Fey :*** A wizard who focuses on drawing magic from the natural power of the fey must prepare their spells outdoors to gain the benefits of an additional connection to fey magic.    
+
+`	`A fey wizard is able to conjure [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey) creatures and is treated as having [Augment Summoning](https://www.d20pfsrd.com/feats/general-feats/augment-summoning) as a bonus feat when 	summoning creatures with the fey sub-type. He adds the following creatures to the [summon monster](https://www.d20pfsrd.com/magic/all-spells/s/summon-monster)* list of the 	same level, allowing him to summon them with the appropriate
+
+`	`*[*summon monster](https://www.d20pfsrd.com/magic/all-spells/s/summon-monster)* spell:
+
+`	`**1st**—grimple ([gremlin](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins)), [mite](https://www.d20pfsrd.com/bestiary/monster-listings/fey/mite), sprite; **2nd**—[atomie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/atomie), fuath ([gremlin](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins)), [nixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie); **3rd**— [leprechaun](https://www.d20pfsrd.com/bestiary/monster-listings/fey/leprechaun), [nuglub](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-nuglub) ([gremlin](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins)), 	pooka;**4th**—[kelpie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/kelpie),[korred](https://www.d20pfsrd.com/bestiary/monster-listings/fey/korred), [twigjack](https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack); **5th**—lampad, [lurker in light](https://www.d20pfsrd.com/bestiary/monster-listings/fey/lurker-in-light), swan maiden; **6th**—cold rider, oceanid, 	sangoi;**7th**—alp, bogeyman, ijiraq; **8th**—banelight, fastachee, rusalka; **9th**—[ankou](https://www.d20pfsrd.com/bestiary/monster-listings/fey/ankou), kamaitachi, wild hunt archer.
+
+`	`At 10th level, a fey wizard can reshape the nearby area at his whim, as he pulls in aspects of the mutable and 	primal fey. To use this ability, he must expend a spell slot of 5th level or higher as a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) and can choose 	to apply one of the following planar traits to the area in a 60-foot radius for 2d4 minutes: normal gravity, heavy 	gravity, light gravity, mildly aligned (chaos, [evil](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Evil), good, or law), enhanced magic, or impeded magic.
+
+`	`Every 5 levels thereafter, apply an additional planar trait from the previous list, or any one of the following traits: 	no gravity, subjective directional gravity, erratic time, fire-dominant, water-dominant, negative-dominant, positive-	dominant, or wild magic.
+
+***Shadow:***  A wizard who focuses on drawing magic from the shadows of the lower pantheon must spend their entire period of spell preparation in dim illumination, or looses all abilities tied to shadow wizardry.
+
+`	`At 3rd level, he may prepare a number of additional spell levels of spells equal to the level of the highest-level 	wizard spell he can cast. For example, if he can cast 6th-level wizard spells, he could prepare six 1st-level spells, 	two 3rd level-spells, or any similar combination that adds up to a total of six spell levels. These spells are stored in 	his shadow. A wizard can only cast these extra spells in dim light or less.
+
+`	`This value increases by +1 every 3 levels thereafter, such that at level 7, a wizard will be able to prep 5 additional 	spell levels (4 for highest level spell, +1)
+
+`	`At 3rd level, a wizard gains Shadowtongue as a bonus language.
+
+`	`At 10th level, when a shadowcaster casts [*shades*](https://www.d20pfsrd.com/magic/all-spells/s/shades), [*shadow conjuration*](https://www.d20pfsrd.com/magic/all-spells/s/shadow-conjuration), [*shadow evocation*](https://www.d20pfsrd.com/magic/all-spells/s/shadow-evocation), and similar shadow 	[illusion](https://www.d20pfsrd.com/magic#TOC-Illusion)** spells that have a listed fraction of the strength of real effects, he increases that percentage by one-fifth 	(+20%), up to a maximum of 100% of the strength. For example, [*shadow evocation*](https://www.d20pfsrd.com/magic/all-spells/s/shadow-evocation)** and [*s*](https://www.d20pfsrd.com/magic/all-spells/s/shadow-conjuration)[hadow conjuration*](https://www.d20pfsrd.com/magic/all-spells/s/shadow-conjuration) deal 	40% normal damage on a successful save instead of 20%.   This does not effect spells like Shadowform where a 	small percentage is beneficial.
+
+`	`This bonus increases by an additional 5% every 5 levels thereafter.
+
+***Time:***  A wizard who draws power from the eternal clock of the universe must prep their spells during the same time window each day, and any spell not prepared then is considered wasted. This period of time is no longer than one hour.  Each day, after this window ends, a Time wizard gains a temporal energy pool equal to their intelligence modifier +half their wizard level.
+
+`	`**Forewarned**: The Time wizard  can expend 1 point from his temporal pool when he rolls [initiative](https://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative) to allow 	himself or an ally within 30 feet to roll 1d4 and add it to that character’s [initiative](https://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative) result. At 5th level, the 	Time 	wizard  can expend 2 points from his temporal pool as an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) to apply this benefit to a saving 	throw he has just rolled (but before the result is revealed). At 10th level, the die size increases to 1d6.
+
+`	`**Rewind**: As an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) after losing a spell due to a failed [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) check or after casting a spell that 	had no effect (such as due to successful saving throws, a failed [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) check to overcome [spell resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Spell-Resistance), or 	other immunities), the Time wizard  can expend a number of points from his temporal pool equal to half the 	spell’s level (minimum 1) to immediately prepare the spell again, as if it had not been cast. Any material 	[components](https://www.d20pfsrd.com/magic#TOC-Components) expended in the original casting remain expended, as are actions used to cast the original spell.
+
+`	`**Accelerate**: At 10th level when casting a spell, the Time wizard  can expend 2 points from his temporal pool to 	apply the effects of [*haste*](https://www.d20pfsrd.com/magic/all-spells/h/haste) to one creature affected by the spell until the end of the Time wizard ’s next turn.
+
+`	`**Complex Contingency**: At 15th level, the Time wizard  can specify two trigger conditions when casting 	[*contingency*](https://www.d20pfsrd.com/magic/all-spells/c/contingency). In addition, when the Time wizard ’s [*contingency*](https://www.d20pfsrd.com/magic/all-spells/c/contingency) would trigger, the Time wizard  can expend 1 	point from his temporal pool as an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) to prevent the [*contingency*](https://www.d20pfsrd.com/magic/all-spells/c/contingency) from triggering, saving the stored 	effect for later.
+
+`	`**Parallel Self**: At 20th level, if the Time wizard  is killed, he can immediately expend 10 points from his temporal 	pool to [summon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Summon-Sp-) an alternate version of himself from a parallel existence, appearing up to 30 feet away. This 	alternate version is identical to the Time wizard. The alternate version starts with half the Time wizard’s total [hit 	points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) (but not any [temporary hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Temporary-Hit-Points)) and those spells the Time wizard  had prepared when he died. The 	alternate version has the same equipment as the Time wizard  but does not [bear](https://www.d20pfsrd.com/bestiary/monster-listings/animals/bear) any artifacts the Time wizard  was 	carrying. Any expendable items, charges, or expensive material [components](https://www.d20pfsrd.com/magic#TOC-Components) the alternate version uses are also 	expended for the Time wizard.
+
+**Improved magical implements:**  At 10th level, when a wizard uses a scroll or a wand, they may replace their wizard level with the caster level of the item.
