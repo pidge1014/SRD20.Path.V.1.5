@@ -1,4 +1,4 @@
-﻿**Scout**
+# Scout
 
 Ever just one step ahead of danger, scouts bank on their cunning, skill, and charm to bend fate to their favor. Never knowing what to expect, they prepare for everything, becoming masters of a wide variety of skills, training themselves to be adept manipulators, agile acrobats, shadowy stalkers, or masters of any of dozens of other professions or talents.
 
@@ -18,7 +18,6 @@ The scout class skills are [Acrobatics](https://www.d20pfsrd.com/skills/acrobati
 
 **Weapon and Armor Proficiency:** Scouts are proficient with all simple and martial weapons. Scouts are proficient with light armor, but not with shields.
 
-
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
 |1st|1|+0|+2|+0|Skirmish (+1d8), trapfinding|
@@ -32,12 +31,11 @@ The scout class skills are [Acrobatics](https://www.d20pfsrd.com/skills/acrobati
 |9th|9|+3|+6|+3|Hide in Plain Sight|
 |10th|10|+3|+7|+3|Scout Senses (Blindsense 30ft)|
 
+## Class Features
 
 **Skirmish (Ex):** A scout relies on mobility to create weaknesses in an enemies defense. She deals an extra 1d8 points of precision damage on all attacks she makes during any round in which she moves at least 10 feet away from where she was at the start of her turn. The extra damage applies only to attacks made after the scout has moved at least 10 feet. The skirmish ability cannot be used while mounted. The extra damage applies until the start of their next turn. 
-This extra damage increases by 1d8 for every three levels gained above 1st (2d8 at 4th, 3d8 at 7th, etc).
-
+This extra damage increases by 1d8 for every three levels gained above 1st (2d8 at 4th, 3d8 at 7th, etc).<br/>
 Scouts can apply this extra damage to ranged attacks made while skirmishing, but only if the target is within 30 feet.  This distance increases by 10 feet for every dice added.
-
 A scout loses this ability when wearing medium or heavy armor or when carrying a medium or heavy load.
 
 **Trapfinding (Ex)**: A scout can use the Search skill to locate traps with a DC higher than 20, and she can use Disable Device to bypass a trap or disarm magic traps. See the rogue class feature
@@ -46,26 +44,22 @@ A scout loses this ability when wearing medium or heavy armor or when carrying a
 
 **Uncanny Dodge (Ex):** Starting at 2nd level, a scout cannot be caught flat-footed and reacts to danger before her senses would normally allow her to do so.
 
-**Fast Movement (Ex):** Starting at 3rd level, a scout's gains a +10 foot enhancement bonus to her base land speed.  This bonus increases by +10 every 8 levels.
-
+**Fast Movement (Ex):** Starting at 3rd level, a scout's gains a +10 foot enhancement bonus to her base land speed.  This bonus increases by +10 every 8 levels.<br/>
 A scout loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
 
 **Quick Feet:**  Starting at 3rd level, any time a scout moves at least 10 feet, they gain a +1 bonus to AC and Reflex until the start of their next turn. This bonus increases by 1 every 4 levels. 
 
-**Trackless Step (**Ex): Beginning at 3rd level, a scout cannot be tracked in natural surroundings.
+**Trackless Step(Ex):** Beginning at 3rd level, a scout cannot be tracked in natural surroundings.
 
 **Bonus Feats:** At 4th level and every four levels thereafter, the scout gains a bonus Combat Feat. 
 
-**Evasion (Ex):** Beginning at 5th level, a scout can avoid damage from certain attacks with a successful Reflex save
+**Evasion(Ex):** Beginning at 5th level, a scout can avoid damage from certain attacks with a successful Reflex save
 
-**Roll with it (Ex):**  You have become adept at taking advantage of any movement, whether it was forced upon you or not.   For the purposes of distance traveled to qualify for skirmish damage, teleportation and forced movement both contribute.  If this movement was caused by a different creature, the round the movement occurred will not end until the creature acts again on their next initiative.
+**Roll with it(Ex):**  You have become adept at taking advantage of any movement, whether it was forced upon you or not.   For the purposes of distance traveled to qualify for skirmish damage, teleportation and forced movement both contribute.  If this movement was caused by a different creature, the round the movement occurred will not end until the creature acts again on their next initiative.
 
-**Flawless Stride (Ex)**: Starting at 6th level, a scout can move through any sort of terrain that slows movement (such as undergrowth, rubble, and similar terrain) at her normal speed and without taking damage or suffering any other impairment.
-
+**Flawless Stride(Ex)**: Starting at 6th level, a scout can move through any sort of terrain that slows movement (such as undergrowth, rubble, and similar terrain) at her normal speed and without taking damage or suffering any other impairment.
 This ability does not let her move more quickly through terrain that requires a Climb or Swim check to navigate, nor can she move more quickly through terrain or undergrowth that has been magically manipulated to impede motion.
-
 In addition, any time the scout shifts 5 feet, they may choose to shift an additional 5 feet.  This additional distance increases by 5 feet every 6 levels thereafter.
-
 A scout loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
 
 **Camouflage (Ex):** Beginning at 7th level, a scout can use the Hide skill in any sort of natural terrain.  She loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
@@ -75,7 +69,6 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 **Hide in Plain Sight (Ex):** Beginning at 9th level, a scout can use the Hide skill in natural terrain even while being observed.
 
 **Blindsense** (Ex): At 10th level, a scout gains the blindsense ability out to 30 feet.   Every 10 levels thereafter, the range of this ability doubles (60ft at level 20, 120ft at level 30, etc).  
-
 In addition, starting at level 20, the scout gains blindsight for half of the total distance of this ability.
 
 
