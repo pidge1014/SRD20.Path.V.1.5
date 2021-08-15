@@ -1,7 +1,6 @@
-﻿**Druid**
+# Druid
 
 Within the purity of the elements and the order of the wilds lingers a power beyond the marvels of civilization. Furtive yet undeniable, these primal magics are guarded over by servants of philosophical balance known as druids. Allies to beasts and manipulators of nature, these often misunderstood protectors of the wild strive to shield their lands from all who would threaten them and prove the might of the wilds to those who lock themselves behind city walls. Rewarded for their devotion with incredible powers, druids gain unparalleled shape-shifting abilities, the companionship of mighty beasts, and the power to call upon nature’s wrath. The mightiest temper powers akin to storms, earthquakes, and volcanoes with primeval wisdom long abandoned and forgotten by civilization.
-
 
 **Alignment**: Any neutral
 
@@ -17,7 +16,6 @@ The druid’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) ([
 
 **Weapon and Armor Proficiency:** A Druid is considered proficient in any weapon or armor made of wood, bone, leather or combination of components that were once naturally alive.  The item must contain no non-natural components.
 
-
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
 |1st|0|+2|+0|+2|Nature bond, Nature sense, wild empathy, Spellcasting(as 1e)|
@@ -31,15 +29,13 @@ The druid’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) ([
 |9th|6|+6|+3|+6|Living Speech|
 |10th|7|+7|+3|+7|Greatest Form|
 
+## Class Features
 
-**Nature Bond:**At first level, a druid makes a bond with nature.  This may take one of two forms.  The druid may form a bond with an animal companion.  
+**Nature Bond:** At first level, a druid makes a bond with nature.  This may take one of two forms.  The druid may form a bond with an animal companion.  
 List of companion options here:  <https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions#TOC-Animal-Choices>**
-Only animals from the core book,[**PZO1110**](http://www.amazon.com/gp/product/1601251505/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601251505&linkCode=as2&tag=httpwwwd20pfs-20) , are allowed by default.
-
-
+Only animals from the core book,[**PZO1110**](http://www.amazon.com/gp/product/1601251505/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601251505&linkCode=as2&tag=httpwwwd20pfs-20) , are allowed by default.<br/>
 In addition, a druid may not wear unnatural clothing, such as studded  or metal armor.  Doing so will result in all class features failing to function until the offending clothing is removed.
-The item can be refined, such as silk, wool, and cotton , but all components must have been part of nature, as per a druid's armor proficiency.
-
+The item can be naturally refined, such as silk, wool, and cotton , but all components must have been part of nature, as per a druid's armor proficiency.  Smelting and distructive processes are forbidden.
 
 **Nature Sense**:A druid gains a +2 bonus on [Knowledge](https://www.d20pfsrd.com/skills/knowledge)** (nature) and [Survival](https://www.d20pfsrd.com/skills/survival)** checks.
 
@@ -48,14 +44,10 @@ The item can be refined, such as silk, wool, and cotton , but all components mus
 **Woodland Stride:** When moving through any natural terrain, it is never treated as difficult terrain.
 
 **Wild Shape:** At 4th level, a druid gains the ability to turn herself into any small or Medium [**animal**](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) and back again once per day. Her options for new forms include all creatures with the [**animal**](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) or plant type. This ability functions like the [**beast shape I**](https://www.d20pfsrd.com/magic/all-spells/b/beast-shape) spell or plant shape 1, except as noted here. 
-The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to [**animal**](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) or back) is a standard action and doesn’t provoke an attack of opportunity. The form chosen must be that of an animal the druid is familiar with.
-
-A druid loses her ability to speak while in [animal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
-
-A druid can use this ability an additional time per day at 6th level and every two levels thereafter
-
+The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to [**animal**](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) or back) is a standard action and doesn’t provoke an attack of opportunity. The form chosen must be that of an animal the druid is familiar with.<br/>
+A druid loses her ability to speak while in [animal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)<br/>
+A druid can use this ability an additional time per day at 6th level and every two levels thereafter<br/>
 At 7th level, a druid may shapeshift into an animal one step different from its own and the version of beast and plant shape increase by one.  Both of these again increase by one at 13th level and every three levels thereafter.  
-
 
 **Resist Nature's Lure:**  At 5th level, a druid gains a +3 bonus vs spells and spell like abilities cast by creatures of the fey sub-type.  This bonus also applies to all spells that target plants, such as entangle.  This increases by +3 every 6 levels thereafter.  
 
