@@ -47,19 +47,18 @@ At 4th level and every even-numbered level thereafter (6th, 8th, and so on), a f
 The new spell’s level must be the same as that of the spell being exchanged, and it must be at least 1 level lower than the highest-level spell from the faithless's class list that the faithless can cast.<br/>
 Unlike most casters, a Faithless casting spells has immediate repercussions on their mind, and therefor, their defenses.  Any time a faithless casts a spell, they receive a -1 stacking penalty to all their saves for hours equal to the spell level, with a minimum duration of 1 round.  There is no minimum value for a save.  After 6 hours of rest, this penalty is removed.
 
-|||||**Spells per Day**|||||
-||||| :- |||||
-|**1st**|**2nd**|**3rd**|**4th**|**5th**|**6th**|**7th**|**8th**|**9th**|
-|2|—|—|—|—|—|—|—|—|
-|3|—|—|—|—|—|—|—|—|
-|4|—|—|—|—|—|—|—|—|
-|4|2|—|—|—|—|—|—|—|
-|4|3|—|—|—|—|—|—|—|
-|4|4|2|—|—|—|—|—|—|
-|4|4|3|—|—|—|—|—|—|
-|4|4|4|2|—|—|—|—|—|
-|4|4|4|3|—|—|—|—|—|
-|4|4|4|4|2|—|—|—|—|
+|Spells Per Day|**0th**|**1st**|**2nd**|**3rd**|**4th**|**5th**|**6th**|**7th**|**8th**|**9th**|
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+|1st|-|2|—|—|—|—|—|—|—|—|
+|2nd|-|3|—|—|—|—|—|—|—|—|
+|3rd|-|4|—|—|—|—|—|—|—|—|
+|4th|-|4|2|—|—|—|—|—|—|—|
+|5th|-|4|3|—|—|—|—|—|—|—|
+|6th|-|4|4|2|—|—|—|—|—|—|
+|7th|-|4|4|3|—|—|—|—|—|—|
+|8th|-|4|4|4|2|—|—|—|—|—|
+|9th|-|4|4|4|3|—|—|—|—|—|
+|10th|-|4|4|4|4|2|—|—|—|—|
 
 
 |Spells Known|**0th**|**1st**|**2nd**|**3rd**|**4th**|**5th**|**6th**|**7th**|**8th**|**9th**|
