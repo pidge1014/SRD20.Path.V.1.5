@@ -1,27 +1,25 @@
-﻿Unfortunate Orifices, The Continent: Players Guide
+# The Continent: Players Guide
 
 
-**The Gods**
+## The Gods
 
 
-On the very first day an intelligent creature walked on The Continent, there were no gods in the universe.  The raw powers of the universe existed, but remained uncontrolled and unfocused.
+On the very first day an intelligent creature walked on The Continent, there were no gods in the universe.  The raw powers of the universe existed, but remained uncontrolled and unfocused.  With the help of magic, creatures evolved into the wild and unexplainable variety of life that is found today.
 
-It was not until Benjamin the Conqueror died that the world knew their first god.  At the moment of his death, a blindingly bright light erupted upwards and ascended on the faith of his citizens and formed what is now known as the High Pantheon and the Upper Outer Planes.
+It was not until Benjamin the Conqueror died that the world knew their first god.  Benjamin was far from the most powerful individual to be alive or have lived, nor was he the most revered living being. But, at the moment of his death, a blindingly bright light erupted upwards and ascended on the faith of his citizens and became the first god of the High Pantheon, and created the first of the outer planes, now knows as the Upper Outer Planes.
 
-Many other gods followed over the years, and their stories have played major roles in shaping both the world and the Outer Planes they reside in.
+Many other gods followed over the years, and their stories have played major roles in shaping both the world and the Outer Planes they reside in. Hundreds of planes came into form, some mischeveous, but none were truly evil. But, perhaps no other god, including Benjamin, shaped the world like the ascendance of Yrill.
 
-Perhaps none had a greater impact on the world than Yrill, the god of strength.  Yrill was the first evil person to gather a substantial and truly loyal following, a requirement for ascendance.  But, on the day of his death, when the power of divine faith began to manifest, his entrance to the Upper Pantheon was barred.  
+1 in 10,000 children born are found to be fundamentally tied to one of the sources of magic.  Yrill was born bound to all three.  This would not nessessarily have been a curse, if not for the influence of a young fae, a hobkins named Tifzi.  Yrill gathered a massive following as he built his empire, but many theologians and clerics theorized at the time that no one as cruel and malicious as him would ever draw worship in a comparable way to a benevolent ruler.  But, on the day of his death, when the power of divine faith began to manifest him into a god and his followers proved the priesthoods of the world wrong, the gods of the Upper Pantheon stepped in to reward there faithful by blocking his ascent.  
 
-All the existing gods focused their strength, in hopes of preventing this foul soul from desecrating their serene planes.   While they succeeded in keeping Yrill from the realms of the Upper Pantheon, the will of the faithful could not be denied.   A strange dark energy was born, its existence a mockery of creation itself, and it ripped through the earth twisting everything it touched.
+While they succeeded in keeping Yrill from the realms of the Upper Pantheon, the will of the faithful could not be denied.   A strange dark energy was born, its existence a mockery of creation itself, and it ripped through the earth twisting everything it touched.  The scar consumed all of Yrill's massive kingdom, his faithful servants transformed into terrible creatures and the faithless turned to shadows.  The tear rippled accross the continent and its presence stains the world to this day.
 
-The hellish lower outer planes of the Low Pantheon were born that day.  The twisted and dark realms that inhabit the Low Pantheon, and their residents, are powered by the antithesis of creation, commonly known as negative energy.  While they are technically alive, the living world and power of life is as toxic to them as the Scar is to mortals.
+The hellish lower outer planes of the Low Pantheon were also born that day.  The twisted and dark realms that inhabit the Low Pantheon, and their residents, are powered by the antithesis of creation, commonly known as negative energy.  While they are technically alive, the living world and power of life is as toxic to them as the Scar is to mortals.
 
 
-
-**The Continent**
+## The Continent
 
 The Continent spans over 50,000 miles across, at its longest point, and over 22,000 miles, at its longest, straight north to south.  Before the Scar, a great wizard could teleport from one end to the other without issue, and the world was a very different place then it has become today.
-
 
 When the Scar formed, it uncoiled in all directions.  Entire cities were enveloped and their inhabitants destroyed, if they were lucky.  It is said, by those who care to measure such things, that parts of the Scar reach the northern, eastern, and southern shores of the continent.  As devastating as this was, learning that this new horror functions in contrast to magic as they knew it, was worse.
 
@@ -32,7 +30,6 @@ Any time a magic user casts a long range teleport to an unknown location, there 
 There are entire civilizations that have been largely cut off from the world due to the scar forming around them. But thankfully to the world, there was one that decided to call it home.  The City of Peace rests in the center of the Scar.  The warded roads to this city lead to the edges of the scar and are always built strait, to ensure anyone using the roads to safely teleport will have protection the entire way.  There is however, one catch.  The powerful magic used to ward the stone pathway from the Scar also prevents the malicious of heart from using them.  The magic doesn't care if you are justified in your hatred or not, it will turn you away all the same.
 
 Over the many years, the City of Peace has continued to built roads, both literal and with diplomacy, to each of these cut off civilizations.  This has resulted in the City of Peace being one of the few places in the continent that actually has contact with the entire continent and is a well known travel hub.  The City itself has a much more powerful version of the protective ward on it, as it was cast by the goddess of peace before she ascended.
-
 
 Flintfall's Splinter, is perhaps the most secluded of all of these lands to be cut off from the continent by the Scar.  Lying in the South Eastern part of the continent, Flintfall's splinter is one of the closest pieces of land to the formation of the Scar, to survive at least.  The Scar that surrounds it stretches deep into the sea and nearly envelopes the small peninsula.  But buried here were some of the continents great treasures.
 
