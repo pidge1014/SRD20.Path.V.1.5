@@ -143,5 +143,5 @@ The ranger gains an additional use of this ability at level 14 and every 6 level
 **Master Hunter (Ex):** Beginning at 10th level, a ranger can, as a standard action, make a single attack against a favored enemy at her full attack bonus.  If the attack hits, the target takes damage normally and must make a fortitude save or die.  The DC of this save is equal to 10+1/2 the rangers class level + the ranger's wisdom modifier.   <br/>
 A ranger can instead choose to deal non-lethal damage equal to the target creatures current hit points instead of killing their target. 
 A ranger can use this ability once per day against each favored enemy they possess.
-
+In addition, a ranger may add their favored enemy bonus to their saving throws against spells and effects triggered by their favored enemy.
 
