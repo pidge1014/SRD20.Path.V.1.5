@@ -18,23 +18,28 @@ The druid’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) ([
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
-|1st|0|+2|+0|+2|Nature bond, Nature sense, wild empathy, Spellcasting(as 1e)|
+|1st|0|+2|+0|+2|Nature bond, Nature sense, wild empathy, Spellcasting(as 1e, but arcane)|
 |2nd|1|+3|+0|+3|Woodland Stride|
 |3rd|2|+3|+1|+3|Trackless Step|
 |4th|3|+4|+1|+4|Wild Shape|
 |5th|3|+4|+1|+4|Resist nature's Lure|
 |6th|4|+5|+2|+5|<h4>` `Many Lives</h4>|
 |7th|5|+5|+2|+5|<h4>Venom Immunity</h4>|
-|8th|6|+6|+2|+6|Cheat Death|
+|8th|6|+6|+2|+6|Natural Specialty|
 |9th|6|+6|+3|+6|Living Speech|
-|10th|7|+7|+3|+7|Greatest Form|
+|10th|7|+7|+3|+7|Master of Shapes|
 
 ## Class Features
 
-**Nature Bond:** At first level, a druid makes a bond with nature.  This may take one of two forms.  The druid may form a bond with an animal companion.  
+**Nature Bond:** At first level, a druid makes a bond with nature.  This may take one of two forms.  
+The first is a close tie to the natural world, granting the druid one of the following cleric domains: Air, Earth, Fire, Plant, Water, or Weather. Druids also have access to a set of Animal and Terrain Domains. When determining the powers and bonus spells granted by this domain, the druid’s effective cleric level is equal to her druid level. A druid that selects this option also receives additional domain spell slots, just like a cleric. She must prepare the spell from her domain in this slot and this spell cannot be used to cast a spell spontaneously.
+In addition, she gains a familiar associated with one of the domains selected.  The familiar may possess the elemental familiar archetype.
+
+The druid may also form a bond with an animal companion.  
 List of companion options here:  <https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions#TOC-Animal-Choices>**
 Only animals from the core book,[**PZO1110**](http://www.amazon.com/gp/product/1601251505/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601251505&linkCode=as2&tag=httpwwwd20pfs-20) , are allowed by default.<br/>
 In addition, a druid may not wear unnatural clothing, such as studded  or metal armor.  Doing so will result in all class features failing to function until the offending clothing is removed.
+
 The item can be naturally refined, such as silk, wool, and cotton , but all components must have been part of nature, as per a druid's armor proficiency.  Smelting and distructive processes are forbidden.
 
 **Nature Sense**:A druid gains a +2 bonus on [Knowledge](https://www.d20pfsrd.com/skills/knowledge)** (nature) and [Survival](https://www.d20pfsrd.com/skills/survival)** checks.
@@ -57,9 +62,14 @@ A druid cannot be raised from the [**dead**](https://www.d20pfsrd.com/gamemaster
 
 **Venom Immunity:**  You are immune to all poison.
 
-**Cheat Death:**  As a faithful servant to the natural order, you resist attempts to bypass it.  At 8th level, a druid may reroll a save against a death effect, [energy drain](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels), or [**necromancy**](https://www.d20pfsrd.com/magic#TOC-Necromancy) effect, taking the better result, before the result of the roll is revealed, or reroll a failed stabilization check while [dying](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Dying).
-At 8th level, a druid may use this once per day, and an additional time every 6 levels thereafter.
+**Natural Speciality:**  At 8th level, you have specialized in your bond with nature.  You may select one of the following:
+* **Arcane Ritualist:** You have focused on infusing your magic into rituals.  At 8th level you gain an additional spell slot for each spell level you possess.  You may prepare these spells as ritual inscriptions onto yourself, your companion, or your familiar.  Doing this acts like a command word activated magic item, and requires the same action as the spell stored to activate.  Any targets of the spell need to be selected at the time the spell is inscribed.  It is possible for an unintelligent animal to trigger a spell inscribed on them, provided they have learned the speak trick.
+* **Animal Sanctuary:** For you, one companion was not enough.  At 8th level, you gain a second animal companion.  This companion begins at your animal companion's current level -3.  Any time you gain a level in a class other than druid that gives a level to your animal companion, it only applies to one of your animal companions.
+* **Master of Shapes:** At 8th level, using your wild shape power is now a free action.  In addition, you may now use wild shape to transform into a magical beast.
 
 **Living speech:**  A druid is capable of communicating with any living creature, up to the limits of the creatures intelligence.  This functions as true speech, but for living creatures only.
 
-**Greatest Form:** At 10th level, she can spend two uses of [wild shape](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Shape-Su-)** to transform into a magical beast, as per Magical Beast Shape.
+**Master of Shapes:** At 10th level, she has become a master of shapeshifting.   When using wildshape, you still gain the attribute bonuses associated with your size change, but none of the other benefits of beast form 1 as you now gain more of the creatures base powers.  Wildshape is alterted in the following ways:
+*  You may take the form of any beast whose CR is lower than your total hit dice.
+*  While shapeshifted, you may choose to use your shapes physical attributes in place of your own, but retain your own Intelligence, Wisdom, and Charisma scores.
+*  You gain all the forms supernatural and extraordinary abilities, both attacks and qualities.
