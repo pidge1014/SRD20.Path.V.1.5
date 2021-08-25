@@ -32,7 +32,7 @@ The druid’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) ([
 ## Class Features
 
 **Nature Bond:** At first level, a druid makes a bond with nature.  This may take one of two forms.  
-The first is a close tie to the natural world, granting the druid one of the following cleric domains: Air, Earth, Fire, Plant, Water, or Weather. Druids also have access to a set of Animal and Terrain Domains. When determining the powers and bonus spells granted by this domain, the druid’s effective cleric level is equal to her druid level. A druid that selects this option also receives additional domain spell slots, just like a cleric. She must prepare the spell from her domain in this slot and this spell cannot be used to cast a spell spontaneously.
+The first is a close tie to the natural world, granting the druid one of the following cleric domains: Air, Earth, Fire, Plant, Water, or Weather. Druids also have access to a set Terrain Domains. When determining the powers and bonus spells granted by this domain, the druid’s effective cleric level is equal to her druid level. A druid that selects this option also receives additional domain spell slots, just like a cleric. She must prepare the spell from her domain in this slot and this spell cannot be used to cast a spell spontaneously.
 In addition, she gains a familiar associated with one of the domains selected.  The familiar may possess the elemental familiar archetype.
 
 The druid may also form a bond with an animal companion.  
