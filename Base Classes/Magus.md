@@ -41,7 +41,7 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 If enhanced weapon is ingrained, it lasts all day once activated, rather than 1 minute.
 
 **Spell Combat (Ex)**:At 1st level, a magus learns to cast spells and wield his weapons at the same time. This functions much like [two-weapon fighting](https://www.d20pfsrd.com/feats/combat-feats/two-weapon-fighting-combat), but the off-hand weapon is a spell that is being cast. To use this ability, the magus must have one hand free (even if the spell being cast does not have somatic [components](https://www.d20pfsrd.com/magic#TOC-Components)), while wielding a light or one-handed melee weapon in the other hand. As a [full-round action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions), he can make all of his attacks with his melee weapon at a –2 penalty and can also cast any spell from the magus spell list with a [**casting time**](https://www.d20pfsrd.com/magic#TOC-Casting-Time) of 1 [**standard action**](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) (any [**attack roll**](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll) made as part of this spell also takes this penalty). If he casts this spell defensively, he can decide to take an additional penalty on his [attack rolls](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll), up to his [**Intelligence**](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) bonus, and add the same amount as a [**circumstance bonus**](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Circumstance-Bonus) on his [**concentration**](https://www.d20pfsrd.com/magic#TOC-Concentration) check. If the check fails, the spell is wasted, but the attacks still take the penalty.
-At 8th level, and every 7 levels thereafter, a magus can cast an additional spell during a full attack, which occurs after , assuming they are able to make the corresponding additional melee weapon attack.
+At 8th level, and every 7 levels thereafter, a magus can cast an additional spell during a full attack, which occurs after the first, assuming they are able to make the corresponding additional melee weapon attack.
 
 ***Martial Specialization:***<br/>
 * **Unarmed Master:** While most magus learn to master casting with one hand, the unarmed masters of the magus have learned to exploit this.<br/>
@@ -78,8 +78,7 @@ Every 4 levels thereafter, the number of arcane points required is reduced by 1.
 
 **Arcane Specialization:**<br/>
 * **Disciplined:** You have learned to use your least powerful spells as judiciously as possible, to the point where some have become second nature
-
-* **Spell Focus:**  At 8th level, you may sacrifice all your spells at your highest spell level in order to focus that power on a lesser spell.  At the start of the day, if you do this, you may select one spell with a level no higher than 1/8h your magus spell casting level.<br/>
+**Spell Focus:**  At 8th level, you may sacrifice all your spells at your highest spell level in order to focus that power on a lesser spell.  At the start of the day, if you do this, you may select one spell with a level no higher than 1/8th your magus spell casting level.<br/>
 At 16th level, this changes to 1/6th your magus casting level.  At 24th level, this changes to 1/4th your magus casting level.  At 32nd level, it becomes up to 1/3 your magus level.
 
 * **Empowered:** You have learned to focus your magic when you focus your strikes.<br/>
