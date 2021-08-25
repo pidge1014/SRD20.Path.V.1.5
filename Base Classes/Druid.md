@@ -73,3 +73,4 @@ A druid cannot be raised from the [**dead**](https://www.d20pfsrd.com/gamemaster
 *  You may take the form of any animal whose CR is lower than your total hit dice.
 *  While shapeshifted, you may choose to use your shapes physical attributes in place of your own, but retain your own Intelligence, Wisdom, and Charisma scores.
 *  You gain all the forms supernatural and extraordinary abilities, both attacks and qualities.
+*  If you meet the prerequisites for a feat while using wild shape but not in your normal form, you may take the feat, but only benefit from it when its prerequisites are being met.
