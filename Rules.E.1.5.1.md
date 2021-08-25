@@ -57,10 +57,12 @@ Starting Difficulty: CR = Party level x 1.5 for standard difficulty.  Add up to 
 
 SR, All Saves, CMD : apply penalty to all equal to half the party level
 
-**New Feats:**
-**Special focus(general)** : 	**Requirements**: 1 ingrained class feature  
+**New/Modified Feats:**
+**Special focus(general), new** : 	**Requirements**: 1 ingrained class feature  
 
 `				`**Benefit:** You may ingrain a class feature from a class you have three 					levels in, but is not a favored class.
+
+**All feats that require BAB** : Character level may be used in place of base attack bonus for the purposes of qualifying for feats.
 
 **Modified/New Spells:**
 
