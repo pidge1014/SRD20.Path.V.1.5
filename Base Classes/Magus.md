@@ -74,7 +74,7 @@ Every 4 levels thereafter, the number of arcane points required is reduced by 1.
 
 **Counterstrike(Ex):** At 6th level, whenever an enemy within reach of the magus successfully casts a spell defensively, that enemy provokes an [attack of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity) from the magus after the spell is complete.  The magus does not need to have this target engaged. This [attack of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity) cannot disrupt the spell. 
 
-**Knowledge Pool:** At 7th level, when a magus prepares his magus spells, he can decide to expend 1 or more points from his arcane pool, up to his [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** bonus. For each point he expends, he can treat any one spell from the magus spell list as if it were in his spellbook and can prepare that spell as normal that day. If he does not cast spells prepared in this way before the next time he prepares spells, he loses those spells. He can also cast spells added in this way using his spell recall ability, but only until he prepares spells again.** 
+**Knowledge Pool:** At 7th level, a magus can empower themselves by returning their spells to their arcane form and harnessing it.  You may sacrifice a spell in order to gain arcane pool points equal to the spells level.  Spells recalled using Spell Recall may not be used for this.
 
 **Arcane Specialization:**<br/>
 * **Disciplined:** You have learned to use your least powerful spells as judiciously as possible, to the point where some have become second nature
