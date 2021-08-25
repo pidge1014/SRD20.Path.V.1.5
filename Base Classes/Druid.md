@@ -70,6 +70,6 @@ A druid cannot be raised from the [**dead**](https://www.d20pfsrd.com/gamemaster
 **Living speech:**  A druid is capable of communicating with any living creature, up to the limits of the creatures intelligence.  This functions as true speech, but for living creatures only.
 
 **Master of Shapes:** At 10th level, she has become a master of shapeshifting.   When using wildshape, you still gain the attribute bonuses associated with your size change, but none of the other benefits of beast form 1 as you now gain more of the creatures base powers.  Wildshape is alterted in the following ways:
-*  You may take the form of any beast whose CR is lower than your total hit dice.
+*  You may take the form of any animal whose CR is lower than your total hit dice.
 *  While shapeshifted, you may choose to use your shapes physical attributes in place of your own, but retain your own Intelligence, Wisdom, and Charisma scores.
 *  You gain all the forms supernatural and extraordinary abilities, both attacks and qualities.
