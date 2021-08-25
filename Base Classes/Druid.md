@@ -23,8 +23,8 @@ The druid’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) ([
 |3rd|2|+3|+1|+3|Trackless Step|
 |4th|3|+4|+1|+4|Wild Shape|
 |5th|3|+4|+1|+4|Resist nature's Lure|
-|6th|4|+5|+2|+5|<h4>` `Many Lives</h4>|
-|7th|5|+5|+2|+5|<h4>Venom Immunity</h4>|
+|6th|4|+5|+2|+5|Many Lives|
+|7th|5|+5|+2|+5|Venom Immunity|
 |8th|6|+6|+2|+6|Natural Specialty|
 |9th|6|+6|+3|+6|Living Speech|
 |10th|7|+7|+3|+7|Master of Shapes|
