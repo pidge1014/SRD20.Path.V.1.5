@@ -64,6 +64,8 @@ SR, All Saves, CMD : apply penalty to all equal to half the party level
 
 **All feats that require BAB** : Character level may be used in place of base attack bonus for the purposes of qualifying for feats.
 
+**Dimensional Assault, modified** : New requirements, now a character only needs to have dimensional door, or similiar teleport ability on their spell list to qualify for this feat and any similar feats.
+
 **Modified/New Spells:**
 
 Freedom of Movement - *Modified*
