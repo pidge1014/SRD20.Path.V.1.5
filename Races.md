@@ -291,6 +291,7 @@ OPTIONAL CHARACTER TRAITS
 - **Weapon Familiarity**: Orcs are always proficient with greataxes and falchions, and treat any weapon with the word “orc” in its name as a martial weapon.
 - **Darkvision (2 CP)**: Orcs can see perfectly in the dark up to 60 feet.
 - **Low Light Vision (1 CP):** You gain low light vision.
+- **Brutish(7 CP):** You come from a historically very strong species and take after your ancestors more than others.  You gain +2 strength and -1 to charisma and dexterity.
 - **Tusks:** You have a large pair of teeth, enough to give you a 1d4+str damage bite attack.
 - **Scent**:  You gain the scent ability.
 - **Test Subject**: While the civilized world long stopped experimenting on any humanoids, not all of the world is civilized.  Spells that effect you have their duration increased by 1 round, if applicable.
@@ -298,6 +299,7 @@ OPTIONAL CHARACTER TRAITS
 - **Thick Skin**: You have unusually thick skin and gain a +1 bonus to natural armor
 - **Stubborn**: You gain a +2 racial bonus to saving throws vs mind effecting spells and effects.
 - **Descendant of Ushuk: (Good Alignments Only)**   You are a favored child of the Goddess Ushuk. This does not mean you are a descendant of hers, only that she selected you to carry her blessings.  Any time you are risking your life to defend the innocent or defeat evil, gain +1 to AC and saves.
+- **Mystic:**  You are adept are connecting with the spiritual world and your connections linger longer than most.  When using spells or spell like abilities with a non instantaneous duration, they last as if you were one caster level higher.
 
 **Clockwork Folk**
 
@@ -314,14 +316,27 @@ FREE CHARACTER TRAITS
 - **Ability Score Modifiers**: Clockwork Folk have swift reflexes and are very intelligent, but have difficulty relating to others. As a result, Clockwork Folk gain a +2 bonus to [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) and [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-), but suffer a –2 penalty to [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-).
 - **Size**: Clockwork Folk can be either medium or small creatures.  Medium creatures have no bonuses or penalties due to their size.  Small clockwork folk gain a +1 [size bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus) to their AC, a +1 [size bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus) on [attack rolls](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll), a –1 penalty to their [Combat Maneuver Bonus](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Bonus) and [Combat Maneuver Defense](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Defense), and a +4 size bonus on [Stealth](https://www.d20pfsrd.com/skills/stealth) checks.
 - **Base Speed**: Clockwork Folk have a base speed that varies by size.  If they are medium it is 30 feet.  Small clockwork folk have a 20 foot movement speed.
+- **Overly Logical**: Clockwork Folk have problems processing emotions properly, and thus take a –4 penalty on [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) checks
 - **Languages**: Clockwork Folk begin play speaking Common. Clockwork Folk with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) can choose any languages they want (except secret languages, such as Druidic). See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
 OPTIONAL CHARACTER TRAITS
 
 - **Always Alert**: Clockwork Folk do not sleep and gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Perception](https://www.d20pfsrd.com/skills/perception) checks.
-- **Logical**: Clockwork Folk have problems processing emotions properly, and thus take a –4 penalty on [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) checks
 - **Light Construction(4CP):** You are built of lighter materials.  You gain +1 bonus to reflex saves and your base speed increases by 5 feet.   In addition, you suffer a -1 penalty to AC and fortitude saves. This may be taken more than once.
-- **Fortified Construction(5CP):**You are built of much tougher materials.  You gain +1 bonus to AC and fortitude saves.   In addition, you suffer a -1 penalty to reflex saves and your base speed decreases by 10 feet. This may be taken more than once.
+- **Fortified Construction(5CP):** You are built of much tougher materials.  You gain +1 bonus to AC and fortitude saves.   In addition, you suffer a -1 penalty to reflex saves and your base speed decreases by 10 feet. This may be taken more than once.
 - **Magically Conductive Construction(5CP):** You have been built with magically conductive materials. Magical power flows through you with extreme ease.  Any arcane spell you cast is treated as though it was cast at +1 caster level for all purposes.  Any arcane spell that effects you is also treated as though it was cast at +1 caster level, only for the purposes of how it effects you.  (For example, if you are included in a fireball cast at level 10, you will take 11d6 damage and the save DC will be +1 higher. )  In addition, you suffer a -1 penalty to saves vs arcane spells.  This can be taken more than once.
 - **Natural Construction(4CP):** A few, particularly strange few wizards created a method to bind a soul to living plants.  You gain the plant subtype, and any spell that effects plants also functions on you.
-
+- **Built in Tools:** You have a hidden implements in your hands.  You gain an item, tool, small instrument (such as a flute), or lockpicks.  You are considered proficient with this item, but not other items of this type.
+- **Agile Construction(4CP):**  You have been crafted to be even more nimble than your contemporaries, but it was done at the cost of weight or astetics.   You gain +1 to your dexterity and -1 to either your charisma or constitution. This can be taken multiple times.
+- **Strong Construction(6CP):**  You have been constructed with especially strong enchantments and materials, but at the cost of .  You gain +1 strength and +1 constitution, but you also have a -1 to charisma and dexterity.  This can be taken multiple times.
+- **Decorative Construction(8CP):** Your body has been crafted primarily like a piece of jewelry.  More focused on beauty than function.  You gain +3 charisma and -1 to strength, dexterity, and constitution. This may be taken multiple times. 
+- **Rare Material Construction(Varies):**  
+* **Adamantine(12 CP)** - Your hit point total is 1/3 more, round up, than normal.  This does not modify temporary hit points gained.
+* **Abysium(2 CP)** - Glow a blue green color, emiting the light of a candle.
+* **Aszite(7 CP)** - This strange material from the plane of shadows binds you to the darkness.  Spells you cast with the shadow or darkness descriptor have +1 caster level.
+* **Encased Djezet(15 CP)** - Your body has been crafted to contain a strange liquid skymetal known as djezet, which has enhanced your spellcasting greatly.  Spells you cast are treated as one level higher.  This stacks with the heighted spell metamagic.
+* **Druchite(10 CP)** - You have been made from a strange material from the plane of shadow, and are hard to percieve.  Attacks made against you have a 10% miss chance.  True seeing, or the ability to see through magical darkness ignores this miss chance.
+* **Horacalcum(9 CP)** - You have been crafted by a metal that interacts with the force of time.  When you roll initiative, you may roll twice and take the higher result.
+* **Siccatite(5 CP)** - A strange silver metal, siccatite is always either burning or freezing.  Your melee attacks deal 1 extra damage and you gain 5 resistance.  One of these is typed fire, the other is cold, your choice.
+* **Spiresteel(7 CP)** - In the early days, most clockwork folk contained at least some spiresteel, due to its draw to soul energy.  You apply your natural armor bonus, if any, to your AC vs incorporeal creatures. 
+* **Voidglass(10 CP)** - You have been built out of a clear and very strong material.  You gain a +4 racial bonus to stealth checks, and when not wearing armor or clothing, can hide with any level of cover or concealment.  
