@@ -45,9 +45,9 @@ At 8th level, and every 7 levels thereafter, a magus can cast an additional spel
 
 ***Martial Specialization:***<br/>
 * **Unarmed Master:** While most magus learn to master casting with one hand, the unarmed masters of the magus have learned to exploit this.<br/>
-**Unarmed Spell Combat** (Su): At  2nd level an  unarmed master can use their spell combat ability when unarmed.  They do not need to have a free hand for ranged spell combat.<br/>
-**Two Free Hands** (Su): At 10th level, when making an unarmed attack, an unarmed master can choose to forgo it in order to cast a spell of their choice. They may do this once per round and is in addition to the spells they cast using spell combat.<br/>
-At 18th level, and every 8 levels thereafter, a magus can forgo an additional attack in order to cast a spell each round.
+**Unarmed Spell Combat** (Su): At  2nd level an  unarmed master can use their spell combat ability when unarmed.  You gain improved unarmed strike as a bonus feat.
+**Two Free Hands** (Su): At 9th level, when making an unarmed attack, an unarmed master can choose to forgo it in order to cast a spell of their choice. They may do this once per round and is in addition to the spells they cast using spell combat.<br/>
+At 18th level, and every 9 levels thereafter, a magus can forgo an additional attack in order to cast a spell each round.
 
 * **Eldritch Archer:** Preferring to stay away from the fray, the eldritch archers of the orders of magus have become masters of delivering spells while carrying a bow.<br/>
 **Ranged Spell Combat** (Su): At  2nd level an eldritch archer can use their spell combat ability with a ranged weapon of their choice.  They do not need to have a free hand for ranged spell combat.<br/>
