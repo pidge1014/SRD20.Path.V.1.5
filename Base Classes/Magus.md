@@ -19,7 +19,7 @@ The magus’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) ([
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
 |1st|0|+2|+0|+2|Arcane pool, spell combat, spellcasting(as 1e)|
-|2nd|1|+3|+0|+3|Martial Specialization|
+|2nd|1|+3|+0|+3|Martial Specialization, spell strike|
 |3rd|2|+3|+1|+3|Magus Arcana|
 |4th|3|+4|+1|+4|Spell recall|
 |5th|3|+4|+1|+4|Medium armor|
@@ -45,7 +45,7 @@ At 8th level, and every 7 levels thereafter, a magus can cast an additional spel
 
 ***Martial Specialization:***<br/>
 * **Unarmed Master:** While most magus learn to master casting with one hand, the unarmed masters of the magus have learned to exploit this.<br/>
-**Unarmed Spell Combat** (Su): At  2nd level an  unarmed master can use their spell combat ability when unarmed.  You gain improved unarmed strike as a bonus feat.
+**Unarmed Spell Combat** (Su): At  2nd level an  unarmed master can use their spell combat ability when unarmed.  You gain improved unarmed strike as a bonus feat.<br/>
 **Two Free Hands** (Su): At 9th level, when making an unarmed attack, an unarmed master can choose to forgo it in order to cast a spell of their choice. They may do this once per round and is in addition to the spells they cast using spell combat.<br/>
 At 18th level, and every 9 levels thereafter, a magus can forgo an additional attack in order to cast a spell each round.
 
