@@ -78,8 +78,7 @@ Every 4 levels thereafter, the number of arcane points required is reduced by 1.
 
 **Arcane Specialization:**<br/>
 * **Disciplined:** You have learned to use your least powerful spells as judiciously as possible, to the point where some have become second nature
-**Spell Focus:**  At 8th level, you may sacrifice all your spells at your highest spell level in order to focus that power on a lesser spell.  At the start of the day, if you do this, you may select one spell with a level no higher than 1/8th your magus spell casting level.<br/>
-At 16th level, this changes to 1/6th your magus casting level.  At 24th level, this changes to 1/4th your magus casting level.  At 32nd level, it becomes up to 1/3 your magus level.
+**Spell Focus:**  At 8th level, you may sacrifice all your spells at your highest spell level in order to focus that power on a lesser spell.  At the start of the day, if you do this, you may select one spell with a level no higher than 1/6th your magus spell casting level.  This spell may be cast as an at will spell like ability.<br/>
 
 * **Empowered:** You have learned to focus your magic when you focus your strikes.<br/>
 **Vital Spell Strike:**  At 8th level, when you deliver a spell using a weapon and are using the vital strike feat, you may double the damage dice from the spell as well as your weapon.<br/>
