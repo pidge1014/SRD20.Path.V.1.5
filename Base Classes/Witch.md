@@ -83,6 +83,6 @@ At level 16, and every 8 levels thereafter, you may use this ability an addition
 In addition, if there were any great outbursts of emotions in the past 24 hours, the witch can sense the imprint it left on the buildings themselves.  While joy and happiness can be fleeting, the impacts of a tragedy often linger longer.  
 
 **Symbiosis:** At 10th level, a witch gains the ability to meld or unmeld with her familiar as a standard action. The symbiosis causes the witch to adopt some basic physical features of the familiar and grants additional abilities based on the witch's level. The witch gains all speed and abilities the familiar possesses listed under beast shape 1.
-The witch gains all natural attacks the familiar may posses.  In addition, the familiar does not lose their seperate initiative.  However, on the familiar's turn, they do not gain access to the witch's spells, spell-like, or supernatural abilities, but do retain their own.
+The witch gains all natural attacks the familiar may posses.  In addition, the familiar does not lose their seperate initiative.  However, on the familiar's turn, they do not gain access to the witch's spells, or spell-like abilities and do retain their own supernatural abiliites or extraordinary abilities.  Any active effects however, remain active.
 
 At 15th level, and every 5 levels thereafter, the abilities available increases to the next version of beast shape to a max of beast shape 4.
