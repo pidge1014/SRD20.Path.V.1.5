@@ -1,17 +1,19 @@
-﻿**Races: (note, lots of work left here)**
+﻿# **Races:**
 
 Characters start with a pool of 20 Character Points, which may be spent on any racial traits or regional traits your character is eligible for.  How you spend this pool represents both who your character was born as, and how society shaped them until this point. 
 
 Traits cost 3 Character points unless otherwise noted on the trait.   While there are very few written restrictions in traits, they should be selected to represent a character and anything contradictory can be denied per GM discretion.  
+
+**Pathfinder 1.0 character traits**  For 1 character point, you may select a pathfinder 1e character trait.  You may select more than 2, but are still limited to one of each type. https://www.d20pfsrd.com/traits/
 
 **Ability Score Modifiers**.  Each race has the option to select alternate ability score modifiers. However, doing so indicates you are just a little bit less like your ancestors than your contemporaries.  For this reason, choosing to select your own ability score modifiers has a 4 character point cost.  
 
 When you select this option, you may select any ability score modifiers, positive or negative, and replace the abilities they apply to.  The bonuses must still apply to a unique ability.
 
 
-**Dwarf:**
+# **Dwarf:**
 
-FREE CHARACTER TRAITS
+## FREE CHARACTER TRAITS
 
 **Default Ability Score Modifiers**: Dwarves are both tough and wise, but also a bit gruff. They gain +2 [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-), +2 [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-), and –2 [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)
 
@@ -21,7 +23,7 @@ FREE CHARACTER TRAITS
 
 **Languages**: Dwarves begin play speaking Common and Dwarven. Dwarves with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) scores can choose from the following: Giant, Gnome, Goblin, Orc, Terran, and Undercommon. See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Defensive Training**: Dwarves gain a +4 [dodge bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus) to AC against monsters of the [giant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Giant) subtype.
 - **Hardy**: Dwarves gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against [poison](https://www.d20pfsrd.com/gamemastering/afflictions/poison), spells, and [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-).
@@ -38,6 +40,7 @@ OPTIONAL CHARACTER TRAITS
 - **Dimdweller (4 CP)**: Whenever characters with this trait benefit from [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment) or full [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment) due to darkness or dim light, they gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Intimidate](https://www.d20pfsrd.com/skills/intimidate), [Perception](https://www.d20pfsrd.com/skills/perception), and [Stealth](https://www.d20pfsrd.com/skills/stealth) checks.
 - **Dusksight (4 CP)**: When making ranged attacks, characters with this trait can reroll the miss chance granted by [cover](https://www.d20pfsrd.com/gamemastering/combat#TOC-Cover) to any target in dim light, and take the better of the two rolls. The miss chance for total [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment) applies normally.  May not be selected with Darkvision.
 - **Darkvision**: Dwarves can see perfectly in the dark up to 60 feet.
+- **Dwarf, Quintessential(10 CP):**  Like your ancestors before your, you are stubborn and strong enough to stand your ground.  When rolling a will save vs a mind effecting spell, you may roll twice and take the higher result.  In addition, your strength score increases by +2.
 - **Giant Hunter**: Dwarves with this racial trait gain a +1 bonus on [attack rolls](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll) against [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) with the [giant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Giant) subtype. Furthermore, they gain a +2 bonus on [Survival](https://www.d20pfsrd.com/skills/survival) checks to find and follow tracks made by [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) with the [giant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Giant) subtype.
 - **Healthy**: Dwarves with this racial trait gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saves against [disease](https://www.d20pfsrd.com/gamemastering/afflictions/diseases) and [poison](https://www.d20pfsrd.com/gamemastering/afflictions/poison), and they need one fewer consecutive successful save (minimum 1) to be cured of diseases and poisons.
 - **Industrious Urbanite**: Dwarves who have adapted to the expectations of their host cities make double the normal progress on [Craft](https://www.d20pfsrd.com/skills/craft) checks to create non-magical items and gain a +4 bonus on [Profession](https://www.d20pfsrd.com/skills/profession) checks to earn money.
@@ -61,13 +64,13 @@ OPTIONAL CHARACTER TRAITS
 - **Wanderer(5 CP)** You gain [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance) as a bonus feat, and [Climb](https://www.d20pfsrd.com/skills/climb) and [Swim](https://www.d20pfsrd.com/skills/swim) are class skills for them.
 
 
-**Elf**
+# **Elf**
 
-Elves average 5 feet tall and typically weigh just over 100 pounds. They live on fruits and grains, though they occasionally hunt for fresh meat. Elves prefer colorful clothes, usually with a green-and-gray cloak that blends well with the colors of the forest.
+Elves average 5 feet tall and typically weigh just over 100 pounds. They live on fruits and grains, though they occasionally hunt for fresh meat. Elves prefer colorful clothes, usually with a green-and-gray cloak that blends well with the colors of the forest.  Elves can count themselves as one of the few soulful races to never have been enslaved and have an ancient hatred for the naga or any race with a history of enslavement.
 
-While Elves can be found in most cities across the continent, the vast majority prefer to live in their cities in the forests. Outsiders are very often welcome in these cities, but few are found there. Most who return say the dramatic difference in lifestyles was simply too much.
+While Elves can be found in most cities across the continent, the vast majority prefer to live in the forests.  The communities formed are not immediately recognizable as cities, as the dwellings are often indistinguisable from the natural settings. Outsiders are very often welcome in these cities, but few are found there. Most who return say the dramatic difference in lifestyles was simply too much.
 
-FREE CHARACTER TRAITS
+## FREE CHARACTER TRAITS
 
 - **Ability Score Modifiers**: Elves are nimble, both in body and mind, but their form is frail. They gain +2 [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +2 [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-), and –2 [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-).
 - **Size**: Elves are Medium creatures and thus receive no bonuses or penalties due to their size.
@@ -75,7 +78,7 @@ FREE CHARACTER TRAITS
 - **Base Speed**: Elves have a base speed of 30 feet.
 - **Languages**: Elves begin play speaking Common and Elven. Elves with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) scores can choose from the following: Celestial, Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan. See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Elven Immunities**: Elves are immune to magic [*sleep*](https://www.d20pfsrd.com/magic/all-spells/s/sleep) effects and gain a +2 racial saving throw bonus against [enchantment](https://www.d20pfsrd.com/magic#TOC-Enchantment) spells and effects.
 - **Elven Magic**: Elves receive a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) checks made to overcome [spell resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Spell-Resistance). In addition, elves receive a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Spellcraft](https://www.d20pfsrd.com/skills/spellcraft) skill checks made to identify the properties of magic items.
@@ -91,6 +94,7 @@ OPTIONAL CHARACTER TRAITS
 - **Dragon Magic (6 CP)**: Some elves have potent draconic blood. Elves with this racial trait who take a [draconic bloodline](https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/draconic-bloodline) as a class feature treat their [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) scores as 2 points higher when determining the DC and uses per day of all [bloodline](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline) abilities and [bloodline](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline) spells. Additionally, elves with this trait add spells with the draconic descriptor to their class spell lists for any spellcasting classes in which they have levels.
 - **Draconic Consular 4 CP)**: Elves serving in the company of [dragons](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon) are trained to assist and represent their draconic allies. Elves with this racial trait gain a +1 bonus on [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) and [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (arcana) checks.
 - **Dreamspeaker**: A few elves have the ability to tap into the power of sleep, dreams, and prescient reverie. Elves with this racial trait add +1 to the saving throw DCs of spells of the divination school and [*sleep*](https://www.d20pfsrd.com/magic/all-spells/s/sleep) effects they cast. In addition, elves with [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) scores of 15 or higher may use [*dream*](https://www.d20pfsrd.com/magic/all-spells/d/dream) once per day as a [spell-like ability](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) ([caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) is equal to the elf’s character level)
+- **Elf, Quintessential(10CP):**  You have the grace and quickness associated with the greatest of your ancestors, as well as their affinity for magic.  You gain +2 to your dexterity score, in addition, if your caster level is below your character level in any class, you may increase it by up to 1/8th your character level.
 - **Envoy**: Elves often have trouble relating to neighbors of other races, especially those with much shorter lifespans. As a result, some are trained in minor magics that are particularly useful when dealing with non-elves. Elves with this racial trait and an [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score of 11 or higher gain the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) once per day: [*comprehend languages*](https://www.d20pfsrd.com/magic/all-spells/c/comprehend-languages), [*detect magic*](https://www.d20pfsrd.com/magic/all-spells/d/detect-magic), [*detect poison*](https://www.d20pfsrd.com/magic/all-spells/d/detect-poison), and [*read magic*](https://www.d20pfsrd.com/magic/all-spells/r/read-magic). The [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) for these effects is equal to the elf’s level.
 - **Fey-Sighted** You gain [*detect magic*](https://www.d20pfsrd.com/magic/all-spells/d/detect-magic) as a constant [spell-like ability](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-), with a [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) equal to your character level.
 - **Fleet-Footed(4 CP)**: While all elves are naturally lithe and agile, some also are naturally speedy and have a strong desire to rush into situations rather than worrying about looking ahead. Elves with this racial trait receive [Run](https://www.d20pfsrd.com/feats/general-feats/run) as a bonus feat and a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [initiative](https://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative) checks.
@@ -110,7 +114,7 @@ OPTIONAL CHARACTER TRAITS
 
 
 
-**Gnomes**
+# **Gnomes**
 
 Gnomes stand 3 to 3½ feet tall and weigh 40 to 45 pounds. Their skin color ranges from dark tan to woody brown, their hair is fair, and their eyes can be any shade of blue. Gnome males prefer short, carefully trimmed beards. Gnomes generally wear leather or earth tones, though they decorate their clothes with intricate stitching or fine jewelry. Gnomes reach adulthood at about age 40, and they live about 350 years, though some can live almost 500 years.
 
@@ -118,7 +122,7 @@ Every great civilization on the continent can count gnomes among them, although 
 
 Gnomes take great delight in life, and while you would think such a long lived species would have patience, it is quite the opposite.  500 years isn't half the time needed to see The Continent, so if something isn't enjoyable to them, its unlikely the a gnome will bother.  
 
-FREE CHARACTER TRAITS
+## FREE CHARACTER TRAITS
 
 - **Ability Score Modifiers**: Gnomes are physically weak but surprisingly hardy, and their attitude makes them naturally agreeable. They gain +2 [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-), +2 [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-), and –2 [Strength](https://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo-domains/strength-domain).
 - **Type**: Gnomes are Humanoid creatures with the gnome subtype.
@@ -126,7 +130,7 @@ FREE CHARACTER TRAITS
 - **Base Speed**: (Slow Speed) Gnomes have a base speed of 20 feet.
 - **Languages**: Gnomes begin play speaking Common, Gnome, and Sylvan. Gnomes with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) scores can choose from the following: Draconic, Dwarven, Elven, Giant, Goblin, and Orc. See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Defensive Training**: Gnomes gain a +4 [dodge bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus) to AC against monsters of the [giant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Giant) subtype.
 - **Illusion Resistance**: Gnomes gain a +2 racial saving throw bonus against [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells and effects.
@@ -145,6 +149,7 @@ OPTIONAL CHARACTER TRAITS
 - **Faerie Dragon Magic (2 RP)**: Some gnomes ally with capricious [faerie dragons](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-faerie) or share a supernatural kinship with these enigmatic creatures. Gnomes with this trait add 1 to the DCs of saves against the illusion spells they cast. Additionally, a gnome with a [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) score of 11 or higher can use each of the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) once per day: [*ghost sound*](https://www.d20pfsrd.com/magic/all-spells/g/ghost-sound), [*grease*](https://www.d20pfsrd.com/magic/all-spells/g/grease), and [*silent image*](https://www.d20pfsrd.com/magic/all-spells/s/silent-image). The [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) for these effects is equal to the gnome’s character level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) modifier.
 - **Fell Magic** Gnomes add +1 to the DC of any saving throws against [necromancy](https://www.d20pfsrd.com/magic#TOC-Necromancy) spells that they cast. Gnomes with [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) scores of 11 or higher also gain the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-): **1/day**—[*bleed*](https://www.d20pfsrd.com/magic/all-spells/b/bleed), [*chill touch*](https://www.d20pfsrd.com/magic/all-spells/c/chill-touch), [*detect poison*](https://www.d20pfsrd.com/magic/all-spells/d/detect-poison), and [*touch of fatigue*](https://www.d20pfsrd.com/magic/all-spells/t/touch-of-fatigue). The [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) modifier.
 - **Fey Magic(5 CP)**: Gnomes with this racial trait increase the DC of spells of the [compulsion](https://www.d20pfsrd.com/magic#TOC-Enchantment-Compulsion) subschool they cast by 1. Additionally, if the gnome has a [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) score of 11 or higher, she also gains the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-): 1/day—[*charm person*](https://www.d20pfsrd.com/magic/all-spells/c/charm-person), [*dancing lights*](https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights), [*entangle*](https://www.d20pfsrd.com/magic/all-spells/e/entangle), and [*prestidigitation*](https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation). The [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) modifier.
+- **Gnome, Quintessential(10 CP)** Gnomes have a reputation for their connection to the magic of the natural world, charm, intelligence and toughness, and you do as well.  Gain +2 to your intelligence score.  In addition, you gain the fey type, and may speak to any creature with the fey type.  
 - **Gift of Tongues(4 CP)** Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on [Bluff](https://www.d20pfsrd.com/skills/bluff) and [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) checks, and they learn one additional language every time they put a rank in the [Linguistics](https://www.d20pfsrd.com/skills/linguistics) skill.
 - **Inquisitive**: Gnomes have a knack for being in places they shouldn’t be. Gnomes with this trait gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Disable Device](https://www.d20pfsrd.com/skills/disable-device) and [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) checks. This racial trait replaces keen senses and obsessive.
 - **Intrepid Settler**: Some gnomes add to the thrill of living by settling in precarious places. These intrepid gnomes gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against [fear](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Fear) effects and on [Acrobatics](https://www.d20pfsrd.com/skills/acrobatics), [Climb](https://www.d20pfsrd.com/skills/climb), and [Swim](https://www.d20pfsrd.com/skills/swim) checks. This racial trait replaces [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) resistance, keen senses, and obsessive.
@@ -155,10 +160,12 @@ OPTIONAL CHARACTER TRAITS
 - **Utilitarian Magic(4 CP)**: Some gnomes develop practical magic to assist them with their obsessive projects. These gnomes add 1 to the DC of any saving throws against [transmutation](https://www.d20pfsrd.com/magic#TOC-Transmutation) spells they cast. If their [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score is 11 or higher, they also gain the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) 1/day—[*mage hand*](https://www.d20pfsrd.com/magic/all-spells/m/mage-hand), [*open/close*](https://www.d20pfsrd.com/magic/all-spells/o/open-close), [*prestidigitation*](https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation), and [*unseen servant*](https://www.d20pfsrd.com/magic/all-spells/u/unseen-servant). The DC for these spells is equal to 10 + the spell’s level + the gnome’s [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) modifier.
 - **Wright**: Some gnomes prefer to use their natural talents with mechanisms to drive machines. These gnomes gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on driving checks and on [Craft](https://www.d20pfsrd.com/skills/craft) checks to build or repair vehicles.
 
-**Half Elf**
+# **Half Elf**
 
+Half elf's are unique in being the only known hybrid amoung the species with souls.  That said, they are as welcome as either of their parents in the cities of the continent and at home amoung the elves in the forests and humans in their great cities.  Taller, and often stronger than an elf, half elves have a natural adaptability often associated with thier human parentage. 
+Many half elfs are in fact less or more than half elf.  This often doesnt make much of a difference, but from time to time a half elf may strongly resemble one of the species more than the other.
 
-FREE CHARACTER TRAITS
+## FREE CHARACTER TRAITS
 
 - **Ability Score Modifiers**: Half-elf characters gain a +2 bonus to one ability score of their choice at creation to represent their varied nature.
 - **Type**: Half-elves are [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) creatures with both the [human](https://www.d20pfsrd.com/races/core-races/human) and the [elf](https://www.d20pfsrd.com/races/core-races/elf) subtypes.
@@ -167,15 +174,15 @@ FREE CHARACTER TRAITS
 - **Languages**: Half-elves begin play speaking Common and Elven. Half-elves with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) scores can choose any languages they want (except secret languages, such as Druidic). See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 - **Elf Blood**: Half-elves count as both elves and [humans](https://www.d20pfsrd.com/races/core-races/human/) for any effect related to race.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Elven Immunities**: Half-elves are immune to magic [*sleep*](https://www.d20pfsrd.com/magic/all-spells/s/sleep) effects and gain a +2 racial saving throw bonus against [enchantment](https://www.d20pfsrd.com/magic#TOC-Enchantment) spells and effects.
 - **Adaptability**: Half-elves receive [Skill Focus](https://www.d20pfsrd.com/feats/general-feats/skill-focus) as a bonus feat at 1st level.
 - **Keen Senses**: Half-elves receive a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Perception](https://www.d20pfsrd.com/skills/perception) checks.
 - **Low-Light Vision**: Half-elves can see twice as far as [humans](https://www.d20pfsrd.com/races/core-races/human/) in conditions of dim light.
 - **Multitalented**: Half-elves choose two favored classes at first level and gain +1 hit point or +1 skill point whenever they take a level in either one of those classes.
-- **Alert for Betrayal** You gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saves against [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells and effects. [Perception](https://www.d20pfsrd.com/skills/perception) and [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) are class skills for you. This racial trait replaces adaptability. **Source** [PZO9480](http://amzn.to/2q9yMgS)
-- **Ancestral Arms**: Some half-elves receive training in an unusual weapon. Half-elves with this racial trait receive [Exotic Weapon Proficiency](https://www.d20pfsrd.com/feats/combat-feats/exotic-weapon-proficiency-combat) or [Martial Weapon Proficiency](https://www.d20pfsrd.com/feats/combat-feats/martial-weapon-proficiency) with one weapon as a bonus feat at 1st level. This racial trait replaces the adaptability racial trait.
+- **Alert for Betrayal** You gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saves against [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells and effects. [Perception](https://www.d20pfsrd.com/skills/perception) and [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) are class skills for you. 
+- **Ancestral Arms**: Some half-elves receive training in an unusual weapon. Half-elves with this racial trait receive [Exotic Weapon Proficiency](https://www.d20pfsrd.com/feats/combat-feats/exotic-weapon-proficiency-combat) or [Martial Weapon Proficiency](https://www.d20pfsrd.com/feats/combat-feats/martial-weapon-proficiency) with one weapon as a bonus feat at 1st level.
 - **Arcane Training(4 CP)**: Half-elves occasionally seek tutoring to help them master the magic in their blood. Half-elves with this racial trait have only one favored class, and it must be an arcane spellcasting class. They can use spell trigger and spell completion items for their favored class as if one level higher (or as a 1st-level character if they have no levels in that class).
 - **Drow Magic**: A few half-elves with [drow](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/drow-common) ancestry exhibit the innate magic of that race. Half-elves with this trait have [drow](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/drow-common) blood somewhere in their background, and can cast [*dancing lights*](https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights), [*darkness*](https://www.d20pfsrd.com/magic/all-spells/d/darkness), and [*faerie fire*](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire) each once per day, using the half-elf’s character level as the [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) for these [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-).
 - **Dual Minded**: The mixed ancestry of some half-elves makes them resistant to mental attacks. Half-elves with this racial trait gain a +2 bonus on all [Will](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will) saving throws.
@@ -183,6 +190,7 @@ OPTIONAL CHARACTER TRAITS
 - **Eye for Opportunity**: Constantly facing the rough edges of two societies, some half-elves develop a knack for finding overlooked opportunities. They gain a +1 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [attacks of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity).
 - **Inspire Imitation**: Whenever a [half-elf](https://www.d20pfsrd.com/races/core-races/half-elf) succeeds at a skill check, she can inspire imitators as a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions). Any ally within 30 feet who witnesses the successful check and attempts the same check within the next minute gains a +2 bonus on the check as if from the [aid another](https://www.d20pfsrd.com/gamemastering/combat#TOC-Aid-Another) action.
 - **Integrated**: Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on [Bluff](https://www.d20pfsrd.com/skills/bluff), [Disguise](https://www.d20pfsrd.com/skills/disguise), and [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (local) checks.
+- **Half Elf, Quintessential (10CP)**:  You personify the adaptabily of your species.  Gain a bonus feat at level 1.  You may select a 3rd favored class.
 - **Multidisciplined(6 CP)**: Born to two races, half-elves have a knack for combining different magical traditions. If a half-elf with this racial trait has spellcasting abilities from at least two different classes, the effects of spells she casts from all her classes are calculated as though her [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) were 1 level higher, to a maximum of her character level
 - **Reflexive Improvisation**: Half-elves raised among [elves](https://www.d20pfsrd.com/races/core-races/elf) often stumble unprepared into each new stage of life because their elven relatives are unaccustomed to the speed of their maturation. They gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on untrained skill checks
 - **Round Ears**: Sometimes half-elves are born with no obvious elven features. Their parents may even be [humans](https://www.d20pfsrd.com/races/core-races/human/) with only faint traces of elven blood. They gain the [human’s](https://www.d20pfsrd.com/races/core-races/human/) skilled racial trait. In addition, they receive a +4 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Disguise](https://www.d20pfsrd.com/skills/disguise) checks to appear [human](https://www.d20pfsrd.com/races/core-races/human).
@@ -192,9 +200,11 @@ OPTIONAL CHARACTER TRAITS
 - **Wary**: Many half-elves have spent their long lives moving from place to place, often driven out by the hostility of others. Such experiences have made them wary of others’ motivations. Half-elves with this trait gain a +1 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) and [Bluff](https://www.d20pfsrd.com/skills/bluff) checks. This racial trait replaces the keen senses racial trait.
 - **Weapon Familiarity**: Half-elves raised among [elves](https://www.d20pfsrd.com/races/core-races/elf) often feel pitied and mistrusted by their longer-lived kin, and yet they receive training in [elf](https://www.d20pfsrd.com/races/core-races/elf) weapons. They gain the [elf](https://www.d20pfsrd.com/races/core-races/elf) ‘s weapon familiarity trait. This racial trait replaces adaptability. **Source** [PCS:ISR](http://www.amazon.com/gp/product/1601257228/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601257228&linkCode=as2&tag=httpwwwd20pfs-20&linkId=5GTXWLOCMWVI6NUI)
 
-**Halfling**
+# **Halfling**
 
-FREE CHARACTER TRAITS
+Eternally positive and resilent, the halfings of the continent live as peaceful of exsistance as possible.  Halfing society is especially known for this, and not much else.  But, only a fool would mistake this species preference for peace as a lack of talent with war.  While they often prefering a simple life, halflings will rise to occation should evil threaten their communities. 
+
+## FREE CHARACTER TRAITS
 
 - **Ability Score Modifiers**: Halflings are nimble and strong-willed, but their small stature makes them weaker than other races. They gain +2 [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +2 [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-), and –2 [Strength](https://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo-domains/strength-domain).
 - **Size**: Halflings are Small creatures and gain a +1 [size bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus) to their AC, a +1 [size bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus) on [attack rolls](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll), a –1 penalty to their [CMB](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Bonus) and [CMD](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Defense), and a +4 [size bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus) on [Stealth](https://www.d20pfsrd.com/skills/stealth) checks.
@@ -202,7 +212,7 @@ FREE CHARACTER TRAITS
 - **Base Speed (Slow Speed**): Halflings have a base speed of 20 feet.
 - **Languages**: Halflings begin play speaking Common and Halfling. Halflings with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) scores can choose from the following: Dwarven, Elven, Gnome, and Goblin. See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Fearless**: Halflings receive a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck.
 - **Halfling Luck**: Halflings receive a +1 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on all saving throws.
@@ -217,6 +227,7 @@ OPTIONAL CHARACTER TRAITS
 - **Danger Detection**: Halflings with this racial trait gain a +4 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Perception](https://www.d20pfsrd.com/skills/perception) checks to notice a creature using [Stealth](https://www.d20pfsrd.com/skills/stealth), as well as [Perception](https://www.d20pfsrd.com/skills/perception) checks to notice a weapon being drawn or a hidden [trap](https://www.d20pfsrd.com/gamemastering/traps-hazards-and-special-terrains/traps/) (or similar signs of danger, subject to the GM’s discretion)
 - **Festive**: Once per day, a halfling with this racial trait can grant an ally within 60 feet a +2 [luck bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Luck-Bonus) on one skill check as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions); this bonus can be applied after the ally’s check result is determined.
 - **Fleet of Foot**: Some halflings are quicker than their kin but less cautious. Halflings with this racial trait move at normal speed and have a base speed of 30 feet. This racial trait replaces slow speed and sure-footed.
+- **Halfling, Quintessential(10 CP)**: You no longer make sound when traveling less than your maximum speed. In addition, you have the nimbleness most associated with your kin. Gain +2 to your dexterity.  
 - **Ingratiating**: Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on skill checks for a single [Perform](https://www.d20pfsrd.com/skills/perform) skill of their choice, and [Perform](https://www.d20pfsrd.com/skills/perform) is always a class skill for them. They also gain a +2 bonus on [Craft](https://www.d20pfsrd.com/skills/craft) and [Profession](https://www.d20pfsrd.com/skills/profession) checks.
 - **Irrepressible**: Halflings with this trait receive a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against dominate and possession effects. This bonus stacks with the bonus granted by halfling luck.
 - **Low Blow**: Some halflings train extensively in the art of attacking larger creatures. Halflings with this racial trait gain a +1 bonus on critical confirmation rolls against opponents larger than themselves.
@@ -236,16 +247,16 @@ OPTIONAL CHARACTER TRAITS
 - **Warslinger**: Halflings are experts at the use of the [sling](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sling). Halflings with this racial trait can reload a [sling](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sling) as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions). Reloading a [sling](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sling) still requires two hands and provokes [attacks of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity).
 
 
-**HUMANS**
+# **HUMANS**
 
-FREE CHARACTER TRAITS
+## FREE CHARACTER TRAITS
 
 - **Ability Score Modifiers**: Human characters gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) to one ability score of their choice at creation to represent their varied nature.
 - **Size**: Humans are Medium creatures and thus receive no bonuses or penalties due to their size.
 - **Base Speed**: Humans have a base speed of 30 feet.
 - **Languages**: Humans begin play speaking Common. Humans with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) scores can choose any languages they want (except secret languages, such as Druidic). See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Bonus Feat(7CP)**: Humans select one extra feat at 1st level.
 - **Skilled(5 CP)**: Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
@@ -271,13 +282,13 @@ OPTIONAL CHARACTER TRAITS
 - **Wayfarer(5 CP)**: Humans maintain the largest trade networks and the farthest-reaching civilizations, putting them in contact with a huge number of cultures. Humans with this racial trait gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Survival](https://www.d20pfsrd.com/skills/survival) checks to avoid becoming lost, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (geography) checks, and [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (local) checks. Whenever these humans gain a rank in [Linguistics](https://www.d20pfsrd.com/skills/linguistics), they learn two languages rather than one.
 
 
-**Orcs**
+# Orcs
 
 No other race exists in extremes like orcs.  Long ago, the evil naga civilizations performed terrible experiments on all of the other humanoid races, trying make more useful servants. Unfortunately for their orcish prisoners, they learned that their natural makeup resulted in the best results with magical breading and created a plethora of creatures all known today as orc.  
 
 While there are still fiercely strong tribes of orcs roaming the lands of their ancestors, orcs can count amongst their number the brightest, wisest, quickest, or most charismatic people on the continent.  Their appearance, can vary as often as their talents.  
 
-FREE CHARACTER TRAITS
+## FREE CHARACTER TRAITS
 
 - **Ability Score Modifiers**: Orcs are brutal and extreme. They gain +6 [Strength](https://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo-domains/strength-domain), –2 [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-), –2 [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-), and –2 [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-).
 - **Type**: Orcs are [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) with the [orc](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#subtype-orc) subtype.
@@ -285,7 +296,7 @@ FREE CHARACTER TRAITS
 - **Base Speed**: Orcs have a base speed of 30 feet.
 - **Languages**: Orcs begin play speaking Common and Orc. Orcs with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) scores can chose from the following: Dwarven, Giant, Gnoll, Goblin, Undercommon. See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Ferocity**: Orcs possess the [ferocity](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Ferocity-Ex-) ability which allows them to remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still [staggered](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Staggered) at 0 [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) or lower and lose 1 hit point each round as normal.
 - **Weapon Familiarity**: Orcs are always proficient with greataxes and falchions, and treat any weapon with the word “orc” in its name as a martial weapon.
@@ -300,8 +311,10 @@ OPTIONAL CHARACTER TRAITS
 - **Stubborn**: You gain a +2 racial bonus to saving throws vs mind effecting spells and effects.
 - **Descendant of Ushuk: (Good Alignments Only)**   You are a favored child of the Goddess Ushuk. This does not mean you are a descendant of hers, only that she selected you to carry her blessings.  Any time you are risking your life to defend the innocent or defeat evil, gain +1 to AC and saves.
 - **Mystic:**  You are adept are connecting with the spiritual world and your connections linger longer than most.  When using spells or spell like abilities with a non instantaneous duration, they last as if you were one caster level higher.
+- **Orc, Quintessential(10 CP):** Despite generations of genetic variation and ancestors of varied talents and gifts, you still have traits dating back to your mighty ancestors.  You gain a +2 to your strength score.  In addition, when rolling to confirm a critical hit, you may roll twice and take the higher result.
 
-**Clockwork Folk**
+
+# Clockwork Folk
 
 For centuries of existence, before the afterlives existed, souls had no where to go after death without magical intervention.  Most lacked the means to afford a second life of their choice and, as a result, the world was flooded with wandering souls.  
 
@@ -311,7 +324,7 @@ Philip, a good person by nature, refused to test this on anyone but himself and 
 
 Today, few clockwork folk are created as they are expensive and most prefer to pass on to the afterlives. The average age of a clockwork folk is 1400 years old.
 
-FREE CHARACTER TRAITS
+## FREE CHARACTER TRAITS
 
 - **Ability Score Modifiers**: Clockwork Folk have swift reflexes and are very intelligent, but have difficulty relating to others. As a result, Clockwork Folk gain a +2 bonus to [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) and [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-), but suffer a –2 penalty to [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-).
 - **Size**: Clockwork Folk can be either medium or small creatures.  Medium creatures have no bonuses or penalties due to their size.  Small clockwork folk gain a +1 [size bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus) to their AC, a +1 [size bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus) on [attack rolls](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll), a –1 penalty to their [Combat Maneuver Bonus](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Bonus) and [Combat Maneuver Defense](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Defense), and a +4 size bonus on [Stealth](https://www.d20pfsrd.com/skills/stealth) checks.
@@ -319,7 +332,7 @@ FREE CHARACTER TRAITS
 - **Overly Logical**: Clockwork Folk have problems processing emotions properly, and thus take a –4 penalty on [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) checks
 - **Languages**: Clockwork Folk begin play speaking Common. Clockwork Folk with high [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) can choose any languages they want (except secret languages, such as Druidic). See the [Linguistics skill page](https://www.d20pfsrd.com/skills/linguistics) for more information about these languages.
 
-OPTIONAL CHARACTER TRAITS
+## OPTIONAL CHARACTER TRAITS
 
 - **Always Alert**: Clockwork Folk do not sleep and gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Perception](https://www.d20pfsrd.com/skills/perception) checks.
 - **Light Construction(4CP):** You are built of lighter materials.  You gain +1 bonus to reflex saves and your base speed increases by 5 feet.   In addition, you suffer a -1 penalty to AC and fortitude saves. This may be taken more than once.
