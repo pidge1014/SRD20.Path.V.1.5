@@ -28,12 +28,12 @@ The monk’s class skills are [Acrobatics](https://www.d20pfsrd.com/skills/acrob
 |2nd|1|+3|+3|+3|Mental Specialization|
 |3rd|2|+3|+3|+3|Breathing exercises|
 |4th|3|+4|+4|+4||
-|5th|4|+4|+4|+4|Ancestor's memory, Improved pragmatic combat|
-|6th|5|+5|+5|+5|Internal Body Control|
+|5th|4|+4|+4|+4|Ancestor's memory|
+|6th|5|+5|+5|+5|Improved pragmatic combat|
 |7th|6|+5|+5|+5|Voice of your Ancestors|
 |8th|7|+6|+6|+6|Greater Pragmatic Combat|
 |9th|8|+6|+6|+6|Mental Fortitude|
-|10th|8|+7|+7|+7|<h4>Simulflow</h4>|
+|10th|8|+7|+7|+7|Simulflow|
 
 ## Class Features
 
@@ -96,7 +96,7 @@ At 8th level, you may add a second attack to your full attack, as if you were us
 At 15th level, you may add a third attack to your full attack, as if you were using the greater two weapon fighting feat.
 This meditative state counts as flurry of blows for the purposes of feats
 
-**Ancestors Memory (Ex):** Starting at 4th level, a faithless begins to learn how to tap into the collective memory of their ancestors. You may select two skills and add them as class skills, and proficiency with simple, martial or one exotic weapon.  At 10th level, and every 5 levels thereafter, you may select two more skills to add as class skills and one proficiency.
+**Ancestors Memory (Ex):** Starting at 5th level, a faithless begins to learn how to tap into the collective memory of their ancestors. You may select two skills and add them as class skills, and proficiency with simple, martial or one exotic weapon.  At 10th level, and every 5 levels thereafter, you may select two more skills to add as class skills and one proficiency.
 
 **Improved Pragmatic Combat:**  At 6th level, you gain either the Improved Whip Mastery or Blinded Blade style as a bonus feat.
 
