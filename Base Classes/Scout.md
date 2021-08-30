@@ -49,7 +49,7 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 
 **Quick Feet:**  Starting at 3rd level, any time a scout moves at least 10 feet, they gain a +1 bonus to AC and Reflex until the start of their next turn. This bonus increases by 1 every 4 levels. 
 
-**Trackless Step(Ex):** Beginning at 3rd level, a scout cannot be tracked in natural surroundings.
+**Trackless Step(Ex):** Beginning at 3rd level, a scout cannot be tracked in natural or urban surroundings.
 
 **Bonus Feats:** At 4th level and every four levels thereafter, the scout gains a bonus Feat. 
 
