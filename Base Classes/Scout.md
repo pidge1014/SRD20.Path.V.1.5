@@ -38,7 +38,7 @@ This extra damage increases by 1d8 for every three levels gained above 1st (2d8 
 Scouts can apply this extra damage to ranged attacks made while skirmishing, but only if the target is within 30 feet.  This distance increases by 10 feet for every dice added.
 A scout loses this ability when wearing medium or heavy armor or when carrying a medium or heavy load.
 
-**Trapfinding (Ex)**: A scout can use the Search skill to locate traps with a DC higher than 20, and she can use Disable Device to bypass a trap or disarm magic traps. See the rogue class feature
+**Trapfinding (Ex)**: A scout can use the Knowledge:Local skill to locate traps with a DC higher than 20, and she can use Disable Device to bypass a trap or disarm magic traps. 
 
 **Battle Fortitude** (Ex): At 2nd level, and every 8 levels thereafter, a scout gains a +1 competence bonus on Fortitude saves and initiative checks.  A scout loses this bonus when wearing medium or heavy armor or when carrying a medium or heavy load.
 
@@ -64,7 +64,7 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 -**Expose Weakness** At 16th level, a vanguard can expose an enemies weakness.  As a move action, they can point out a vulnerability in an enemy, granting all allies that can hear the vanguard a bonus to damage equal to half your scout level.<br/>
 * **Spy**: You prefer subterfuge to stealth, and have excelled greatly at it. <br/>
 -**Disguise** At 6th level, you may add half your scout levels to your bluff checks.<br/>
--**Underhanded** At 8th level, you may add half your scout levels to your perception and disable device checks.  You may disable magical traps with disable device.<br/>
+-**Underhanded** At 8th level, you may add half your scout levels to your perception and disable device checks.<br/>
 -**Hide Self** At 10th level, a spy can alter her alignment aura to deceive spells that discern alignment (such as detect evil). She may choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. Masking her alignment aura is a standard action, and lasts until she changes it again or ends the effect.<br/>
 -**Hide Mind** At 16th level, you gain a constant mind blank effect with a caster level equal to your scout level.  If it gets dispelled, it returns in 1d4 rounds.<br/>
 * **Outrider**: You have specialized in scouting on the back of a mount.<br/>
