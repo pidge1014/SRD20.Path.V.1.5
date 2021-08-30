@@ -51,18 +51,22 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 
 **Trackless Step(Ex):** Beginning at 3rd level, a scout cannot be tracked in natural surroundings.
 
-**Bonus Feats:** At 4th level and every four levels thereafter, the scout gains a bonus Combat Feat. 
+**Bonus Feats:** At 4th level and every four levels thereafter, the scout gains a bonus Feat. 
 
 **Evasion(Ex):** Beginning at 5th level, a scout can avoid damage from certain attacks with a successful Reflex save
 
 **Roll with it(Ex):**  You have become adept at taking advantage of any movement, whether it was forced upon you or not.   For the purposes of distance traveled to qualify for skirmish damage, teleportation and forced movement both contribute.  If this movement was caused by a different creature, the round the movement occurred will not end until the creature acts again on their next initiative.
 
-**Flawless Stride(Ex)**: Starting at 6th level, a scout can move through any sort of terrain that slows movement (such as undergrowth, rubble, and similar terrain) at her normal speed and without taking damage or suffering any other impairment.
-This ability does not let her move more quickly through terrain that requires a Climb or Swim check to navigate, nor can she move more quickly through terrain or undergrowth that has been magically manipulated to impede motion.
-In addition, any time the scout shifts 5 feet, they may choose to shift an additional 5 feet.  This additional distance increases by 5 feet every 6 levels thereafter.
-A scout loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
+**Scouting Focus**: Starting at 6th level, a scout has become more focused on what they have spent their career doing.  You may select one of the following focuses.
+* **Vanguard** - You are almost always first.  First to investigate, first to engage, and first to be attacked.
+** **Lookout** At 6th level, you may add half your scout level to your initiative.
+** **Always Aware** At 10th level, a vanguard is never considered an unaware combatant and is always able to act in the surprise round. The vanguard is still flat-footed in the surprise round until he acts.
+** **Expose Weakness** At 16th level, a vanguard can expose an enemies weakness.  As a move action, they can point out a vulnerability in an enemy, granting all allies that can hear the vanguard a bonus to damage equal to half your scout level.
+* **Spy** -
+* **Outrider** -
+* **Reconnoitre** - 
 
-**Camouflage (Ex):** Beginning at 7th level, a scout can use the Hide skill in any sort of natural terrain.  She loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
+**Camouflage (Ex):** Beginning at 7th level, a scout can use the Hide skill in any sort of natural or urban terrain.  She loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
 
 **Alarmingly Fast (Ex):**  Your hours traveling cross country has not just taught you to travel faster than your allies, but more.  At 8th level, on your turn, you gain an additional move action.  If this action is used for movement, the scout can to travel up to ¼ of their total movement speed (round up to next 5ft increment), provoking as normal, or on a 5 foot shift.  This move action may also be spent on any ability, spell, or spell like ability the scout may possess.
 
