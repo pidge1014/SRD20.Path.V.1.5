@@ -89,6 +89,11 @@ At 15th level, and every 6 levels thereafter, you may add an additional 1d6 dama
 **Vital Strike Mastery:** At 10th level, when using vital strike with a natural weapon, you may multiple the additional dice on a critical hit.  This does not apply to the 3rd and 4th set of weapon dice granted by the improved and greater versions of vital strike.  <br/>
 At 17th level, this now applies to all damage dice granted by Improved Vital Strike.  At level 24, all dice added by greater vital strike are multiplied on a crit.
 
+* **Thrown Weapon:**<br/>
+**Great toss:**  At 5th level, when making a thrown weapon attack, you may double your first range.<br/>
+**Hulking Hurler:**  At 9th level, when you are able to throw a weapon one size larger than normal without penalty.
+At 18th level, and every 9 levels thereafter, this increases by one additional size.
+
 * **Two Handed Weapon:**<br/>
 **Team Power Attack:**  At 5th level, when power attacking an opponent flanked by your animal companion, you may choose to forgo the flanking bonus to instead double the damage bonus power attack provides.<br/>
 **Furious Mastery:**  At 9th level, when you are wielding a two handed weapon, and using power attack, you do not suffer power attacks penalty on the first melee attack roll each turn.  If you already have an ability that prevents a penalty on your first attack, this instead applies to your second power attack each turn.<br/>
