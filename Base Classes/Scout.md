@@ -25,7 +25,7 @@ The scout class skills are [Acrobatics](https://www.d20pfsrd.com/skills/acrobati
 |3rd|3|+1|+3|+1|Fast movement, quick feet(+1AC), trackless step|
 |4th|4|+1|+4|+1|Bonus Feat|
 |5th|5|+1|+4|+1|Evasion, Roll with it|
-|6th|6|+2|+5|+2|Flawless Stride|
+|6th|6|+2|+5|+2|Scouting Focus|
 |7th|7|+2|+5|+2|Camouflage|
 |8th|8|+2|+6|+2|Bonus feat, Quick Step|
 |9th|9|+3|+6|+3|Hide in Plain Sight|
