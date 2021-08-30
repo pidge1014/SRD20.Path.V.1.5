@@ -67,10 +67,10 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 -**Underhanded** At 8th level, you may add half your scout levels to your perception and disable device checks.  You may disable magical traps with disable device.<br/>
 -**Hide Self** At 10th level, a spy can alter her alignment aura to deceive spells that discern alignment (such as detect evil). She may choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. Masking her alignment aura is a standard action, and lasts until she changes it again or ends the effect.<br/>
 -**Hide Mind** At 16th level, you gain a constant mind blank effect with a caster level equal to your scout level.  If it gets dispelled, it returns in 1d4 rounds.<br/>
-* **Outrider**: You have specialized in scouting on the back of a mount.
+* **Outrider**: You have specialized in scouting on the back of a mount.<br/>
 -**Faithful Mount**  At 6th level, you gain Phantom Steed as an at will spell like ability.  Your caster level is equal to your scout level.  You may only have one active phantom steed at a time.  In addition, you gain the mounted combat feat.<br/>
 -**Shared Senses** At 10th level, you have developed the ability to share your sight with your allies.  At the start of the day, you may designate any number of allies to share your senses with.  For the next 24 hours, you may choose to share anything you see, smell, or hear.  You may only choose to stop or start sharing your senses with a standard action.<br/>
--**Shared Movement** At 16th level, you may grant one or more move actions you have to your mount.
+-**Shared Movement** At 16th level, you may grant one or more move actions you have to your mount.<br/>
 * **Reconnoitre**: You have developed an incredible talent for noticing and remembering details. <br/>
 -**Recognition**: You have an amazing ability to identify small features in your enemies to decern what they truly are.  At 6th level, when making a skill check to identify an enemy, you gain a bonus equal to your scout level and you are always treated as trained.<br/>
 -**Spellspy**: You have learned to identify spells with little to no knowledge of them.  At 8th level, you may make spellcraft checks as if you were trained.  In addition, you may add half your scout level to your spellcraft checks to identify spells.<br/>
