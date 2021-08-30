@@ -58,13 +58,23 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 **Roll with it(Ex):**  You have become adept at taking advantage of any movement, whether it was forced upon you or not.   For the purposes of distance traveled to qualify for skirmish damage, teleportation and forced movement both contribute.  If this movement was caused by a different creature, the round the movement occurred will not end until the creature acts again on their next initiative.
 
 **Scouting Focus**: Starting at 6th level, a scout has become more focused on what they have spent their career doing.  You may select one of the following focuses.
-* **Vanguard** - You are almost always first.  First to investigate, first to engage, and first to be attacked.
-** **Lookout** At 6th level, you may add half your scout level to your initiative.
-** **Always Aware** At 10th level, a vanguard is never considered an unaware combatant and is always able to act in the surprise round. The vanguard is still flat-footed in the surprise round until he acts.
-** **Expose Weakness** At 16th level, a vanguard can expose an enemies weakness.  As a move action, they can point out a vulnerability in an enemy, granting all allies that can hear the vanguard a bonus to damage equal to half your scout level.
-* **Spy** -
-* **Outrider** -
-* **Reconnoitre** - 
+* **Vanguard** - You are almost always first.  First to investigate, first to engage, and first to be attacked.<br/>
+-**Lookout** At 6th level, you may add half your scout level to your initiative.<br/>
+-**Always Aware** At 10th level, a vanguard is never considered an unaware combatant and is always able to act in the surprise round. The vanguard is still flat-footed in the surprise round until he acts.<br/>
+-**Expose Weakness** At 16th level, a vanguard can expose an enemies weakness.  As a move action, they can point out a vulnerability in an enemy, granting all allies that can hear the vanguard a bonus to damage equal to half your scout level.<br/>
+* **Spy**: You prefer subterfuge to stealth, and have excelled greatly at it. <br/>
+-**Disguise** At 6th level, you may add half your scout levels to your bluff checks.<br/>
+-**Underhanded** At 8th level, you may add half your scout levels to your perception and disable device checks.  You may disable magical traps with disable device.<br/>
+-**Hide Self** At 10th level, a spy can alter her alignment aura to deceive spells that discern alignment (such as detect evil). She may choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. Masking her alignment aura is a standard action, and lasts until she changes it again or ends the effect.<br/>
+-**Hide Mind** At 16th level, you gain a constant mind blank effect with a caster level equal to your scout level.  If it gets dispelled, it returns in 1d4 rounds.<br/>
+* **Outrider**: You have specialized in scouting on the back of a mount.
+-**Faithful Mount**  At 6th level, you gain Phantom Steed as an at will spell like ability.  Your caster level is equal to your scout level.  You may only have one active phantom steed at a time.  In addition, you gain the mounted combat feat.<br/>
+-**Shared Senses** At 10th level, you have developed the ability to share your sight with your allies.  At the start of the day, you may designate any number of allies to share your senses with.  For the next 24 hours, you may choose to share anything you see, smell, or hear.  You may only choose to stop or start sharing your senses with a standard action.<br/>
+-**Shared Movement** At 16th level, you may grant one or more move actions you have to your mount.
+* **Reconnoitre**: You have developed an incredible talent for noticing and remembering details. <br/>
+-**Recognition**: You have an amazing ability to identify small features in your enemies to decern what they truly are.  At 6th level, when making a skill check to identify an enemy, you gain a bonus equal to your scout level and you are always treated as trained.<br/>
+-**Spellspy**: You have learned to identify spells with little to no knowledge of them.  At 8th level, you may make spellcraft checks as if you were trained.  In addition, you may add half your scout level to your spellcraft checks to identify spells.<br/>
+-**Spellstrike**: At 12th level, you can spend an immediate action to make an attack against an enemy casting a spell, which you have identified, within 60 feet.  If the attack hits, the spell is interupted. <br/>
 
 **Camouflage (Ex):** Beginning at 7th level, a scout can use the Hide skill in any sort of natural or urban terrain.  She loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
 
