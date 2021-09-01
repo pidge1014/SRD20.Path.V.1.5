@@ -1,10 +1,26 @@
 # The Continent: Players Guide
 
+## Pathfinder 1.5e
+**The Goal**  Pathfinder 1e ultimately has all of the same problems they set out to solve in 3.5, and created some new ones along the way.  1.5e sets out to solve the following issues with pathfinder 1e:
+* **Action economy** At high levels especially, a wizard can have a 10-15 minute turn and if the enemy is lacking similiar support, wins.  One of the system goals is to bring action economy in line accross the classes.  The standard for action economy in this system is a wizard with a familiar, casting two spells a round with a rod of familiar spell.  At high levels, the standard is time stop.  Not all classes quite reach this many actions, and some can surpass it, but most classes should be very active in combat.
+* **Limited optimization** Pathfinder and 3.5 suffer from similiar problems, there are a large number of builds that work early on and in mid game, but do not effectively compete at high level.  Moreover, there is a significant convergence of options for classes and builds and nearly all high level characters will have a set of predictable feats.  In 1.5, this is attempted to be solved with ingrained class features.  Ingraining a class feature enables the most critical aspects of your class to scale with you, no matter what you actually do with your level, vastly expanding the potential for a variety of viable options.
+* **Lack of class identity** While the base game of pathfinder 1e did not suffer from this as much, by the end, when all archetypes were considered, classes had little identity. There are very few martial builds that can't be accomplished by every martial class, and are largely indistinguishable characters with a few different tricks or pets.  One of the major goals in 1.5 is to prevent redundancy in a way that would undermine a class's existance.  
 
-## The Gods
+## Classes summary
+**Fighter** :Fighters are designed to be the ultimate martial combatants.  If you want to focus on using a weapon to deal damage, this should scale higher than the other classes.  The cost of this is mobility, fighters do not have any increased action economy and will need help to stay in full attack range.  When there, enemies should disapear shortly.
+**Bard** : Versatile to the extreme. Bards can do a little bit of everything, including having access to other classes spell lists, but don't really do anything the best.
+**Druid** : The Druid's have regained their shapeshifting prowess. Their capstone power provides them with 3.5 style true polymorph as their wild shape.  Their spell list is still the same, and they have the largest list of animal companion options. Druid are arcane spell casters, as they predate the existence of gods.  This has no effect on their spellcasting, as long as their armor is natural.
+**Ranger** : The ranger is a versatile combatant, behind the fighter in raw damage, but potent none the less.  But, when paired with their loyal companion, they are a dangerous addition to any party. 
+**Magus** : Blending magic and attacks, the magus can compete with any class in raw damage, depending on what spells they decide to cast on their turn.
+**Scout** : When an army, or group of any size, needs to send someone to take a look, that person is usually a scout.  Scouts are masters of movement, and typically possess the skills needed to infiltrate whatever is nessesary.
+**Cleric** : If you are willing to follow a church's strick and often strange dogma, there can be great power found.  A Cleric can wade into battle, focus on spell casting, or become the ultimate support character.  
+**Faithless** : Faithless rely on their mental accuity to cast spells, and survive them.  They are the undisputed kings of action economy, but are far more battlefield controller than the type of magical threat brought by a wizard or witch.
+**Wizard** : A Wizard is a powerful student of the natural fonts of magic.  Which one they specialize in will often shape them in strange ways.
+**Witch** : Where Wizards specialize in understanding magic intellictually, witches work to understand magic emotionally.  It is often said a witch could bend a rock to her will.
 
+# The Gods
 
-On the very first day an intelligent creature walked on The Continent, there were no gods in the universe.  The raw powers of the universe existed, but remained uncontrolled and unfocused.  With the help of magic, creatures evolved into the wild and unexplainable variety of life that is found today.
+On the very first day an intelligent creature stirred on the Continent, there were no gods in the universe.  The raw powers of the universe existed, but remained uncontrolled and unfocused.  With the help of magic, creatures evolved into the wild and unexplainable variety of life that is found today.
 
 It was not until Benjamin the Conqueror died that the world knew their first god.  Benjamin was far from the most powerful individual to be alive or have lived, nor was he the most revered living being. But, at the moment of his death, a blindingly bright light erupted upwards and ascended on the faith of his citizens and became the first god of the High Pantheon, and created the first of the outer planes, now knows as the Upper Outer Planes.
 
