@@ -53,6 +53,14 @@ In the Islands to the east, resides one of the oldest Elf civilizations in the c
 
 The Flintfall Mountains housed a mighty empire of dwarves.  If would sadden the dwarves of Mount Herbert, to know of the fate of the rest of the Flintfall dwarves as most of the mountain range has been enveloped by the Scar.  There are rumors of nasty dwarf like creatures roaming the dark cursed dwarven halls under the Scar, but few are fool hardy enough to venture into that accursed place to find out.
 
+## Dragons, Naga, and the early days of the world
+
+Life evolved on the continent much like it does on every planet it exists on.   However, unlike most other worlds, magic on the continent was both abundant and focused on the far side of the continent, and built up to tremendous levels in the deep oceans.  The creatures that exist there can barely be described as living things.  So far lost to the influences of magic, many barely exist on this plane.   One such creature, according to elven legends, which has given itself the name of Tzura Tbi Ywnrell, delights in the creation of species.   The legend goes that a strange piece of metal fell into the deep ocean from the skies above, from it and a nearby creature of the deep, Tzura crafted the very first chromatic dragon.  Tzura, seeing his creation shine with purity and benevolence, lashed out and attempted to destroy the creature.  But, the dragon was no helpless and fled the clutches of the monster in the deep.
+
+The Dragon took the name Abzu, and soon found she had a great deal more in common with the small folk who resided out of the water. Abzu spent years traveling, but found the elves of the continent to be quite friendly to them and eventually established her residence at Goldhaven, the capitol of Eastern Kingdom of the Elves.  To this day, a significant number of elven cities are home to chromatic dragons
+
+
+
 **Berrydew Valley, and South of the Flintfall Mountains**
 
 To the majority of the world, the Scar is simply something to avoid.  An inconvenience that messes with long distance teleportation, and little else.  This is because the majority of creatures native to the horrific wastes are also stuck there.  The energy of the area outside the scar is as harmful to them as the scar is to humanoids.
