@@ -50,6 +50,10 @@ An animal companion's ability in combat is closely tied to the training they rec
 
 In the case of boon companion, the BAB gained is equal to the first four levels(or less) of the class that first granted the animal companion class feature.
 
+**Cohorts**
+
+Cohorts function at a constant level of character level - 4.
+
 
 **Combat CR adjustments from Pathfinder 1E:**
 
