@@ -52,7 +52,7 @@ In the case of boon companion, the BAB gained is equal to the first four levels(
 
 **Cohorts**
 
-Cohorts function at a constant level of character level - 4.
+Leadership feat and cohorts function slightly differently.  In the case of Monstrous Companion or Monstrous Mount, the creatures effective level is equal to their CR and any magical beast, per GM approval, may be selected.  A Player's cohort's level is equal to their level -4.  Class levels should follow the same rules as all monsters taking class levels.
 
 
 **Combat CR adjustments from Pathfinder 1E:**
