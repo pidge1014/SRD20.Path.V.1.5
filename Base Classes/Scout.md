@@ -53,7 +53,7 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 
 **Bonus Feats:** At 4th level and every four levels thereafter, the scout gains a bonus Feat. 
 
-**Evasion(Ex):** Beginning at 5th level, a scout can avoid damage from certain attacks with a successful Reflex save
+**Evasion(Ex):** Beginning at 5th level, a scout can avoid damage from certain attacks with a successful Reflex save. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the scout is wearing light armor or no armor. A helpless scout does not gain the benefit of evasion.
 
 **Roll with it(Ex):**  You have become adept at taking advantage of any movement, whether it was forced upon you or not.   For the purposes of distance traveled to qualify for skirmish damage, teleportation and forced movement both contribute.  If this movement was caused by a different creature, the round the movement occurred will not end until the creature acts again on their next initiative.
 
