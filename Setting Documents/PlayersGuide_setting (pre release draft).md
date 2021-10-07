@@ -73,7 +73,9 @@ Characters will use a 25 point buy for ability scores, start at level 4, with 10
 The continient is 50,000 miles accross, and while Flintfall's Splinter is small, the City of Peace connects it to the world.  There is no reason the gunslinging dwarven airship captain and his crew can't find themselves there, even if there is no local equivalent.  Any archetype or class from pathfinder 1.e should be considered available.
 
 Note: There are P1e classes that do not have major class features as I have defined them. (excluding capstones: monks, slayers, and rogues have 0 unique and scalable class features)  The closest is sneak attack, but holy crap is that everywhere in 1e.
+
 Unchained and Mythic is not allowed.  Mythic's solution to action economy is "everyone can pounce", which was lazy and kind of boring, IMO.  I have balance concerns with Unchained.
-While everything is available for adaption, something special to make these base classes scale in a unique and interesting way will need to be added or adapted.
+
+While everything pathfinder is technically still available for adaption, something special to make these base classes scale in a unique and interesting way will need to be added or adapted.
 
 Note: A Minor Class Feature is simply something that is mainly RP or out of combat, granted by spells or feats, or commonly available to other classes.  In 1.5e, a wizard can not simply obsolete another characters class features with a permanent spell.
