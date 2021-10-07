@@ -24,7 +24,7 @@ Lagurz Dha        (Shattered Earth Clan)
 Fush Stuh         (Slow Storm Clan)
 Bumbullaum Zanalt (Thunderous Sound Clan)
 
-Dery Lightfoot    - Lightfoot Clan(Draut Fra) The only halfling clan in Pimdak, lightfoot clan has done well for themselves all things considered.  The halflings are by far the most likely group to help out a stranger, but will not risk their status in the city for an outsider.  
+Dery Lightfoot    - Lightfoot Clan(Draut Fra) The only halfling clan in Pimdak, lightfoot clan has done well for themselves all things considered.  The halflings are by far the most likely group to help out a stranger, but will not risk their status in the city for an outsider.    Dery Lightfoot is a plesant, but cunning individual, rarely speaking at meetings without knowing exactly the impact of his words.  He garners very little respect as a halfling, and instead relies on inspiring other members of the council to do his will without realizing an idea had started with the small folk.
 
 Rum Dagronk       (Moving Passage Clan)
 Kokan Lump        (Hammerfall Clan)
