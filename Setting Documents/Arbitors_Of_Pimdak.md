@@ -12,20 +12,19 @@ The strongest of the Clan's is known in common as "The Broken Axe", or "Bajrak L
 The current list of Arbitors and their clans are as follows:
 
 
-Lagurz Sapat      (Broken Axe Clan)
-Mor Shaugit       (Black Arrow Clan)
-Karn Kil          (Red Sky Clan)
-Gundum Kala       (The Standing Fortress Clan)
-Fukisham Korlash  (Strong Jaw Clan)
-Farghat Ro        (Leaping Cloud Clan)
-Auga Roz          (Steady Eye Clan)
-Karn Doram        (Red Fist Clan)
-Lagurz Dha        (Shattered Earth Clan)
-Fush Stuh         (Slow Storm Clan)
-Bumbullaum Zanalt (Thunderous Sound Clan)
-
-Dery Lightfoot    - Lightfoot Clan(Draut Fra) The only halfling clan in Pimdak, lightfoot clan has done well for themselves all things considered.  The halflings are by far the most likely group to help out a stranger, but will not risk their status in the city for an outsider.    Dery Lightfoot is a plesant, but cunning individual, rarely speaking at meetings without knowing exactly the impact of his words.  He garners very little respect as a halfling, and instead relies on inspiring other members of the council to do his will without realizing an idea had started with the small folk.
-
-Rum Dagronk       (Moving Passage Clan)
-Kokan Lump        (Hammerfall Clan)
-Fark Goth         (The Masters of the Forge)
+* **Ulam Lagurz Sapat** :**Broken Axe Clan (Lagurz Sapat)**
+* **Gaakt Mor Shaugit** :**Black Arrow Clan (Mor Shaugit)**
+* **Curbak Karn Kil**   :**Red Sky Clan(Karn Kil)**
+* **Bog Gundum Kala**   :**The Standing Fortress Clan(Gundam Kala)**
+* **Lash Fukisham Korlash**  :**Strong Jaw Clan(Fukisham Korlash)**
+* **Shagar Farghat Ro**    :**Leaping Cloud Clan(Farghat Ro)**
+* **Agrob Auga Roz**   :**Steady Eye Clan(Auga Roz)**
+* **Shel Karn Doram**   :**Red Fist Clan(Karn Doram)**
+* **Gul Lagurz Dha**   :**Shattered Earth Clan(Lagurz Dha)**
+* **Rogmesh Fush Stuh**   :**Slow Storm Clan(Fush Stuh)**
+* **Duluk Bumbullaum Zanalt**   :**Thunderous Sound Clan(Bumbullaum Zanalt)**
+* **Farad Rum Dagronk**   :**Moving Passage Clan(Rum Dagronk)**
+* **Orkid Kokan Lump**   :**Hammerfall Clan(Kokan Lump)**
+* **Dery Lightfoot**     :**Lightfoot Clan (Draut Fra)** The only halfling clan in Pimdak, lightfoot clan has done well for themselves all things considered. The halflings are by far the most likely group to help out a stranger, but will not risk their status in the city for an outsider. Dery Lightfoot is a plesant, but cunning individual, rarely speaking at meetings without knowing exactly the impact of his words. He garners very little respect as a halfling, and instead relies on inspiring other members of the council to do his will without realizing an idea had started with the small folk.
+* **Korguul Fark Goth**   :**The Masters of the Forge(Fark Goth)**
+* 
