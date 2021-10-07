@@ -78,7 +78,7 @@ A scout loses this benefit when wearing medium or heavy armor or when carrying a
 
 **Camouflage (Ex):** Beginning at 7th level, a scout can use the Hide skill in any sort of natural or urban terrain.  She loses this benefit when wearing medium or heavy armor or when carrying a medium or heavy load.
 
-**Alarmingly Fast (Ex):**  Your hours traveling cross country has not just taught you to travel faster than your allies, but more.  At 8th level, on your turn, you gain an additional move action.  If this action is used for movement, the scout can to travel up to 1/2 of their total movement speed (round up to next 5ft increment), provoking as normal, or on a 5 foot shift.  This move action may also be spent on any ability, spell, or spell like ability the scout may possess.
+**Alarmingly Fast (Ex):**  Your hours traveling cross country has not just taught you to travel faster than your allies, but more.  At 8th level, on your turn, you gain a free action that may be spent as if it were an additional move action.  If this free action is used for movement, the scout can to travel up to 1/2 of their total movement speed (round up to next 5ft increment), provoking as normal, or on a 5 foot shift.  This free action may also be spent on any ability, spell, or spell like ability the scout may possess which normally requires spending a move action.
 
 **Blindsense** (Ex): At 9th level, a scout gains the blindsense ability out to 30 feet.   Every 3 levels thereafter, the range of this ability increases by 10 feet.
 In addition, starting at level 15, the scout gains blindsight for half of the total distance of this ability.
