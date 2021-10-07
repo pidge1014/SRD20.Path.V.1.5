@@ -53,9 +53,10 @@ Flintfall's Splinter, is perhaps the most secluded of all of these lands to be c
 
 Lying in the South Eastern part of the continent, the Scar stretches deep into the sea at its boarders and nearly envelopes the small peninsula.  But buried here were some of the continents great treasures.
 
-In the Islands to the east, resides one of the oldest Elf civilizations in the continent.  While they do not possess the greatest of wizards, they may possess the most spiritual.  In the City of Silversun, the seers track the celestial movements and have prophetic visions during these rituals.  The most note worthy days on their wall were the days of the births of Yrill and Ushuk, as well as the cities these children were born in.  They have marked several days each with a city, but what meaning those dates held are not commonly known.  The most recent date noted on the wall was for the birth of a child .
+In the Islands to the east, resides one of the oldest Elf civilizations in the continent.  While they do not possess the greatest of wizards, they may possess the most spiritual.  In the City of Silversun, the seers track the celestial movements and have prophetic visions during these rituals, which they record on a sacred wall.  The most note worthy days on their wall were the days of the births of Yrill and Ushuk, along with the cities these children were born in.  They have marked several other days each with a city, but what meaning those dates held are not commonly known.  The most recent date noted on the wall was for the birth of a child in the isles to the South.
 
 The Flintfall Mountains housed a mighty empire of dwarves, which was all but destroyed when the scar formed.  The dwarves of Mount Herbert live in the only surviving city of the old Empire.  Centeries ago, the clan chief of Mount Herbert led an expedition down the great underground highway into the scarred lands to find the fate of their fellow Flintfall Dwarves.  Less then half the expedition returned and the highway was destroyed behind them. The dwarves of Mount Herbert do not discuss what they found and the fate of their brethren.
+(this will be expaned with the locations and factions)
 
 ## Dragons, Naga, and the early 'gods' of the world
 
