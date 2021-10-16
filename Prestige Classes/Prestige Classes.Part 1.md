@@ -572,7 +572,7 @@ Dwarf, or adopted member of Clan Herbert
 **Alignment:**  Any Non Evil
 
 **Hit Dice:** d8
-**Proficiency:** none
+**Proficiency:** All Weapons in the hammer group
 **Added Class skills:**
 
 **Skill Ranks per Level**: 4 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** modifier.
@@ -587,7 +587,7 @@ Dwarf, or adopted member of Clan Herbert
 |4th|4|+4|+1|+4||
 |5th|5|+4|+2|+4|Strength training|
 
-**Dwarven Priorities:**  When using a hammer in each hand, you are treated as having the two weapon defense feat.
+**Dwarven Priorities:**  When using a hammer in each hand, you are treated as having the two weapon defense feat.  All Hammers are considered to have the thrown weapon property.
 
 **Heavy Weapons:** When making an attack using a hammer, you ignore the first 5 points of DR.
 
