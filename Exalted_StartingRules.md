@@ -1,8 +1,9 @@
 
-This game will be exalted 2nd ed as written, with some setting specific terminology and additions.
+This game will be exalted 2nd ed as written, with some setting specific terminology and additions, but only one change.
+A character is attuned to any element associated with the energy of their core.  The typical core of a member of the Wei clan, for example, is developed by gathering the energy of the air at dawn, when it is full of dreams and new light.  They are considered both an air and fire character.
 
-
-You were born into one of the three Clans living in Sacred Valley.  Kazan, Wei, and Li Clan.  Everyone here grows up learning to harness their internal power, their madra (essence), to help and improve their clan.
+For characters built in the first session, you were born into one of the three Clans living in Sacred Valley:  Kazan, Wei, and Li Clan.  
+Everyone here grows up learning to harness their essence and abilities, to help and improve their clan.  
 
 As one develops and advances in age, they progress through the 3 stages of advancement:  
 Copper, at which stage you learn to feel and harness the madra in the environment around you.  
@@ -10,7 +11,7 @@ Iron, where the energy you have accumulated in your core reshapes your body.
 And, the greatest of the clans elders may one day reach the ranks of Jade, where their spiritual core is strengthened beyond compare.
 Ancient rumors speak of an advancement past jade, but anyone able to achieve that would have certainly united sacred valley long ago and it remains very splintered.
 
-Characters will be 17-23 years old and at Copper advancement.  As a copper, you can sense the energy in world, and have been cycling it into your core ever since.
+Characters will be 17-29 years old and at Iron advancement.  As a iron, you can sense the energy in world, and have been cycling it into your core ever since copper.
 
 * **Clan options:**
 * Li: (Wood/Water) The Li clan live along the Dragon river, in the shadows of the forest under the great moutain known as The Greatfather.  Their clan emblem is a snake in a tree, and they have a stronger connection to nature, and the sacred beasts that live their, than either of the other clans.  The Li clan also have the greatest concern with outward apeparances and self care, chosing to always be decorated in the most expensive jewelery their family could afford.
@@ -28,15 +29,11 @@ The Kazan have a great wealth of half-silver and goldsteel, and they show it off
 Even the great schools on the mountains around sacred valley value their students from the Kazan clan to build and maintain their structures.
 
 *Alternate aspects and Cores* :  Your Core is where your power comes from, and typically represents an unaltered source of natural Madra.  The Wei Clan, for example, refer to their core as a White Fox core, but it is in truth the emodyment of the dream and light energy that their homes are bathed in each morning. There are many types of Madra in the greater world, and once your become a copper and can absorb the madra of the outside world, your core will become attuned to one source.
-Some sources not commonly seen in the Sacred Valley, that certainly exist.  (there are an infinite number it seems)
-Sword Madra - (Fire/Earth/Wood, all charms must be focused on or involve your sword in some way)
-Shadow Madra - (Air/Wood)
-Pure Madra - (All) Under strange circumstances, a copper may not cycle natural madra into their core.  Should they chose to do this, their core remains pure and unbound by an element.  All charms cost more essence than normal, and you can never channel ambient madra to recover essence.  In addition, you will never advance your core without a natural treasure of pure madra to push it forward.  Pure madra also does not function like other essence and its techniques more often than not, wash away other charms before them.
 
-* **Recharging Essence (Madra)** : In addition to regaining essence per the normal rules, it is possible to channel ambient energy that matches your characters core.  It is also possible to leverage available essence directly from the environment.
+*Recharging Essence (Madra)* : In addition to regaining essence per the normal rules, it is possible to channel ambient energy that matches your characters core.  It is also possible to leverage available essence directly from the environment.
 In order to recharge your essence, you must cycle the ambient energy into your core.  When you spend essence, you are channeling madra from your core to power your charm.  Cycling ambient energy back into your core rewards you a number of essence points equal to what the game master says is available in the area.  It can be close to 0 or more madra then you can spend per round, depending on the environment.
-You can, in fact, create an environment that generates the energy you need.   Should you have a fire aspected core, sitting by a campfire would allow you access to fire madra.
-Apart from a setting that is naturally producing madra compatable for your core, natural treasures can also be used to both recharge and advance your core. It is said that a sacred fruit, refined by a sufficiently skilled artist, can bring someone from copper to jade.   Certainly such rumors are nonsense.
+You can, in fact, create an environment that generates the energy you need.   Should you have a fire aspected core, sitting or fighting by a campfire would allow you access to fire madra.
+Apart from a setting that is naturally producing madra compatable with your own, natural treasures can also be used to both recharge and advance your core. It is said that a sacred fruit, refined by a sufficiently skilled artist, can bring someone from copper to jade.   Certainly such rumors are nonsense.
 
 * Unaspected Charms :  Your unaspected charms still manifest with the elements associated with your core.  This very likely has not just a visual change, but a change in effect.   For example, a core of sword madra isn't going to aid a sword users body in the same way an earth core would aid their body.  Charms will typically work as written, but may have additional effects or situations where they are especially useful.
 
