@@ -1,9 +1,10 @@
 
-This game will be exalted 2nd or 3rd ed as written(pending review of dragonborn book for 3rd ed), with some setting specific terminology and additions, but only one change.
+This game will be exalted 3rd ed as written, with some setting specific terminology and additions, but only one change.
 A character is attuned to any element associated with the energy of their core.  The typical core of a member of the Wei clan, for example, is developed by gathering the energy of the air at dawn, when it is full of dreams and new light.  They are considered both an air and fire character.
 
 For characters built in the first session, you were born into one of the three Clans living in Sacred Valley:  Kazan, Wei, and Li Clan.  
-Everyone here grows up learning to harness their essence and abilities, to help and improve their clan.  
+Everyone here grows up learning to harness their essence and abilities, to help and improve their clan.
+Characters will be using the 'Just Hatched' rules. 
 
 As one develops and advances in age, they progress through the 3 stages of advancement:  
 Copper, at which stage you learn to feel and harness the madra in the environment around you.  
