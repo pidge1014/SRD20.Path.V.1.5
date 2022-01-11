@@ -3,6 +3,7 @@
 ## Pathfinder 1.5e
 **Character Creation**  At this point, the base classes present represent a framework for classes, but not every option.  Everything from Pathfinder 1e is technically available in some form, but may require some conversion to stay inline with the intended goals of 1.5.
 * **A Character is built in two parts, body and soul** A character may be born to a great destiny, the ten thousanth rebirth of an ancient soul. Or, born under a dark sign and fights against the uluring power of the shadows.  Just as each character trains in wizardry or the martial arts, each character has a unique soul that drives them in this world.
+Apart from selecting your race and class, you will be selecting a soul for your character
 * **Character Options** Characters begin at level 4
 * **Soul Options** In addition to the options listed, if you have any ideas, feel free to suggest them
 
