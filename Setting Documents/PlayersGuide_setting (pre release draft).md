@@ -78,5 +78,5 @@ The continient is 50,000 miles accross, and while Flintfall's Splinter is small,
 Note: There are P1e classes that do not have major class features as I have defined them and that was one of the ways I decided to include or exclude certain classes. (Excluding capstones: slayers, and rogues have 0 unique and scalable class features, monks have ki pool only).  
 To convert Ki Pool to 1.5e, we would need to change it to improve with level, instead of just giving you more uses.
 
-While everything pathfinder is technically still available for adaption, something special to make these base classes scale in a unique and interesting way will need to be added or adapted.
+While everything pathfinder is available, as written, and will likely do just fine, most of the new classes have some mechanism to improve their action economy.  If a class entirely lacks this, we can look at adding it.
 
