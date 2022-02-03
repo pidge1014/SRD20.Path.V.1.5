@@ -74,8 +74,6 @@ Abzu is known as the mother of metalic dragons.  Her creator, Tzura Tbi Ywnrell,
 Characters will use a 25 point buy for ability scores, start at level 4, with 10,500 gold in wealth.  There are no rules for how this money is spent, nor are there limits for who your character can be.
 The continient is 50,000 miles accross, and while Flintfall's Splinter is small, the City of Peace connects it to the world.  There is no reason the gunslinging dwarven airship captain and his crew can't find themselves there, even if there is no local equivalent.  Any archetype or class from pathfinder 1.e should be considered available.
 
-Note: There are P1e classes that do not have major class features as I have defined them and that was one of the ways I decided to include or exclude certain classes. (Excluding capstones: slayers, and rogues have 0 unique and scalable class features, monks have ki pool only).  
-To convert Ki Pool to 1.5e, we would need to change it to improve with level, instead of just giving you more uses.
+Note: You can play a pathfinder 1.0 class as written, but many do not have features that will scale well if ingrained.  If someone wants to play one of these, thats fine, we may just need to adjust a class feature or add one from an archetype that will scale.
 
-While everything pathfinder is available, as written, and will likely do just fine, most of the new classes have some mechanism to improve their action economy.  If a class entirely lacks this, we can look at adding it.
 
