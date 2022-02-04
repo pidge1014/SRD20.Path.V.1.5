@@ -59,11 +59,36 @@ If you have two or more ranks in Dreambound, you may cast dream voyage instead o
 If you take this trait three times, you have fully embraced your heritage's strength.  When reduced below 0 hit points, you remain conscious, automatically stabilize, and can continue to act(although you are staggered).  If you take damage, or is the target of a spell that causes death, you remain alive for 1 round and can act normally (you are not staggered for this final round).
   * *Red Soul* - The infernal rage and anger of the red dragon flight simmers deep within.  You have learned to embrace and manipulate fire.  You gain resist fire 10 for each rank of this trait.  In addition, you can control any fire spell within 100 feet per rank of Red Soul as a standard action.  This allows you to move any fire effect, as if you were the caster.  You may also reposition a stationary fire effect, although the new placement must be one allowed by the spell. 
 If you take this trait three times you can control any fire spell cast within 20 feet per rank of Red Soul, as if it were the caster.  The red soul can make all decisions allowed by the caster, including canceling the spell.
-* **Servant of the Deep**  
-* **Demonic Slave**  
-* **Contracted with a Devil**  
+
+* **Servant of the Deep**  You have formed a connection with an unspeakable horror of the deep ocean.  Rarely is a child cursed enough to be born with a connection to a deep one, and only the very foolish seek one out.
+  * *Forbidden Knowledge* You have learned incredible things in your study and while you can't explain it, you have memories that seem foreign to you. You may gain any feat for which you do not meet one per rank of forbidden knowledge prerequisite, but meet all others.
+As your knowledge grows with the unexplained, you can feel it beginning to break your mind apart. Each time you gain a rank in forbidden knowledge, roll a d100 against the below table and gain that disability permanently.  This can be removed via the normal magical means, but any forbidden knowledge gained at the same rank as the insanity is lost.  If you receive the same madness twice, the condition intensifies(or happens again, in case of amnesia) and any associated save increases by 2.
+|**d%**|**Insanity**|
+| :- | :- |
+|1–11|[Amnesia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/amnesia)|
+|12–48|[Mania/Phobia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/mania-phobia)|
+|49–68|[Multiple Personality Disorder](https://www.d20pfsrd.com/gamemastering/afflictions/madness/multiple-personality-disorder)|
+|69–78|[Paranoia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/paranoia)|
+|79–84|[Psychosis](https://www.d20pfsrd.com/gamemastering/afflictions/madness/psychosis)|
+|85–100|[Schizophrenia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/schizophrenia)|
+
+* **Demonic Slave**  While many seek to bind a demon into their own service, many are aware that much can be gained if you are willing to bargain a piece of yourself.
+  * *Demon Bound* You have voluntarily bound yourself to a demon.  In exchange for control over your immortal soul, you have been granted a gift of power.  Each time you take this trait, your alignment shifts one step towards chaotic evil.  If it already is chaotic evil, you instead accomplish the second ritual of demon transformation and continue to advance to becoming a demon each time the trait is selected.  
+In addition, you gain one supernatural or extraordinary ability possessed by your bound demon.
+If you take this trait three times, you also gain any spell like abilities possesed by your demon, with the same uses per day and a caster level equal to your hit dice.
+* **Contracted with a Devil**
+  * *Legally Obligated* You have voluntarily entered into a contract with a devil in exchange for well defined power.  Each time you take this trait, your alignment shifts one step towards lawful evil.
+In addition, you gain one supernatural or extraordinary ability possessed by your contracted devil.
+If you take this trait three times, you also gain any spell like abilities possesed by your devil, with the same uses per day and a caster level equal to your hit dice.
 * **Sworn to an Angel** 
-* **Bound to a Div** 
+  * *Oath of Honor* You have sworn service to an angel and have been blessed with their favor.  Each time you take this trait, your alignment shifts one step towards good.  
+In addition, you gain one supernatural or extraordinary ability possessed by your contracted angel.
+If you take this trait three times, you also gain any spell like abilities possessed by your angel, with the same uses per day and a caster level equal to your hit dice.
+If your alignment ever shifts towards evil, any powers granted by your angel are lost and they abandon you.
+* **Favored of a Titan** The mighty titans are not seen outside their mountain fortresses very often, but there are still a few that can be found for those who look.
+  * *Minor Blessing*  You come from a community that is under the protection of a Titan and share the blessing bestowed on the town.  Each time you take this trait, you gain +2 to your second highest ability score and +1 to the lowest ability score.
+  * *Major Oath*  You have a major connection with a specific Titan and have sworn an oath of service in exchange.  Each time you take this trait, you take on an additional oath and your alignment shifts one step towards that of your Titan and you gain one supernatural or extraordinary ability they possess.
+If you take this trait three times, you also gain any spell like abilities possessed by your Titan, with the same uses per day and a caster level equal to your hit dice.
 * **Half-Souled** 
 * **Giantborn**
 
