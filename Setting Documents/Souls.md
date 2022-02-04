@@ -37,7 +37,7 @@ Reincarnation is not especially common these days. As such, new born souls are t
 
 * **Monstrous Soul**  - While many of the world once debated about monstrous humanoids and whether they possessed souls and true faith, the existence of beings like you proves the answer to that question is yes. Well, at least sometimes. This most commonly occurs when a child has a known ancestor of a monstrous race of humanoids.  
   * *Witchwyrd Decendent* - Each time you take this trait, you gain one of the witchwyrd's senses.  In addition,  gain one of the following spells as an at will/constant effect. (detect magic, floating disk, mage armor, resist energy(one at a time), unseen servant).  If this trait is taken a third or forth time, the withwyrd decendent gains an additional arm.  This arm is spectral in nature, but functions like a regular arm for all purposes.  The spectral arms end in a three finger hand.  
-  * *Decendent* -  
+  * *Murajau Decendent* - These strange creatures are only found on remote islands, but their friendly intelligent nature endeered them with every society that has been lucky enough to encounter these crustation like humanoids.  For each rank of this trait, your natural armor increases by 2.  In addition, you can channel the magic of items in your possession.  For each rank of this trait, you can magically bind yourself to a magic weapon to your person.  Each weapon provides a stacking arcane bonus to attacks and damage equal to its modifier.  This weapon can not be used while bound, and the enhancement bonus of the item can not be from a spell.
   * *Thriae Decendent* - Those with Thriae ancestory often find they have the ability to inspire with their natural grace, taking after the mystic insect within.  You have learned to aid your allies and communicate through dance. Activating a dance is a standard action, maintaining it is a free action, and you may dance a total number of rounds equal to your hit dice.  Each time you select this trait, you may select a new dance.  If you take this trait three times, activating a dance becomes a swift action.  
      *Dance of Fervor*: All non-thriae are affected by confusion and rage (Will DC <charisma mod + half character level + 11> negates). When this effect ends, affected creatures are fatigued for a number of rounds equal to the time they were affected and are immune to the dance of fervor effect for 24 hours.  
      *Dance of Grace*: All allies gain an insight bonus to AC and on Reflex saves equal to your hit dice divided by 5(round up)  
@@ -46,8 +46,9 @@ Reincarnation is not especially common these days. As such, new born souls are t
      *Saving Sheild* : As an immidiate action, you may add your shield bonus + 2 to an adjacent ally's AC.  
      *Step Up* : If a foe makes a 5 ft step away from you, you may move 5ft to follow them as a free action.   
      *Apes Cleave* : If an attack you make hits a foe, you may attack an adjacent target at the same attack bonus.  If you do this, you take a -2 penalty to your AC for one round and provoke an attack of opportunity.  This is treated as cleave for the purposes of feats.  
-  * *Taer Decendent*  
-
+  * *Tanuki Decendent*  These small charismatic shapechanging humanoids are often only revealed when one of their children is revealed to have unexpected ancestory. You have retained their great love of drink, and along with it, the ability to accomplish great things.  The first time you take this trait, select one of the following spells: Divine Favor, False Life, Haste, Rage.  When you drink a full glass of sake (or equivalent), you gain the effects of that spell with a caster level equal to your hit dice.
+The second time you take this, you may select from the following spell list: Echolocation, Polymorph, Stoneskin, Air Walk.  
+When using this power, you automatically fail any fortitude save vs intoxication.  
 
 ***Divine***  
 * **Dragonsoul**  
