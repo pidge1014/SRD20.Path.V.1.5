@@ -51,11 +51,17 @@ The second time you take this, you may select from the following spell list: Ech
 When using this power, you automatically fail any fortitude save vs intoxication.  
 
 ***Divine***  
-* **Dragonsoul**  
-  * *Magical Blood* - Charisma 14 (+2 per rank) - 
-* **Servant of the Deep** 
-* **Demonic Slave** 
-* **Contracted with a Devil** 
+* **Dragonsoul** Few think of dragons as divine beings, as they predate the existence of actual gods.  However, those that study magic at a primal level agree that dragons and the creatures of the heavens and hells are nearly identicle in nature.
+  * *Astral Bond* - Your birth was blessed by an ancient astral dragon.  You possess a strong connection to the astral plane and may slip into it more easily.  A number of times per day equal to 2 times the number of ranks you have in Astral Bond, you may step into the astral plane as a standard action.  Once there, you may cast teleport any distance as a move action.  Leaving the astral plane is a free action.  If this is taken 3 times, stepping into the astral plane is a swift action and may be done three times per day per rank in astral bond.
+  * *Dreambound* - You were born under the blessed influence of the dream dragons.  You are immune to dream, nightmare and similiar spells.  In addition, you can cast dream travel a number of times per day equal to your ranks in Dreambound.
+If you have two or more ranks in Dreambound, you may cast dream voyage instead of dream travel.  If you have three or more ranks in Dreambound, you may join a sleeping creature who you can see's dream as a lucid body, while still active in their physical body.
+  * *Silverhearted* - Your soul was blessed by the noble and brave silver dragons.  When you are acting in the name of good, you are considered under the constant effects of spell turning with a caster level equal to your character level.  When this effect expires, it does not reapply until the next day.  Each time you take this trait, you gain an additional 1d4+6 spell levels for the spell turning.  
+If you take this trait three times, you have fully embraced your heritage's strength.  When reduced below 0 hit points, you remain conscious, automatically stabilize, and can continue to act(although you are staggered).  If you take damage, or is the target of a spell that causes death, you remain alive for 1 round and can act normally (you are not staggered for this final round).
+  * *Red Soul* - The infernal rage and anger of the red dragon flight simmers deep within.  You have learned to embrace and manipulate fire.  You gain resist fire 10 for each rank of this trait.  In addition, you can control any fire spell within 100 feet per rank of Red Soul as a standard action.  This allows you to move any fire effect, as if you were the caster.  You may also reposition a stationary fire effect, although the new placement must be one allowed by the spell. 
+If you take this trait three times you can control any fire spell cast within 20 feet per rank of Red Soul, as if it were the caster.  The red soul can make all decisions allowed by the caster, including canceling the spell.
+* **Servant of the Deep**  
+* **Demonic Slave**  
+* **Contracted with a Devil**  
 * **Sworn to an Angel** 
 * **Bound to a Div** 
 * **Half-Souled** 
