@@ -1,7 +1,10 @@
+The Flintfall Mountains housed a mighty empire of dwarves, which was all but destroyed when the scar formed. The dwarves of Mount Herbert live in the only surviving city of the old Empire. 
 
-Mount Herbert rests along Lake Everlane, overlooking the city and suburbs of Godzer.  The dwarves that live in the Southern Splintfall Mountains kept to themselves for many centuries.  Preferring to do business with the network of dwarven fortresses stretching across the continent.
+Centeries ago, the clan chief of Mount Herbert led an expedition down the great underground highway into the scarred lands to find the fate of their fellow Flintfall Dwarves. Less than half the expedition returned and the highway was destroyed behind them. The dwarves of Mount Herbert do not discuss what they found and the fate of their brethren.
 
-Most of this reclusive existence owes itself to the great naga civilizations that surrounded these mountains for mainy years. While nearly as stubborn, the naga knew the dwarves made better slaves than the elves, and forced the dwarves to stay in their great halls and mountain pathways.
+Mount Herbert rests along Lake Everlane, overlooking the city and suburbs of Deepfyord and ruins of the docks of old laketown.  Long ago, the dwarves that live in the Southern Splintfall Mountains kept to themselves for many centuries.  Preferring to do business with the network of dwarven fortresses stretching across the continent.
+
+Most of this reclusive existence owes itself to the great naga civilizations that surrounded these mountains for mainy years. While nearly as stubborn, the naga knew the dwarves made better slaves than the elves, which forced the dwarves to stay in their great halls and mountain pathways for safetly.
 
 After the fall of the naga empires, Mount Herbert began to open its doors, allowing caravans inside for the first time in the history of their town.  After the Scar formed in the world and cut the dwarves off from the rest of dwarven civilization, they no longer had a choice. As their only talents lay in forging, they began sending out trading caravans and emissaries to find nearby allies and new sources of goods.
 
@@ -15,7 +18,7 @@ Dwarf, or adopted member of Clan Herbert
 **Hit Dice:** d8  
 **Proficiency:** All Weapons in the hammer group  
 **Added Class skills:**  
-**Skill Ranks per Level**: 4 + [Int]** modifier.  
+**Skill Ranks per Level**: 4 + [Int] modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
