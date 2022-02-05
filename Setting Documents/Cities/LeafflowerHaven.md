@@ -5,15 +5,15 @@ Trained in Leafflower, these elves have perfected the ability to minimize their 
 
 The city of Leafflower itself was once home to a great and ancient dragon, who was sadly slain by an ancient enemy reborn in the depths of the Abyss.  While some dragons still reside on the hillsides, the city is no longer governed by the dragons and the elven rulers who managed the day to day activities took over larger responsibilities.
 
-***Arcane Vanguard***
+***Arcane Vanguard***  
 **Requirements:**  
-Elf, trusted by Silversun
-Able to cast level 3 spells
-**Alignment:**  Any Non Evil
-**Hit Dice:** d8
-**Proficiency:** none
-**Added Class skills:**
-**Skill Ranks per Level**: 4 + [Int]** modifier.
+Elf, trusted by Silversun  
+Able to cast level 3 spells  
+**Alignment:**  Any Non Evil  
+**Hit Dice:** d8  
+**Proficiency:** none  
+**Added Class skills:**  
+**Skill Ranks per Level**: 4 + [Int] modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
