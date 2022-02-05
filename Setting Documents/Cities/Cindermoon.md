@@ -10,13 +10,13 @@ This natural behavior of using tools as weapons has allowed those who have these
 The markets of Cindermoon are flush with fruits from the forests that surround it, and it is both common and acceptable to find slightly smashed fruit sold.
 
 **Monkey Wrangler of Cindermoon**
-**Required**: Animal companion class feature
-**Alignment:**  Any.
-**Hit Dice:** d12
-**Proficiency:** None
-**Added Class skills:**  Handle Animal, Knowledge:Nature
+**Required**: Animal companion class feature  
+**Alignment:**  Any.  
+**Hit Dice:** d12  
+**Proficiency:** None  
+**Added Class skills:**  Handle Animal, Knowledge:Nature  
 
-**Skill Ranks per Level**: 4 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** modifier.
+**Skill Ranks per Level**: 4 + [Int] modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
