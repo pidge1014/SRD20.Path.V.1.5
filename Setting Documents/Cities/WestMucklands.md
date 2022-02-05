@@ -10,13 +10,13 @@ The coven of West Mucklands is small, and ordinary as far as covens go.  They te
 
 West Muckland is not a wealthy town or religious area, but the witches have more then made up for their lack of clerics and alchemists.
 
-**West Mucklands Coven**
-**Requirements:**
-At least 1 level of witch.  You may only belong to a single coven.  The West Mucklands Coven's membership tattoo is a rooster's head.
-**Alignment:** Any
-**Hit Dice:** d6
-**Proficiency:** none
-**Added Class skills:**
+**West Mucklands Coven**  
+**Requirements:**  
+At least 1 level of witch.  You may only belong to a single coven.  The West Mucklands Coven's membership tattoo is a rooster's head.  
+**Alignment:** Any  
+**Hit Dice:** d6  
+**Proficiency:** none  
+**Added Class skills:**  
 
 **Skill Ranks per Level**: 4 + [Int] modifier.
 
