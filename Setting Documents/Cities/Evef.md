@@ -14,16 +14,16 @@ Despite their mechanical and crafting prowess in the shop, the dwarves of Evef h
 
 There are no schools in Evef to learn to fight like the locals.  One simply has to join the miners in the mine, and you will learn soon enough.
 
-**Eveffian Pugilist**
-**Requirements:**
-Get a job and work the mines.
-The mine does not hire someone if they think they will be useless or die before the end of the first day.
-Min Strength: 18
-Min Constitution: 15
-**Alignment:**  Any.
-**Hit Dice:** d10
-**Proficiency:** none
-**Added Class skills:** Climb
+**Eveffian Pugilist**  
+**Requirements:**  
+Get a job and work the mines.  
+The mine does not hire someone if they think they will be useless or die before the end of the first day.  
+Min Strength: 18  
+Min Constitution: 15  
+**Alignment:**  Any.  
+**Hit Dice:** d10  
+**Proficiency:** none  
+**Added Class skills:** Climb  
 
 **Skill Ranks per Level**: 4 + [Int] modifier.
 
