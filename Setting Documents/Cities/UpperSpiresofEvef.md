@@ -17,9 +17,9 @@ As gnomes have a tendency to get bored doing the same thing twice, their houses 
 
 The most unforgettable sight of the upper spires are not the strange and bizzare architecture, but the canals of airships that fly between them, as well as the fleet of flying homes above.  Giving a ship permanent flight is a craft the gnomes have learned on a small scale quite some time ago, and it is considered one of the highest forms of their magical craft.  As such, the sky is full of a hodgepodge of strange flying ships, from the partially hollowed and stuffed fish Ms Fizzlebee rides to town, or the bathtub old man Hobbs takes to get his groceries.  A few of the stranger gnomes even use balloons and magical heat to accomplish a lesser effect.  As none of the airships they designed to sail over the seas have ever returned, it is considered one of their unmastered arts and is heavily studied.
 
-While they exist, the gnomes of the upper spires rarely use their techniques to craft weapons or armor.  It is well within their abilities, and there are fine examples of their great works in the Evef royal armory, its a simple and boring thing for them to do.
+While they exist, the gnomes of the upper spires rarely use their techniques to craft weapons or armor.  It is well within their abilities, and there are fine examples of their great works in the Evef royal armory.  Crafting normal armor is a simple and boring thing for them to do, so it rarely gets done outside of learning to do it.
 
-Nearly all of the magically crafted practical items in the city, such as the cannons that defend the walls of the sea ports, were created by dwarves who studdied with the gnomes and had the patience to make the same item more then once.
+Nearly all of the magically crafted and practical items in the city, such as the cannons that defend the walls of the sea ports, were created by dwarves who studdied with the gnomes and had the patience to make the same item more then once.
 
 If you are an aspiring crafter and friend of the city who can put up with gnomish enthusiasm, you are likely to find a willing teacher in the upper spires.
 
