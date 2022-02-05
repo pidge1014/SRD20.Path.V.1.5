@@ -1,12 +1,4 @@
 
-
-**Swordsman of the Great Plateau**
-
-
-South of Pimdak, resides an ancient training site still being operated today.  Originally built by the naga, the orc's they trained here claimed it for themselves after the naga's collapse.  
-
-This school continues to teach willing students who desire to defend the township of Pimdak their brutal techniques.  The orcs teach their students to learn to smash through their opponents defenses directly, rather than avoid them.
-
 The Island of Evef is often viewed by visitors as just one large city, but its suburbs are large and diverse enough that they function like separate cities.
 
 The gnomes of Evef occup what is known as the Upper Spires.  There is a significant guild of craftsman here that study what they call Material Enhanced Engineering.  The craft of using simple magical enhancements along with simple machines to create complex and wonderous effects.  Not caring for the gnomish term, the dwarves simply refer to them as artificers and the world has come to know them as such.  
