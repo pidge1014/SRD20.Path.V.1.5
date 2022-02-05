@@ -2,14 +2,14 @@ To the far north of Flintfall's Splinter rests the isle of Northpoint.  The majo
 
 The Drake Masters of the continent, unlike many others that employ creatures, do not raise them and tame them through traditional methods.  The Drake Masters instead rely on ancient magical techniques that bind the drake to their owner.  The bindings become inherit to the drake and may not be broken or dispelled once formed without harming the drake. However, over the years, the drake masters have learned to improve the already mighty drakes using these rituals.
 
-**Drake Master**
-**Required:** Animal companion class feature
-**Alignment:**  Any.
-**Hit Dice:** d10
-**Proficiency:** None
-**Added Class skills:**   Knowledge:Nature, Ride, Fly, Handle Animal
+**Drake Master**  
+**Required:** Animal companion class feature  
+**Alignment:**  Any.  
+**Hit Dice:** d10  
+**Proficiency:** None  
+**Added Class skills:**   Knowledge:Nature, Ride, Fly, Handle Animal  
 
-**Skill Ranks per Level**: 6 + [Int]** modifier.
+**Skill Ranks per Level**: 6 + [Int] modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
