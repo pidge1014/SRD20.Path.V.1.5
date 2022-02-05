@@ -62,52 +62,6 @@ Anytime you are attempting to solve a dangerous situation with non-violence and 
 **Excommunicated from a Great House:**  It is possible a great house may ask something of you that the goddess herself may object to.  If for some extreme circumstance causes this to happen, and you stay true to the goddess, you will loose your house Insignia, but retain all other class features.
 
 
-**Eveffian Pugilist**
-
-The dwarves of Evef have a long reputation to the aversion of tools and metal objects in general, and an even longer one for having the strongest fists on the continent.   Most speculate both arose out the saltstone ore they mine locally. The strange toxic ore must be mined by hand and fist, as it is known to rapidly corrode and decay both metal and wooden tools.
-
-There are no schools in Evef to learn to fight like the locals.  One simply has to join the miners in the mine, and you will learn soon enough.
-
-**Requirements:**
-
-The mine does not hire someone if they think they will be useless or die before the end of the first day.
-
-Min Strength: 18
-
-Min Constitution: 15
-
-**Alignment:**  Any.
-
-**Hit Dice:** d10
-**Proficiency:** none
-**Added Class skills:** Climb
-
-**Skill Ranks per Level**: 4 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** modifier.
-
-
-|**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
-| :- | :- | :- | :- | :- | :- |
-|1st|1|+2|+0|+0||
-|2nd|2|+3|+0|+0|Tough Fingers|
-|3rd|3|+3|+1|+1|Barroom Fighting(+1d6)|
-|4th|4|+4|+1|+1||
-|5th|5|+4|+1|+1|Iron Lungs|
-|6th|6|+5|+2|+2|Barroom Fighting(+1d6)|
-|7th|7|+5|+2|+2||
-|8th|8|+6|+2|+2||
-|9th|9|+6|+3|+3|Barroom Fighting(+1d6)|
-|10th|10|+7|+3|+3|<h4>Mine sight</h4>|
-
-**Tough Fingers:**   While the mines toughen your hands during the day, the bars at night teach you to use them.  You gain the improved unarmed combat feat.  
-
-**Barroom Fighting**:  While using a light weapon, when attacking a flatfooted opponent, or an enemy flanked by an ally, you may add 1d6 damage to your damage roll.  This is precision damage.
-
-**Iron Lungs:**  The dangers of mining have taught you how to get to a safe place, before passing out.  Anytime you have to save vs an effect on your lungs, such as cloud kill or suffocate, whether you succeed or not on the saving throw, all effects on you are delayed by one turn.
-
-**Piercing Strikes:** Any time you attack unarmed or with a weapon from the close group, you may add your dexterity modifier to the damage roll, in addition to your strength.
-
-**Mine Sight:**  You have lived in the darkness for more hours than you'd care to remember.  Anytime you are without the use of your sight, you gain blind sense 15ft.
-
 
 
 # **Brontotherium Rangler**
@@ -209,75 +163,6 @@ The techniques of the defenders of the great plateau are not for sale and one mu
 **Sacred Blade of the Platue:**  When using a Flambard with two hands, you may treat it as if it were one size category larger.   In addition, when attacking an opponent whose armor is broken, your critical hits automatically confirm.
 
 
-
-**East Berrydew Coven**
-
-The Southern Bay of Berrydew has a surprisingly friendly population of sea hags.  To outsiders, mainly due to their non offensive appearance, they are often not even recognized as sea hags.  Some suspect their appearance and behavior is a natural result from naga experimentation.  The more superstitious speak of a truce after an ancient and great battle, some even leave offerings for the hags as thanks for honoring the treaty.
-
-Over time, the local coven became friendly with the hags, and were even able to covertly recruit some to join their coven.  The techniques they taught each other have shaped themselves as much as their abilities.
-
-**Requirements:**
-
-At least 1 level of witch.  You may only belong to a single coven.  The Berrydew Coven's membership tattoo is a silhouette of a raven.
-
-**Alignment:** Any
-
-**Hit Dice:** d8
-**Proficiency:** none
-**Added Class skills:** Knowledge: Nature
-
-**Skill Ranks per Level**: 4 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** modifier.
-
-
-|**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
-| :- | :- | :- | :- | :- | :- |
-|1st|0|+2|+0|+2|Underwater training|
-|2nd|1|+3|+0|+3||
-|3rd|2|+3|+1|+3|Raven claws|
-|4th|3|+4|+1|+4||
-|5th|4|+4|+2|+4|Chaotic Insight|
-
-
-**Underwater Training:**  Due to part of your flock living underwater, you have plenty of training in the water.  You gain a swim speed equal to your half your fastest speed.
-
-**Raven Claws:** As a swift action, your hands manifest into a par of claws, and your forearms grow black feathers. The claws deal 1d6+str damage for a medium creature.
-
-**Chaotic Insight:**  While the hags of the bay are friendly, the nature of what they were is still present and a great deal of how to calm madness and insanity has been learned over the years.  A Berrydew Witch can add her Charisma modifier as an insight bonus to AC and Will saves.
-
-
-
-**West Mucklands Coven**
-
-The coven of West Mucklands is small, and ordinary as far as covens go.  They tend to local matters and help keep their flock healthy.  What sets them apart is their innate talents for doing so.
-
-West Muckland is not a wealthy town or religious area, but the witches have more then made up for their lack of clerics and alchemists.
-
-**Requirements:**
-
-At least 1 level of witch.  You may only belong to a single coven.  The West Mucklands Coven's membership tattoo is a rooster's head.
-
-**Alignment:** Any
-
-**Hit Dice:** d6
-**Proficiency:** none
-**Added Class skills:**
-
-**Skill Ranks per Level**: 4 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** modifier.
-
-
-|**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
-| :- | :- | :- | :- | :- | :- |
-|1st|0|+0|+0|+0|Bedside Manner|
-|2nd|1|+0|+0|+0||
-|3rd|1|+1|+1|+1|Self Taught Alchemist|
-|4th|2|+1|+1|+1||
-|5th|2|+2|+2|+2|Spiritually Self Reliant|
-
-**Bedside Manner:**  When a spell you cast causes healing, you may add your charisma modifier to the healing received.
-
-**Self Taught Alchemist:** You gain the ability to create potions. You may create a potion from a witch spell you have prepared. Doing this takes ten minutes per spell level.  Creating the potion has no additional cost, apart from any components the spell may require.  If not used within 48 hours, the potion expires. Merchants have no interest in buying these, as the resulting potion is thick, muddy, and brown.
-
-**Spiritually Self Reliant:** The Witches of this coven have learned a few tricks to help them make up for the lack of clerics in their home region.  You may select one spell on the cleric spell list and add it to your witch spell list.
 
 
 
