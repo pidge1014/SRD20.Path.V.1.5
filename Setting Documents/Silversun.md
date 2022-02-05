@@ -12,14 +12,14 @@ Their acrobat act has developed into their star attraction, as their artists don
 The acrobats are always looking for new recruits.  All of the weapon displays were techniques brought into the school by outsiders, and the Sigbathian's are always happy to trade fighting style secrets.
 
 
-**Sigbathian Acrobat**
-**Requirements:**
-BAB 4
-**Alignment:**  Any
-**Hit Dice:** d8
-**Proficiency:** none
-**Added Class skills:** Acrobatics, Bluff, Climb
-**Skill Ranks per Level**: 8 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** modifier.
+**Sigbathian Acrobat**  
+**Requirements:**  
+BAB 4  
+**Alignment:**  Any  
+**Hit Dice:** d8  
+**Proficiency:** none  
+**Added Class skills:** Acrobatics, Bluff, Climb  
+**Skill Ranks per Level**: 8 + [Int]** modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
@@ -27,7 +27,7 @@ BAB 4
 |2nd|1|+0|+3|+0|Slow Fall|
 |3rd|2|+1|+3|+1|Evasion|
 |4th|3|+1|+4|+1|Defensive Roll|
-|5th|4|+2|+4|+2|Cartwheels|
+|5th|4|+2|+4|+2|Cartwheels|  
 
 **Quick Step Up:**  You may stand up from prone as a free action.  
 **Slow Fall:**  You ignore the first 40 feet of falling damage.  
