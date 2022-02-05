@@ -5,12 +5,14 @@
 * **A Character is built in two parts, body and soul** A character may be born to a great destiny, the ten thousanth rebirth of an ancient soul. Or, born under a dark sign and fights against the uluring power of the shadows.  Just as each character trains in wizardry or the martial arts, each character has a unique soul that drives them in this world.
 Apart from selecting your race and class, you will be selecting a soul for your character
 * **Character Options** Characters begin at level 4
-* **Soul Options** In addition to the options listed, if you have any ideas, feel free to suggest them
+* **Soul Options** In addition to the options listed, there are a large number of valid additional options not listed. 
 
 ## Character Rules
 
 Characters will use a 25 point buy for ability scores, start at level 4, with 10,500 gold in wealth.  There are no rules for how this money is spent, nor are there limits for who your character can be.
 The continient is 50,000 miles accross, and while Flintfall's Splinter is small, the City of Peace connects it to the world.  There is no reason the gunslinging dwarven airship captain and his crew can't find themselves there, even if there is no local equivalent.  Any archetype or class from pathfinder 1.e should be considered available.
+
+Also of note, your race comes with a small number of racials and 20 character points to spend for you to clarify exactly what you physically inherited.
 
 Note: You can play a pathfinder 1.0 class as written, but many do not have features that will scale well if ingrained.  If someone wants to play one of these, thats fine, we may just need to adjust a class feature or add one from an archetype that will scale.
 
