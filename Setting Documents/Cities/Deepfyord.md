@@ -4,15 +4,15 @@ Most aspects of this city were well planned, partly resulting from the orderly p
 
 Housed outside the town of Deepfyord, The School for the Gentlemanly Enforcement of Order trains a significant amount of the north coast's elite guards.  The graduates tend to serve as castle guards or personal escorts, as the general patrolmen are not worth the training investment.
 
-**Deepfyord Guardsman**
-**Requirement:**
-500 Gold Tuition
-BAB of 5 or greater
-**Alignment:**  Any.
-**Hit Dice:** d10
-**Proficiency:** All weapons with the Non Lethal property.
-**Added Class skills:**   Acrobatics, Climb, Escape Artist, Ride, Intimidate
-**Skill Ranks per Level**: 4 + [Int]** modifier.
+**Deepfyord Guardsman**  
+**Requirement:**  
+500 Gold Tuition  
+BAB of 5 or greater  
+**Alignment:**  Any  
+**Hit Dice:** d10  
+**Proficiency:** All weapons with the Non Lethal property.  
+**Added Class skills:**   Acrobatics, Climb, Escape Artist, Ride, Intimidate  
+**Skill Ranks per Level**: 4 + [Int] modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
