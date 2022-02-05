@@ -8,12 +8,12 @@ Admission to the school is quite prestigious, as many noble and powerful houses 
 
 **Westvalley Button Man**
 
-**Requirement:** 10,000 gold admissions fee.  Paid in advance, in full. Preferably in large gems and platinum.   No regional currencies accepted.
-**Alignment:**  Any.
-**Hit Dice:** d8
-**Proficiency:** none
-**Added Class skills:**   Stealth, Escape Artist, Bluff, Disguise
-**Skill Ranks per Level**: 6 + [Int]** modifier.
+**Requirement:** 10,000 gold admissions fee.  Paid in advance, in full. Preferably in large gems and platinum.   No regional currencies accepted.  
+**Alignment:**  Any.  
+**Hit Dice:** d8  
+**Proficiency:** none  
+**Added Class skills:**   Stealth, Escape Artist, Bluff, Disguise  
+**Skill Ranks per Level**: 6 + [Int]** modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
