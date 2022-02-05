@@ -46,9 +46,10 @@ Reincarnation is not especially common these days. As such, new born souls are t
      *Saving Sheild* : As an immidiate action, you may add your shield bonus + 2 to an adjacent ally's AC.  
      *Step Up* : If a foe makes a 5 ft step away from you, you may move 5ft to follow them as a free action.   
      *Apes Cleave* : If an attack you make hits a foe, you may attack an adjacent target at the same attack bonus.  If you do this, you take a -2 penalty to your AC for one round and provoke an attack of opportunity.  This is treated as cleave for the purposes of feats.  
-  * *Tanuki Decendent*  These small charismatic shapechanging humanoids are often only revealed when one of their children is revealed to have unexpected ancestory. You have retained their great love of drink, and along with it, the ability to accomplish great things.  The first time you take this trait, select one of the following spells: Divine Favor, False Life, Haste, Rage.  When you drink a full glass of sake (or equivalent), you gain the effects of that spell with a caster level equal to your hit dice.
+  * *Tanuki Decendent* These small charismatic shapechanging humanoids are often only revealed when one of their children is revealed to have unexpected ancestory. You have retained their great love of drink, and along with it, the ability to accomplish great things.  The first time you take this trait, select one of the following spells: Divine Favor, False Life, Haste, Rage.  When you drink a full glass of sake (or equivalent), you gain the effects of that spell with a caster level equal to your hit dice.
 The second time you take this, you may select from the following spell list: Echolocation, Polymorph, Stoneskin, Air Walk.  
 When using this power, you automatically fail any fortitude save vs intoxication.  
+
 
 ***Divine***  
 * **Dragonsoul** Few think of dragons as divine beings, as they predate the existence of actual gods.  However, those that study magic at a primal level agree that dragons and the creatures of the heavens and hells are nearly identicle in nature.
@@ -72,31 +73,39 @@ As your knowledge grows with the unexplained, you can feel it beginning to break
 |79–84|[Psychosis](https://www.d20pfsrd.com/gamemastering/afflictions/madness/psychosis)|
 |85–100|[Schizophrenia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/schizophrenia)|
 
-* **Demonic Slave**  While many seek to bind a demon into their own service, many are aware that much can be gained if you are willing to bargain a piece of yourself.
+* **Demonic Slave**  While many seek to bind a demon into their own service, many are aware that much can be gained if you are willing to bargain a piece of yourself.  
   * *Demon Bound* You have voluntarily bound yourself to a demon.  In exchange for control over your immortal soul, you have been granted a gift of power.  Each time you take this trait, your alignment shifts one step towards chaotic evil.  If it already is chaotic evil, you instead accomplish the second ritual of demon transformation and continue to advance to becoming a demon each time the trait is selected.  
-In addition, you gain one supernatural or extraordinary ability possessed by your bound demon.
-If you take this trait three times, you also gain any spell like abilities possesed by your demon, with the same uses per day and a caster level equal to your hit dice.
-* **Contracted with a Devil**
-  * *Legally Obligated* You have voluntarily entered into a contract with a devil in exchange for well defined power.  Each time you take this trait, your alignment shifts one step towards lawful evil.
-In addition, you gain one supernatural or extraordinary ability possessed by your contracted devil.
-If you take this trait three times, you also gain any spell like abilities possesed by your devil, with the same uses per day and a caster level equal to your hit dice.
-* **Sworn to an Angel** 
+In addition, you gain one supernatural or extraordinary ability possessed by your bound demon.  
+If you take this trait three times, you also gain any spell like abilities possesed by your demon, with the same uses per day and a caster level equal to your hit dice.  
+* **Contracted with a Devil**  
+  * *Legally Obligated* You have voluntarily entered into a contract with a devil in exchange for well defined power.  Each time you take this trait, your alignment shifts one step towards lawful evil.  
+In addition, you gain one supernatural or extraordinary ability possessed by your contracted devil.  
+If you take this trait three times, you also gain any spell like abilities possesed by your devil, with the same uses per day and a caster level equal to your hit dice.  
+* **Sworn to an Angel**   
   * *Oath of Honor* You have sworn service to an angel and have been blessed with their favor.  Each time you take this trait, your alignment shifts one step towards good.  
-In addition, you gain one supernatural or extraordinary ability possessed by your contracted angel.
-If you take this trait three times, you also gain any spell like abilities possessed by your angel, with the same uses per day and a caster level equal to your hit dice.
-If your alignment ever shifts towards evil, any powers granted by your angel are lost and they abandon you.
-* **Favored of a Titan** The mighty titans are not seen outside their mountain fortresses very often, but there are still a few that can be found for those who look.
-  * *Minor Blessing*  You come from a community that is under the protection of a Titan and share the blessing bestowed on the town.  Each time you take this trait, you gain +2 to your second highest ability score and +1 to the lowest ability score.
-  * *Major Oath*  You have a major connection with a specific Titan and have sworn an oath of service in exchange.  Each time you take this trait, you take on an additional oath and your alignment shifts one step towards that of your Titan and you gain one supernatural or extraordinary ability they possess.
-If you take this trait three times, you also gain any spell like abilities possessed by your Titan, with the same uses per day and a caster level equal to your hit dice.
-* **Half-Souled** 
-* **Giantborn**
+In addition, you gain one supernatural or extraordinary ability possessed by your contracted angel.  
+If you take this trait three times, you also gain any spell like abilities possessed by your angel, with the same uses per day and a caster level equal to your hit dice.  
+If your alignment ever shifts towards evil, any powers granted by your angel are lost and they abandon you.  
+* **Favored of a Titan** The mighty titans are not seen outside their mountain fortresses very often, but there are still a few that can be found for those who look.  
+  * *Minor Blessing*  You come from a community that is under the protection of a Titan and share the blessing bestowed on the town.  Each time you take this trait, you gain +2 to your second highest ability score and +1 to the lowest ability score.  
+  * *Major Oath*  You have a major connection with a specific Titan and have sworn an oath of service in exchange.  Each time you take this trait, you take on an additional oath and your alignment shifts one step towards that of your Titan and you gain one supernatural or extraordinary ability they possess.  
+If you take this trait three times, you also gain any spell like abilities possessed by your Titan, with the same uses per day and a caster level equal to your hit dice.  
+* **Demigod** You are the ancestor of a god, conceived after their ascension to divinity.  
+  * *Godling* Your divine connection grants to ultimate power over the souless creatures of the world, albeit, for a limited time.  When you take this trait, you may spend an immediate action to counter a supernatural or extraordinary ability you know a soulless creature possesses.  You may do this a number of times per day equal to your ranks in Godling.  
+If you take this trait at least three times, you elevate from the ranks of heroes and aspire to join the ranks to true divinity.
+You gain a cult of worshipers. This functions as the Leadership feat, except that all your followers are adepts, clerics, druids, or other classes that gain access to divine spells, and your cohort is your high priest. You may use sending (as the spell) a number of times per day equal to 1 + your Wisdom bonus (minimum 1) to contact any of your followers or cohort. Clerics that worship you may access the three domains associated with your lineage domain ability  
 
 ***Nature***
-* **Earthbound**
-* **Waterhome**
-* **Treefriend**
-* **Desert Walker**
-* **Farmer**
+* **Stonebound**  You feel most at home in the moutains and deep caves of the world.  You have learned to listen to the ground and hear things others are unaware of.
+You gain tremorsense equal to 10 feet per rank of stonebound.  In addition, you gain blind sense for targets within 5 feet per rank of stonebound of your tremorsense range.
+If you take three ranks of earthbound, you gain the ability to glide through the earth like a fish in water.  You gain a burrow speed equal to half your normal speed plus 5 feet per rank in earthbound.  In addition, you are immune to petrification.  
+* **Waterhome**  You are never more at ease then when out on the water.  Your body naturally recovers when you fully submerge yourself in water.
+When you are entirely underwater, you gain fast healing 2 per rank of waterhome.  
+If you take three or more ranks of this trait, your fast healing becomes regeneration. 
+* **Treefriend**  You have spent as much of your life in the forests as you can manage, and have a hard time relaxing without plants in sight.  With time, you have become more like them.  Each time you take a rank in this trait, you gain one of the plan immunities for yourself: mind-affecting(charms, compulsions, morale effects, patterns, or phantasms), paralysis, poison, polymorph, sleep, or stun.  
+* **Desert Walker**  The endless bleak wonder of the great deserts of the world have always drawn your heart. You may ignore the effects of a hot climate as if using endure elements.  In addition, your connection with the sand allows you to move even faster on the unstable material.  You may increase your land or burrow speed by 10 feet per rank of desert walker
+If you take two ranks of desert walker, you gain a burrow speed equal to your land speed when traveling on sand.  If you take a third rank, you can use the sand to shift swiftly in combat.  When in sand, you may travel from one location in contact with sand to another, as if using the teleport spell. This does not strickly have to be sand on the ground, and can be done in a sandstorm or similar situation.
+* **Farmer** You are most at home in a well tended growing field you managed yourself.  A life of enjoying a day of hard work has kept you more fit then most.  A number of times per day equal to your ranks in farmer, when an effect would normally leave you fatigued or exhausted, you may ignore the fatigue or exhausted effect.
+If you take this trait three or more times, you may instead apply this effect to a failed fortitude save.
 
 
