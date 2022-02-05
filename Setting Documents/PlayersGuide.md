@@ -7,19 +7,25 @@ Apart from selecting your race and class, you will be selecting a soul for your 
 * **Character Options** Characters begin at level 4
 * **Soul Options** In addition to the options listed, if you have any ideas, feel free to suggest them
 
+## Character Rules
+
+Characters will use a 25 point buy for ability scores, start at level 4, with 10,500 gold in wealth.  There are no rules for how this money is spent, nor are there limits for who your character can be.
+The continient is 50,000 miles accross, and while Flintfall's Splinter is small, the City of Peace connects it to the world.  There is no reason the gunslinging dwarven airship captain and his crew can't find themselves there, even if there is no local equivalent.  Any archetype or class from pathfinder 1.e should be considered available.
+
+Note: You can play a pathfinder 1.0 class as written, but many do not have features that will scale well if ingrained.  If someone wants to play one of these, thats fine, we may just need to adjust a class feature or add one from an archetype that will scale.
 
 
-## Classes summary in the setting
-* **Fighter** :Fighters are the ultimate martial combatants.  They are the masters of using weapons.  The cost of this is mobility, fighters are the only class do not have any increased action economy and will need help to stay in full attack range.  When there, enemies should disapear shortly.
-* **Bard** : Versatile to the extreme. Bards can do a little bit of everything, including having access to other classes spell lists, but don't really do anything the best.  Masterpieces have been rewritten and are actually useful.
-* **Druid** : The Druid's have regained their shapeshifting prowess. Their capstone power provides them with 3.5 style true polymorph as their wild shape.  Their spell list is still the same, and they have the largest list of animal companion options. Druids are arcane spell casters, as they predate the existence of gods. (Fey magic is basically primal magic, but technically arcane)  This has no effect on their spellcasting, as long as their armor is natural.
-* **Ranger** : The ranger is a versatile combatant, behind the fighter in raw damage, but potent none the less.  But, when paired with their loyal companion, they are a dangerous addition to any party.
-* **Magus** : Blending magic and attacks, the magus can compete with any class in raw damage, depending on what spells they decide to cast on their turn.  Magus is largely unchanged in terms of base mechanics, but will now scale their actions better.
-* **Scout** : When an army, or group of any size, needs to send someone to take a look, that person is usually a scout.  Scouts are masters of movement, and typically possess the skills needed to infiltrate whatever is nessesary.  This is the closest thing to a rogue that has been defined thus far.
-* **Cleric** : If you are willing to follow a church's strick and often strange dogma, there can be great power found.  Clerics are restricted in following their god's rules, and will lose some powers for even small deviations. Assuming they are in their god's good graces, they can wade into battle with martial prowess, focus on spell casting, or become the ultimate support character.(warpriest was merged into cleric, and they have a full BAB option)
-* **Faithless** : Faithless rely on their mental accuity to cast spells, and survive them.  They are the undisputed kings of action economy, but are far more battlefield controller than the type of magical threat brought by a wizard or witch.  Faithless are technically the monks of the setting, but gave up most of their monestic traditions long ago.  (there are true monks in this world, but monastic vows and their extremely disciplined lifestyles rarely coexist with adventuring) 
-* **Wizard** : A Wizard is a powerful student of the natural fonts of magic.  Which one they specialize in will often shape them in strange ways. 
-* **Witch** : Where Wizards specialize in understanding magic intellictually, witches work to understand magic emotionally.  It is often said a witch could bend a rock to her will.
+## Classes summary in the setting  
+* **Fighter** :Fighters are the ultimate martial combatants.  They are the guards of the world and make up the rank and file of any standing army.  They are the best at using weapons to bring death, but at the cost of mobility. Fighters are the only class that does not have any increased action economy and will need help to stay in full attack range.  When there, enemies will disapear quickly.  
+* **Bard** : Versatile to the extreme.  They work as town healers, storytellers and leaders. Bards can do a little bit of everything, including having access to other classes spell lists, but don't really do anything the best.  Masterpieces have been rewritten and are actually useful.  
+* **Druid** : Druids have a long history as the great healers of the world, as they predate clerics by thousands of years. Druids are also the greatest of shapeshifters and have mastered truely taking another form.  Druids are arcane spell casters, as they predate the existence of gods. (Fey magic is basically primal magic, but technically arcane)  This has no effect on their spellcasting, as long as their armor is entirely natural.  
+* **Ranger** : The ranger is a versatile combatant, behind the fighter in raw damage, but potent none the less.  But, when paired with their loyal companion, they are a dangerous addition to any party.  
+* **Magus** : Blending magic and attacks, the magus can compete with any class in raw damage, depending on what spells they decide to cast on their turn.  Magus is largely unchanged in terms of base mechanics, but now scales their actions better.  
+* **Scout** : When an army, or group of any size, needs to send someone to take a look, that person is usually a scout.  Scouts are masters of movement, and typically possess the skills needed to infiltrate whatever is nessesary.  
+* **Cleric** : If you are willing to follow a church's strick and often strange dogma, there can be great power found.  Clerics are restricted in following their god's rules, and will lose some powers for even small deviations. Assuming they are in their god's good graces, they can wade into battle with martial prowess, focus on spell casting, or become the ultimate support character.(warpriest was merged into cleric, and they have a full BAB option)  
+* **Faithless** : Faithless rely on their mental accuity to cast spells, and survive them.  They are the undisputed kings of action economy, but are far more battlefield controller than the type of magical threat brought by a wizard or witch.  Faithless are technically the monks of the setting, but gave up most of their monestic traditions long ago.  (there are true monks in this world, but monastic vows and their extremely disciplined lifestyles rarely coexist with adventuring.  pathfinder monks are technically available but will likely be relabled as a sect of faithless )  
+* **Wizard** : A Wizard is a powerful student of the natural fonts of magic.  Which one they specialize in will often shape them in strange ways.  
+* **Witch** : Where Wizards specialize in understanding magic intellictually, witches work to understand magic emotionally.  It is often said a witch could bend a rock to her will.  
 
 # The Gods
 
@@ -56,10 +62,6 @@ Flintfall's Splinter, is perhaps the most secluded of all of these lands to be c
 
 Lying in the South Eastern part of the continent, the Scar stretches deep into the sea at its boarders and nearly envelopes the small peninsula.  But buried here were some of the continents great treasures.
 
-In the Islands to the east, resides one of the oldest Elf civilizations in the continent.  While they do not possess the greatest of wizards, they may possess the most spiritual.  In the City of Silversun, the seers track the celestial movements and have prophetic visions during these rituals, which they record on a sacred wall.  The most note worthy days on their wall were the days of the births of Yrill and Ushuk, along with the cities these children were born in.  They have marked several other days each with a city, but what meaning those dates held are not commonly known.  The most recent date noted on the wall was for the birth of a child in the isles to the South.
-
-The Flintfall Mountains housed a mighty empire of dwarves, which was all but destroyed when the scar formed.  The dwarves of Mount Herbert live in the only surviving city of the old Empire.  Centeries ago, the clan chief of Mount Herbert led an expedition down the great underground highway into the scarred lands to find the fate of their fellow Flintfall Dwarves.  Less then half the expedition returned and the highway was destroyed behind them. The dwarves of Mount Herbert do not discuss what they found and the fate of their brethren.
-
 ## Dragons, Naga, and the early 'gods' of the world
 
 Life evolved on the continent much like it does on every planet it exists on.   However, unlike most other worlds, magic on the continent was both abundant and focused on the far side of the continent, and built up to tremendous levels in the deep oceans.  The creatures that exist there can barely be described as living things.  So far lost to the influences of magic, many barely even exist on the material plane.   
@@ -68,12 +70,5 @@ One such creature, according to elven legends, which has given itself the name o
 The Dragon took the name Abzu, and soon found she had a great deal more in common with the small folk who resided out of the water then the monsters within. Abzu spent years traveling, but found the elves of the continent to be quite friendly to them and eventually established her residence at Goldhaven, the capitol of Eastern Kingdom of the Elves.  To this day, a significant number of elven cities are home to metalic dragons, some extremely ancient.
 
 Abzu is known as the mother of metalic dragons.  Her creator, Tzura Tbi Ywnrell, has also been credited with creating the Naga, chromatic dragons(specifically to hunt down it's metalic dragon mistake), as well as countless aboninations.
-
-## Character Rules
-
-Characters will use a 25 point buy for ability scores, start at level 4, with 10,500 gold in wealth.  There are no rules for how this money is spent, nor are there limits for who your character can be.
-The continient is 50,000 miles accross, and while Flintfall's Splinter is small, the City of Peace connects it to the world.  There is no reason the gunslinging dwarven airship captain and his crew can't find themselves there, even if there is no local equivalent.  Any archetype or class from pathfinder 1.e should be considered available.
-
-Note: You can play a pathfinder 1.0 class as written, but many do not have features that will scale well if ingrained.  If someone wants to play one of these, thats fine, we may just need to adjust a class feature or add one from an archetype that will scale.
 
 
