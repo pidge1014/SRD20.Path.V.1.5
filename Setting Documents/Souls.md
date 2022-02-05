@@ -3,7 +3,7 @@ At 3rd level, and every 4 levels thereafter, you gain any trait you are eligible
 Any time you are going to gain a level, you may instead set your xp to the starting amount of your current level and instead gain one soul trait you are eligible for.
 
 
-***Age***  
+# ***Age***  
 Reincarnation is not especially common these days. As such, new born souls are the most common in the world. Even a soul that has been reincarnated a dozen times can largely be considered a new born.  
 * **New Born Soul**  
   * *Perpetual Wonder* - You go through live in amazement of all you see, often in wonder at how you are the only one that seems mezmorized by the great sights of the world. When exploring somewhere new, you are immune to fear.  If perpetual wonder is taken twice, when exploring somewhere new, once per round, you may roll twice and take the higher result on any roll.  Taking perpetual wonder additional times increases the number of times per round this may be done.  
@@ -19,7 +19,7 @@ Reincarnation is not especially common these days. As such, new born souls are t
   * *Deep Well* - All magic requires your inner will to shape and manifest itself. Your well of inner will is, however, ancient.  When casting a spell using wisdom as the primary casting stat, you reduce the effect of any spell immunities or resistance the target has.  Immunity goes to SR equal to CR times 1.5,  SR of any kind is reduced by 5.  If this is taken multiple times the effect is applied again (so a target immune to your spell instead just has SR equal to the creatures CR, multiplied by 1.5, minus 5.  
 
 
-***Magic***  
+# ***Magic***  
 * **Feybound Soul**  
   * *Bonded Creature* - A specific fey creature has taken a great interest in you and you have formed a strong bond.  Each time you select this, you gain a supernatural or extraordinary ability from the creature you have bonded with. If you choose, you may instead select a special quality, sense, feat, language,or speed.  In addition, embracing this connection shapes who you are.  Your alignment shifts one step towards the alignment of your bonded creature, until they match.  You first shift along Lawful<->Chaotic axis, and then along Good<->Evil.   
   * *Love of the Wild* - You are most at home in nature and the wild.  Any time you are in the wild and out of sight of any buildings, you gain a +1 to all rolls, AC, and saves.   
@@ -51,7 +51,7 @@ The second time you take this, you may select from the following spell list: Ech
 When using this power, you automatically fail any fortitude save vs intoxication.  
 
 
-***Divine***  
+# ***Divine***  
 * **Dragonsoul** Few think of dragons as divine beings, as they predate the existence of actual gods.  However, those that study magic at a primal level agree that dragons and the creatures of the heavens and hells are nearly identicle in nature.
   * *Astral Bond* - Your birth was blessed by an ancient astral dragon.  You possess a strong connection to the astral plane and may slip into it more easily.  A number of times per day equal to 2 times the number of ranks you have in Astral Bond, you may step into the astral plane as a standard action.  Once there, you may cast teleport any distance as a move action.  Leaving the astral plane is a free action.  If this is taken 3 times, stepping into the astral plane is a swift action and may be done three times per day per rank in astral bond.
   * *Dreambound* - You were born under the blessed influence of the dream dragons.  You are immune to dream, nightmare and similiar spells.  In addition, you can cast dream travel a number of times per day equal to your ranks in Dreambound.
@@ -95,7 +95,7 @@ If you take this trait three times, you also gain any spell like abilities posse
 If you take this trait at least three times, you elevate from the ranks of heroes and aspire to join the ranks to true divinity.
 You gain a cult of worshipers. This functions as the Leadership feat, except that all your followers are adepts, clerics, druids, or other classes that gain access to divine spells, and your cohort is your high priest. You may use sending (as the spell) a number of times per day equal to 1 + your Wisdom bonus (minimum 1) to contact any of your followers or cohort. Clerics that worship you may access the three domains associated with your lineage domain ability  
 
-***Nature***
+# ***Nature***
 * **Stonebound**  You feel most at home in the moutains and deep caves of the world.  You have learned to listen to the ground and hear things others are unaware of.
 You gain tremorsense equal to 10 feet per rank of stonebound.  In addition, you gain blind sense for targets within 5 feet per rank of stonebound of your tremorsense range.
 If you take three ranks of earthbound, you gain the ability to glide through the earth like a fish in water.  You gain a burrow speed equal to half your normal speed plus 5 feet per rank in earthbound.  In addition, you are immune to petrification.  
