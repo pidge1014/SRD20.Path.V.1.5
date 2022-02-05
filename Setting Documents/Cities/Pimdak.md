@@ -33,14 +33,14 @@ This school continues to teach willing students who desire to defend the townshi
 
 Graduates of the Great Plateau are terrifying in battle, as they often leave their enemies armor and weapons in as many pieces as their opponents.
 
-**Requirements:**
-Strength 20
-The techniques of the defenders of the great plateau are not for sale and one must prove they are an ally to their Clan.
-**Alignment:**  Any
-**Hit Dice:** d10
-**Proficiency:** none
-**Added Class skills:**
-**Skill Ranks per Level**: 8 + [Int] modifier.
+**Requirements:**  
+Strength 20  
+The techniques of the defenders of the great plateau are not for sale and one must prove they are an ally to their Clan.  
+**Alignment:**  Any  
+**Hit Dice:** d10  
+**Proficiency:** none  
+**Added Class skills:**  
+**Skill Ranks per Level**: 8 + [Int] modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
