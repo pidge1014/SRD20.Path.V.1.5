@@ -6,14 +6,14 @@ While every town has a volunteer fire brigade, the administrators of Darktown th
 
 At the time of their creation, the town had a population of 600 and the firebrigadiers were not specialized.  The town is now 23,000+ residents large, and the organization is large enough to be slightly more specializated than before, although they do all still carry ladders.
 
-**Darktown Firebrigadier**
-**Requirements:**
-Rather than create a code of ethics or lengthy set of rules for their civil servants, the administrators simply employed clerics to hire good people and trust they will get things right.
-**Alignment:**  Any Good
-**Hit Dice:** d10
-**Proficiency:** gnome war ladder
-**Added Class skills:** Diplomacy, Climb, Appraise
-**Skill Ranks per Level**: 8 + [Int](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-)** modifier.
+**Darktown Firebrigadier**  
+**Requirements:**  
+Rather than create a code of ethics or lengthy set of rules for their civil servants, the administrators simply employed clerics to hire good people and trust they will get things right.  
+**Alignment:**  Any Good  
+**Hit Dice:** d10  
+**Proficiency:** gnome war ladder  
+**Added Class skills:** Diplomacy, Climb, Appraise  
+**Skill Ranks per Level**: 8 + Int modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
@@ -42,12 +42,12 @@ You may make an attack with your ladder while standing on it, but doing causes y
 
 **Extender:**  As a senior member of the defense force, you have been granted an engineering marvel, an extending ladder.   As a move action, your 4 foot ladder can be extended into an 7.5 foot ladder.
 
-`	`While using it as a 4 foot ladder, it is much heavier than your prior ladder, and therefor uses a damage dice one size higher than normal.
+While using it as a 4 foot ladder, it is much heavier than your prior ladder, and therefor uses a damage dice one size higher than normal.
 
-`	`While using the extended version, the weapon's base reach becomes 10ft, and acrobatic climb allows you to act as though you were up to 10 feet above you.  It is also possible to preform a trapping strike with reach, likely preventing your opponent from being in reach to attack back.
+While using the extended version, the weapon's base reach becomes 10ft, and acrobatic climb allows you to act as though you were up to 10 feet above you.  It is also possible to preform a trapping strike with reach, likely preventing your opponent from being in reach to attack back.
 
 In addition, you are treated as having the greater two weapon fighting feat while using a battle ladder.
 
 **Masonry:**  As your years of service in the guard have added up, so has your experience repairing and maintaining the town walls.  So much so that you have become adept at spotting weakness in stone walls, natural or otherwise.
 
-`	`While making a full attack next to a natural or artificial stone wall, you may choose to help break loose a few stones with each strike.  Doing so incurs a -2 penalty to the attack roll, but causes an additional 1d8 bludgeoning damage on hit.
+While making a full attack next to a natural or artificial stone wall, you may choose to help break loose a few stones with each strike.  Doing so incurs a -2 penalty to the attack roll, but causes an additional 1d8 bludgeoning damage on hit.
