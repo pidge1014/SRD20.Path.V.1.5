@@ -1,8 +1,8 @@
 The town of Sunland is officially run by a group of elected administrators, but the day to day reality is largely defined by several large organizations. Two of the largest, The Traders Guild and the Mages Guild, both have large membership, but they are both mainly controlled by 3 wealthy families.
 
-The town itself has close trade ties to the city of Leaflower Haven, accross the bay, and with the halfling civilization in Berrydew.
-
 The heads of these families joined together centuries ago to form a secret society with the ultimate goal of taking control of the town.  In pursuit of this goal, they created several independant organizations of assassins.  Over the centuries, these assassins guilds have been taken down by the local authorities if they gain too much power, but a new one will inevitably rise and replace it.   In many ways, the families have succeeded, but their ascent was full of betrayals and assassinations.
+
+The town itself has close trade ties to the city of Leaflower Haven, accross the bay, and with the halfling civilization in Berrydew.
 
 If one knows where to look, and they can contact one of these assassin groups.  Taking a contract is always optional, and the training is free.
 
