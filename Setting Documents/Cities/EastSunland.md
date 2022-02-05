@@ -6,13 +6,13 @@ The heads of these families joined together centuries ago to form a secret socie
 
 If one knows where to look, and they can contact one of these assassin groups.  Taking a contract is always optional, and the training is free.
 
-***Guild Assassin***
-**Requirement:** Min Dexterity 17
-**Alignment:**  Any non lawful
-**Hit Dice:** d10
-**Proficiency:** none
-**Added Class skills:** Climb, Bluff, Stealth, Acrobatics
-**Skill Ranks per Level**: 6 + [Int]** modifier.
+***Guild Assassin***  
+**Requirement:** Min Dexterity 17  
+**Alignment:**  Any non lawful  
+**Hit Dice:** d10  
+**Proficiency:** none  
+**Added Class skills:** Climb, Bluff, Stealth, Acrobatics  
+**Skill Ranks per Level**: 6 + [Int] modifier.  
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
