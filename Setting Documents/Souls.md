@@ -64,14 +64,14 @@ If you take this trait three times you can control any fire spell cast within 20
 * **Servant of the Deep**  You have formed a connection with an unspeakable horror of the deep ocean.  Rarely is a child cursed enough to be born with a connection to a deep one, and only the very foolish seek one out.
   * *Forbidden Knowledge* You have learned incredible things in your study and while you can't explain it, you have memories that seem foreign to you. You may gain any feat for which you do not meet one per rank of forbidden knowledge prerequisite, but meet all others.
 As your knowledge grows with the unexplained, you can feel it beginning to break your mind apart. Each time you gain a rank in forbidden knowledge, roll a d100 against the below table and gain that disability permanently.  This can be removed via the normal magical means, but any forbidden knowledge gained at the same rank as the insanity is lost.  If you receive the same madness twice, the condition intensifies(or happens again, in case of amnesia) and any associated save increases by 2.  
-|**d%**|**Insanity**|
-| :- | :- |
-|1–11|[Amnesia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/amnesia)|
-|12–48|[Mania/Phobia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/mania-phobia)|
-|49–68|[Multiple Personality Disorder](https://www.d20pfsrd.com/gamemastering/afflictions/madness/multiple-personality-disorder)|
-|69–78|[Paranoia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/paranoia)|
-|79–84|[Psychosis](https://www.d20pfsrd.com/gamemastering/afflictions/madness/psychosis)|
-|85–100|[Schizophrenia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/schizophrenia)|
+|**d%**|**Insanity**|  
+| :- | :- |  
+|1–11|[Amnesia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/amnesia)|  
+|12–48|[Mania/Phobia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/mania-phobia)|  
+|49–68|[Multiple Personality Disorder](https://www.d20pfsrd.com/gamemastering/afflictions/madness/multiple-personality-disorder)|  
+|69–78|[Paranoia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/paranoia)|  
+|79–84|[Psychosis](https://www.d20pfsrd.com/gamemastering/afflictions/madness/psychosis)|  
+|85–100|[Schizophrenia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/schizophrenia)|  
 
 * **Demonic Slave**  While many seek to bind a demon into their own service, many are aware that much can be gained if you are willing to bargain a piece of yourself.  
   * *Demon Bound* You have voluntarily bound yourself to a demon.  In exchange for control over your immortal soul, you have been granted a gift of power.  Each time you take this trait, your alignment shifts one step towards chaotic evil.  If it already is chaotic evil, you instead accomplish the second ritual of demon transformation and continue to advance to becoming a demon each time the trait is selected.  
