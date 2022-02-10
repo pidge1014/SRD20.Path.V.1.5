@@ -63,7 +63,7 @@ If you take this trait three times you can control any fire spell cast within 20
 
 * **Servant of the Deep**  You have formed a connection with an unspeakable horror of the deep ocean.  Rarely is a child cursed enough to be born with a connection to a deep one, and only the very foolish seek one out.
   * *Forbidden Knowledge* You have learned incredible things in your study and while you can't explain it, you have memories that seem foreign to you. You may gain any feat for which you do not meet one per rank of forbidden knowledge prerequisite, but meet all others.
-As your knowledge grows with the unexplained, you can feel it beginning to break your mind apart. Each time you gain a rank in forbidden knowledge, roll a d100 against the below table and gain that disability permanently.  This can be removed via the normal magical means, but any forbidden knowledge gained at the same rank as the insanity is lost.  If you receive the same madness twice, the condition intensifies(or happens again, in case of amnesia) and any associated save increases by 2.
+As your knowledge grows with the unexplained, you can feel it beginning to break your mind apart. Each time you gain a rank in forbidden knowledge, roll a d100 against the below table and gain that disability permanently.  This can be removed via the normal magical means, but any forbidden knowledge gained at the same rank as the insanity is lost.  If you receive the same madness twice, the condition intensifies(or happens again, in case of amnesia) and any associated save increases by 2.  
 |**d%**|**Insanity**|
 | :- | :- |
 |1–11|[Amnesia](https://www.d20pfsrd.com/gamemastering/afflictions/madness/amnesia)|
