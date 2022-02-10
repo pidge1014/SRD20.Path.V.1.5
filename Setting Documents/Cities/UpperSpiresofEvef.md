@@ -39,13 +39,14 @@ Ability to cast 2nd level spells (ignore if you are a gnome)
 
 **Weapon and Armor proficiency:**  At 1st level, you gain proficiency with the Gnome Pincher.  You gain no armor proficiency.
 
-**Refined Alloys:**  You may use Craft Alchemy to refine any metal. Doing so with access to a forge requires no roll.  A makeshift campfire can be used for most materials at a DC of 25. The resulting alloy is half the weight and reduces any armor penalties by 1 per armor category.  
+**Refined Alloys:**  You may use Craft Alchemy to refine any metal. Doing so with access to a forge requires no roll.  A makeshift forge can be crafted in around an hour and can be used for most materials at a DC of 25. The resulting alloy is half the weight and reduces any armor penalties by 1 per armor category if crafted into armor.
 
 **Basic Automation:** You have learned to combine basic spells with objects rather then their intended target.  You may cast spells into objects as if they were creatures.  You may do this for any spells you cast that can target creatures, including personal spells.  While the spell is in effect, you have control of any effect as if you were the object.  Many young students are frustrated by the fact they have to make their devices move with their own will, which typically drives them to simplify their designs further.  
 In addition, when imbueing a magical device with a scroll for a spell you do not know, you may use craft: automation with the magical emphasis instead of the normal use magical device skill, at the same DC.  
 
-**Weapons and Such:**  An essential part of the school, due to the cities reliance on cannons to defend itself, you have learned to craft basic firearms and cannons.  For many reasons, your training begins with learning the spell Bullet Ward, at will, with a caster level equal to your hit dice.  When crafting a firearm, you may imbue it with any spell you cast into it which has a cone, line, or a single target(Ie, the spell must be aimed).  
-To determine the effects of the firearm, roll a craft: Firearms (magical):  
+**Weapons and Such:**  An essential part of the school, due to the cities reliance on cannons to defend itself, you have learned to craft basic firearms and cannons.  For many reasons, your training begins with learning the spell Bullet Ward, at will, with a caster level equal to your hit dice.  When crafting a firearm, you may imbue it with any spell you cast into it which has a cone, line, or a single target(Ie, the spell must be aimed).
+The firearm is crafted per a normal craft Firearms roll.
+To determine the effects of the imbued fireamr, select from the following craft: Firearms (magical) options:  
 DC 15 + 5 per spell level creates a firearm with 1 charge per day of the spell cast into it.  
 DC 20 + 10 per spell level creates a firearm with 3 charges per day  
 DC 30 + 15 per spell level creates a firearm that always triggers that spell when fired.  
@@ -55,6 +56,6 @@ Regardless of the exact wording of the spell, the user of the weapon must succee
 
 **Finding your obsession:**  If you spend any time with a gnomish teacher, you will find out quickly what they are obsessed about.  You will also learn they do not really understand how you lack them (assuming you do).  
 What you are driven to craft the most typically guides which guild you are allowed into to study with. You may select one of the following guilds to work with to gain a deeper understanding of your skills:  
-Guild of the Tower: Working with the craftsmen that create the strangely sturdy crooked towers, you have learned to refine metal into much stronger alloys. You may now refine metal to be one quarter its original weight and reduces any armor penalty by 2 per armor category.  
+Guild of the Tower: Working with the craftsmen that create the strangely sturdy crooked towers, you have learned to refine metal into much stronger alloys. You may now refine metal to be one quarter its original weight and reduces any armor penalty by 2 per armor category if crafted into armor.  If crafted into a weapon, that weapon is treated as one step smaller. (2handed->1handed->light)  
 Guild of Tinkerers: While watching a master tinkerer work, you noticed she was using the same scroll of light throughout her work.  Of all their techiniques this seemed the most worth learning.  When using a scroll or spell to imbue an item with a spell, you may roll spellcraft at a DC of 15+5 per spell level to not expend the spell.  
 Guild of Wanderers: Some of the gnomes on this island can think of nothing other than the world beyond.  Through their inginuity, they have created magical items that allow the dwarven ships to sail open seas, but have still yet to master overseas flight.  You have learned to give command of one of your spells to an ally within 30 feet.  Doing this is a standard action.  If you do this for a spell cast on an object, the object also listens to the new controler of the spell and will follow simple commands like a mindless undead.
