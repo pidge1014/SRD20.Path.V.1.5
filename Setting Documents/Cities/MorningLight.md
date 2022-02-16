@@ -1,11 +1,13 @@
 
-The City of Morninglight was founded by the tribes that roamed the wilds for centuries before the fall of the Naga.  Morninglight itself is likely the most in tact Naga city to this day, as it did not fall into ruins, but was conquered by the roaming tribes when they learned of the Naga's struggles against an uprising elsewhere.
+The City of Morninglight was founded by the tribes that roamed the wilds for centuries before the fall of the Naga.  Morninglight itself is likely the most intact Naga city to this day, as it did not fall into ruins, but was conquered by the tribes that roamed these jungles when they learned of the Naga's struggles against an uprising elsewhere.
 
 The City itself has become a massive trading hub, bartering the prizes from their dense forests to the nearby elves and newly established friends from beyond the Scar.
 
-To the North of the planes around the city is the Great Living Forest, known for its mega-fauna.  There are many great species worth hunting, but the tribal hunters of the region have long preferred to track and hunt the great brontotherium, locally known as brontos.
+To the North of the planes around the city is the Great Living Forest, known for its mega-fauna.  There are many great species worth hunting, but the tribal hunters of the region have long preferred to track and hunt the great brontotherium, locally known as brontos.  These beasts are not just eaten, but their massive bones are used in place of wood in both their architecture and vehicles. 
 
-The skin of the local brontos is exceptionally thick, and as a result the preferred method of hunting is using lassos and nets to drive the animals into a prepared pit trap.
+The skin of the local brontos is exceptionally thick, and as a result the preferred method of hunting is using lassos and nets to drive the animals into a prepared pit trap.  The city is a poorly organized sprawl of hand built bone and hide houses.  Far from the chaos of Pimdak, the locals here have a strong sense of honor and law enforment mostly takes care of itself.
+
+However, the city is far from feeling like civilization, so it is little surprise that when the west began to arrive into Flintfall's Splinter few decided to live there despite it being the closest city.  
 
 **Requirement:**   
 BAB: 5  
