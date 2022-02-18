@@ -16,6 +16,16 @@ Also of note, your race comes with a small number of racials and 20 character po
 
 Note: You can play a pathfinder 1.0 class as written, but many do not have features that will scale well if ingrained.  If someone wants to play one of these, thats fine, we may just need to adjust a class feature or add one from an archetype that will scale.
 
+##  Bedrock League
+
+Where you were for most of your life, is up to you.  However, for the past few months you have been taking jobs as a pebble of the Bedrock League in the newly established town of Deepfyord.  Taking jobs to explore and tame this new part of the world.
+The work has paid well, and not been too dangerous for your tastes.  Often, you are only asked to scout a location or research a local topic unknown to the greater world, and then report back.  Perhaps after you have proven yourself longer, the more dangerous tasks will be offered.  But, based on the stories you hear in the pubs at night, you are far better off missing out.
+The Bedrock League was originally formed several years after the scar was born.  Named after the dwarven capitol, they were tasked to find, they were founded by a small group of less than 30 dwarves, on the far Northern edge of Flintfall Mountains.  These dwarves were the sacred guards of a great dwarven treasure, but were now cut off from their other cities, after finding their long underground roads had been consumed and corrupted by darkness.
+Desparate to find their kin, but far too few in number to explore themselves, the dwarves began to use their wealth to hire exploreres and adventurers to seek out their kin.   The work was extremely dangerous, but the pay was more than enough to draw a great deal of attention.
+Large contracts were offered for anyone who could reach the other dwarven cities, and to these dwarf's surpise, the adventurers succeeded.  Often returning not just with news, but escourting the survivors out.  As it turned out, the scar only formed where the Lord of Strength had faithful, and very little were found amoung the dwarves.
+When the old dwarven capitol of Bedrock was finally reached, the organization had grown wealthy and strong enough to not just rescue the inhabitants, but reconnect it with the world.
+Today, there are far more than the Flintfall Dwarves that patronize the brave explorers of the Bedrock League.   The league, however, is typically very careful before taking on and agreeing to do work.  As a junior member, your jobs are often for the league itself, looking into a mission before anyone too vaulable is put at risk.
+
 
 ## Classes summary in the setting  
 * **Fighter** :Fighters are the ultimate martial combatants.  They are the guards of the world and make up the rank and file of any standing army.  They are the best at using weapons to bring death, but at the cost of mobility. Fighters are the only class that does not have any increased action economy and will need help to stay in full attack range.  When there, enemies will disapear quickly.  
