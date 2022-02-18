@@ -2,7 +2,7 @@ Established on the far side of the reminants of the ruined city of Godzer, the t
 
 Most aspects of this city were well planned, partly resulting from the orderly priesthood that still runs most of the city's administration.  However, the actual day to day enforcement of law required a local civilian force, and that required the creation of a school to teach non lethal fighting.
 
-Housed outside the town of Deepfyord, The School for the Gentlemanly Enforcement of Order trains a significant amount of the north coast's elite guards.  The graduates tend to serve as castle guards or personal escorts, as the general patrolmen are not worth the training investment.
+Housed outside the town of Deepfyord, The School for the Gentlemanly Enforcement of Order trains a significant amount of the north coast's elite guards, in addition to the local force.  The graduates tend to serve as castle guards or personal escorts, as the general patrolmen are not worth the training investment for most rulers.
 
 **Deepfyord Guardsman**  
 **Requirement:**  
