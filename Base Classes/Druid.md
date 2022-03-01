@@ -40,6 +40,8 @@ List of companion options here:  <https://www.d20pfsrd.com/classes/core-classes/
 Only animals from the core book,[**PZO1110**](http://www.amazon.com/gp/product/1601251505/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601251505&linkCode=as2&tag=httpwwwd20pfs-20) , are allowed by default.<br/>
 In addition, a druid may not wear unnatural clothing, such as studded  or metal armor.  Doing so will result in all class features failing to function until the offending clothing is removed.
 
+Alternatively, a druid may choose to bond directly to the magic of the world and enhance their arcane prowess greatly.  Instead of recieving an animal companion, each time the druid gains a druid level, she may select one arcane spell from either the wizard or witch spell list and add it to their spell book.  You may add wizard or witch spells to this book like a normal wizard.   In addition, you no longer cast spells like a traditional druid. as your connection to magic is much stronger.  You may spontaneously cast spells from the druid spells you know.  For each spell level you know, you also have one domain spell slot, which can be used to prepare any single arcane spell from your spell book appropriate to that slot
+
 The item can be naturally refined, such as silk, wool, and cotton , but all components must have been part of nature, as per a druid's armor proficiency.  Smelting and distructive processes are forbidden.
 
 **Nature Sense**:A druid gains a +2 bonus on [Knowledge](https://www.d20pfsrd.com/skills/knowledge)** (nature) and [Survival](https://www.d20pfsrd.com/skills/survival)** checks.
