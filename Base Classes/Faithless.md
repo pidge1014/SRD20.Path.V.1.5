@@ -86,7 +86,7 @@ At level 20, once per day, and every 10 levels thereafter, you may cast a conjur
 * **Battlefield Control:**  When using a weapon in the flail group to perform a combat maneuver, you may treat your reach as if it was +5'. In addition, a faithless gains a bonus combat feat that contains the word whip or modifies a combat maneuver.  A  faithless gains an additional feat every three levels thereafter and an additional 5' of reach every 10 levels thereafter.<br/>
 At level 18, you are treated as if you were one size larger for the purposes of combat maneuvers.   This increases by one size category every 12 levels thereafter.
 
-* **Psychic Mastery:**  You have focused on bettering your mind.  You gain at 2nd level and every 2 levels thereafter, you may gain an additional spell known of any level you can cast.  In addition, you gain one meta-magic feat, item creation feat, or spell mastery feat.  You gain an additional feat every 5 levels thereafter.<br/>
+* **Psychic Mastery:**  You have focused on bettering your mind.  At 2nd level and every 2 levels thereafter, you may gain an additional spell known of any level you can cast.  In addition, you gain one meta-magic feat, item creation feat, or spell mastery feat.  You gain an additional feat every 5 levels thereafter.<br/>
 At level 20, your first spell per round does not count towards your penalty to saving throws.  This applies to an additional spell per round every 10 levels thereafter.
 
 **Breathing Exercises (Ex):**  Starting at 3rd level, as a free action, you may enter a meditative combat state.  During the duration, when you take an action that includes making an attack, while unarmed or using a knife or whip, you gain an additional attack against the same target at your highest bonus, but must take a -2 penalty to all attack rolls, as if using the two weapon fighting feat.  <br/>
@@ -96,7 +96,7 @@ At 8th level, you may add a second attack to your full attack, as if you were us
 At 15th level, you may add a third attack to your full attack, as if you were using the greater two weapon fighting feat.
 This meditative state counts as flurry of blows for the purposes of feats
 
-**Ancestors Memory (Ex):** Starting at 5th level, a faithless begins to learn how to tap into the collective memory of their ancestors. You may select two skills and add them as class skills, and proficiency with simple, martial or one exotic weapon.  At 10th level, and every 5 levels thereafter, you may select two more skills to add as class skills and one proficiency.
+**Ancestors Memory (Ex):** Starting at 5th level, a faithless begins to learn how to tap into the collective memory of their ancestors. You may select two skills and add them as class skills, and gain a proficiency with simple, martial or one exotic weapon.  At 10th level, and every 5 levels thereafter, you may select two more skills to add as class skills and one proficiency.
 
 **Improved Pragmatic Combat:**  At 6th level, you gain either the Improved Whip Mastery or Blinded Blade style as a bonus feat.
 
