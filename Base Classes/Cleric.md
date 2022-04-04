@@ -104,6 +104,9 @@ In addition, at level 10 and every 10 levels thereafter, she can select an addit
 
 **Deities of The Continent.** (there are many more, these are here as examples)  Deities are all considered to have any subdomains with their listed domains.
 
+Special rules:
+Adherants to gods with knowledge domains may use intelligence in place of wisdom when casting spells, for all purposes. 
+Adherants to the gods with Charm or Community in their domains may use charisma in place of wisdom when casting spells, for all purposes.
 
 |**Name**|**Favored weapon**|**Alignment**|[**Domains**](https://pathfinderwiki.com/wiki/Domain)|**Unbreakable Tenet**|**Minor Tenets**|
 | :- | :- | :- | :- | :- | :- |
