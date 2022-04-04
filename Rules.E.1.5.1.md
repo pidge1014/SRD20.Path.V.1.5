@@ -64,7 +64,7 @@ SR, All Saves, CMD : apply penalty to all equal to half the party level
 **New/Modified Feats:**
 **Special focus(general), new** : 	**Requirements**: 1 ingrained class feature  
 
-`				`**Benefit:** You may ingrain a class feature from a class you have three 					levels in, but is not a favored class.
+`				`**Benefit:** You may ingrain a class feature from a class you have three levels in, even if it is not a favored class.
 
 **All feats that require BAB** : Character level may be used in place of base attack bonus for the purposes of qualifying for feats.
 
