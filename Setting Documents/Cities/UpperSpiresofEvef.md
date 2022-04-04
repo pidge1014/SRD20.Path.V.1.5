@@ -50,7 +50,8 @@ To determine the effects of the imbued fireamr, select from the following craft:
 DC 15 + 5 per spell level creates a firearm with 1 charge per day of the spell cast into it.  
 DC 20 + 10 per spell level creates a firearm with 3 charges per day  
 DC 30 + 15 per spell level creates a firearm that always triggers that spell when fired.  
-Regardless of the exact wording of the spell, the user of the weapon must succeed at a ranged touch attack with the weapon for the spell to directly hit, GM descretion on where and how the spell triggers on a miss.  
+Regardless of the exact wording of the spell, the user of the weapon must succeed at a ranged touch attack with the weapon for the spell to directly hit, GM descretion on where and how the spell triggers on a miss.
+The spell casting level for this spell is always equal to the activators caster level, and the DC is based on the ability score used to cast this spell into the object.  If the user is a gnome, they may substitute their character level for their caster level if they wish.
 
 **Advanced Automation:** Objects that have been given a spell can now follow extremely simple commands, as though they were mindless undead. You may communicate telepathically or vocally, the object understands your will.
 
