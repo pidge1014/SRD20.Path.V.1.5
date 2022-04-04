@@ -20,7 +20,7 @@ If you are an aspiring crafter and friend of the city who can put up with gnomis
 **Artificer of the Upper Spire**
 **Requirements:**  
 Wisdom 14 (ignore if you are a gnome)  
-Intelligence 18  
+Intelligence 18  (ignore if you are a gnome)
 Ability to cast 2nd level spells (ignore if you are a gnome)  
 **Alignment:**  Any, but acts of evil commited in Evef or known by them will disqualify you  
 **Hit Dice:** d10  
