@@ -55,6 +55,8 @@ The effect lasts for 1 hour per druid level, or until she changes back. Changing
 A druid loses her ability to speak while in [animal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)<br/>
 A druid can use this ability an additional time per day at 6th level and every two levels thereafter<br/>
 At 7th level, a druid may shapeshift into an animal one step different from its own and the version of beast and plant shape increase by one.  Both of these again increase by one at 13th level and every three levels thereafter.  
+In addition, the druid spellcasting tradition focuses on body agnostic somatic components for their spells, such that they can be replicated in any form.  Regardless of your physical form, you are able to complete the somatic components of your spells.
+
 
 **Resist Nature's Lure:**  At 5th level, a druid gains a +3 bonus vs spells and spell like abilities cast by creatures of the fey sub-type.  This bonus also applies to all spells that target plants, such as entangle.  This increases by +3 every 6 levels thereafter.  
 
