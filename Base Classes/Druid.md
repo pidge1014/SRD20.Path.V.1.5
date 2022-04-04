@@ -31,7 +31,7 @@ The druid’s class skills are [Climb](https://www.d20pfsrd.com/skills/climb) ([
 
 ## Class Features
 
-**Nature Bond:** At first level, a druid makes a bond with nature.  This may take one of two forms.  
+**Nature Bond:** At first level, a druid makes a bond with nature.  This may take one of three forms.  
 The first is a close tie to the natural world, granting the druid one of the following cleric domains: Air, Earth, Fire, Plant, Water, or Weather. Druids also have access to a set Terrain Domains. When determining the powers and bonus spells granted by this domain, the druid’s effective cleric level is equal to her druid level. A druid that selects this option also receives additional domain spell slots, just like a cleric. She must prepare the spell from her domain in this slot and this spell cannot be used to cast a spell spontaneously.
 In addition, she gains a familiar associated with one of the domains selected.  The familiar may possess the elemental familiar archetype.
 
@@ -69,7 +69,7 @@ A druid cannot be raised from the [**dead**](https://www.d20pfsrd.com/gamemaster
 * **Animal Sanctuary:** For you, one companion was not enough.  At 8th level, you gain a second animal companion.  This companion begins at your animal companion's current level -3.  If you did not already have an animal companion, it instead begins at your druid level -3.  Any time you gain a level in a class other than druid that gives a level to your animal companion, it only applies to one of your animal companions.
 * **Master of Shapes:** At 8th level, using your wild shape power is now a free action.  In addition, you may now use wild shape to transform into a magical beast.
 
-**Living speech:**  A druid is capable of communicating with any living creature, up to the limits of the creatures intelligence.  This functions as true speech, but for living creatures only.
+**Living speech:**  A druid is capable of communicating with any living creature, up to the limits of the creatures intelligence.  This functions as true speech, but for living creatures only.  This true speech functions in any form and may be used to cast spells.
 
 **Master of Shapes:** At 10th level, she has become a master of shapeshifting.   When using wildshape, you still gain the attribute bonuses associated with your size change, but none of the other benefits of beast form 1 as you now gain more of the creatures base powers.  Wildshape is alterted in the following ways:
 *  You may take the form of any animal whose CR is lower than your total hit dice.
