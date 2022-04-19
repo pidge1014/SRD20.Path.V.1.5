@@ -31,7 +31,7 @@ Ability to cast 2nd level spells (ignore if you are a gnome)
 
 |**Level**|**BAB**|**Fort**|**Ref**|**Will**|**Special**|
 | :- | :- | :- | :- | :- | :- |
-|1st|0|+0|+2|+0|Refined Alloys|
+|1st|0|+0|+2|+0|Refined Alloys, Weapon Maintenence|
 |2nd|0|+0|+3|+0|Basic Automation|
 |3rd|1|+1|+3|+1|Weapons and Such|
 |4th|1|+1|+4|+1|Advanced Automation|
@@ -41,17 +41,31 @@ Ability to cast 2nd level spells (ignore if you are a gnome)
 
 **Refined Alloys:**  You may use Craft Alchemy to refine any metal. Doing so with access to a forge requires no roll.  A makeshift forge can be crafted in around an hour and can be used for most materials at a DC of 25. The resulting alloy is half the weight and reduces any armor penalties by 1 per armor category if crafted into armor.
 
+**Weapon Maintenence:**  The craftman of the island are in charge of maintaining the islands defensive operations, which is work that ultimately falls the newest of apprentinces.
+The artificer gains the Gunsmithing feat and a battered gun that is identical to the gun a Gunslinger gains at first level. Like a Gunslinger, an artificer can use the Gunsmithing feat to restore his battered gun.
+
 **Basic Automation:** You have learned to combine basic spells with objects rather then their intended target.  You may cast spells into objects as if they were creatures.  You may do this for any spells you cast that can target creatures, including personal spells.  While the spell is in effect, you have control of any effect as if you were the object.  Many young students are frustrated by the fact they have to make their devices move with their own will, which typically drives them to simplify their designs further.  
 In addition, when imbueing a magical device with a scroll for a spell you do not know, you may use craft: automation with the magical emphasis instead of the normal use magical device skill, at the same DC.  
 
-**Weapons and Such:**  An essential part of the school, due to the cities reliance on cannons to defend itself, you have learned to craft basic firearms and cannons.  For many reasons, your training begins with learning the spell Bullet Ward, at will, with a caster level equal to your hit dice.  When crafting a firearm, you may imbue it with any spell you cast into it which has a cone, line, or a single target(Ie, the spell must be aimed).
-The firearm is crafted per a normal craft Firearms roll.
+**Weapons and Such:**  An essential part of the school, due to the cities reliance on cannons to defend itself, you have learned to craft basic firearms and cannons, as well as turn them into arcane guns.  
+For many reasons, your training begins with learning the spell Bullet Ward, at will, with a caster level equal to your hit dice.  
+Arcane guns are normal one-handed or two-handed firearms in the hands of others, as they were normal firearms before the spellslinger imbued them with magic. In a user’s hands, they both fire projectiles (bullets and pellets) and cast magic.  
+When crafting a firearm, you may imbue it with any spell you cast into it which has a ray, cone, line, or a single target(Ie, the spell must be aimed).  Melee touch spell can often be appropriate, but cant be triggered without a bullet.  
+When activating the arcane gun, the weilder can choose to activate it as a magic item, such as a wand.  
+Alternatively, the user may choose to fire the arcane gun and deliver the spell through the bullet.  If they choose to do this, they may add the gun’s enhancement bonus (if any) is a bonus to the attack roll or to the spell’s saving throw DCs.  This functions like a magus's spellstrike, in that the weapon's crit range is used and the bullet's damage is dealt.  
+Yet there are dangers inherent to this method. If any of the spells’ attack rolls result in a natural 1 (a misfire), the arcane gun gains the broken condition. If the arcane gun already has the broken condition, the gun explodes.  
+This functions like a magus's spellstrike, in that the weapon's crit range is used and the bullet's damage is dealt.  
+When a gun explodes, it lets loose a blast of force, or if the spell has the acid, cold, electricity, or sonic descriptor, it deals that type of energy damage instead. In the case of spells with multiple descriptors, roll randomly among the descriptors to determine the type of damage dealt by the blast. The blast is centered on a single intersection within the spellslinger’s space (spellslinger’s choice) and deals 1d6 points of the appropriate energy damage or force damage per level of the spell cast. Any creature within the blast other than the spellslinger can make a Reflex saving throw to halve the damage. The Reflex save DC is calculated using the spell level of the spell being sacrificed.  The radius of the blast is 5 ft for every 2 spell levels of the spell.  
+The firearm is otherwise crafted per a normal craft Firearms roll.  
+
 To determine the effects of the imbued fireamr, select from the following craft: Firearms (magical) options:  
 DC 15 + 5 per spell level creates a firearm with 1 charge per day of the spell cast into it.  
 DC 20 + 10 per spell level creates a firearm with 3 charges per day  
 DC 30 + 15 per spell level creates a firearm that always triggers that spell when fired.  
-Regardless of the exact wording of the spell, the user of the weapon must succeed at a ranged touch attack with the weapon for the spell to directly hit, GM descretion on where and how the spell triggers on a miss.
+Regardless of the exact wording of the spell, the user of the weapon must succeed at a ranged touch attack with the weapon for the spell to directly hit, GM descretion on where and how the spell triggers on a miss.  The player can always choose to target a square at AC 5.  
+
 The spell casting level for this spell is always equal to the activators caster level, and the DC is based on the ability score used to cast this spell into the object.  If the user is a gnome, they may substitute their character level for their caster level if they wish.
+
 
 **Advanced Automation:** Objects that have been given a spell can now follow extremely simple commands, as though they were mindless undead. You may communicate telepathically or vocally, the object understands your will.
 
